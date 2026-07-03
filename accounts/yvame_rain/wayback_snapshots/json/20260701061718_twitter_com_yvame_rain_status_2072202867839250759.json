@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2072170851584401554",
+    "created_at": "2026-07-01T06:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072202867839250759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072202867839250759",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072189089638461660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 对，感觉材质用料比这个好多了......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2072170851584401554",
+        "created_at": "2026-07-01T06:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072202867839250759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072202867839250759",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072189089638461660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 对，感觉材质用料比这个好多了......."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2072170851584401554",
+        "created_at": "2026-07-01T05:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072189089638461660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072189089638461660",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072170851584401554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 哪怕尼克尼蔻家也才300"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 98,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "我叫Cathy/凯茜/小茜\n备用号@Cathylp1984\n发吃的@chihuoxiaoqian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Cathylp1984"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "chihuoxiaoqian"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "布洛芬重度依赖",
+        "pinned_tweet_id": "2054898564535595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5049,
+          "following_count": 1436,
+          "like_count": 171460,
+          "listed_count": 56,
+          "media_count": 6162,
+          "tweet_count": 66643
+        },
+        "url": "",
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

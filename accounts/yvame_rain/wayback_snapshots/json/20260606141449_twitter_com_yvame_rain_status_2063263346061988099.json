@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063229127289938330",
+    "created_at": "2026-06-06T14:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063263346061988099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891126678040240131",
+          "start": 0,
+          "username": "xiaotin14066019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063263346061988099",
+    "in_reply_to_user_id": "1891126678040240131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063261083419496803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotin14066019 私我发你宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063229127289938330",
+        "created_at": "2026-06-06T14:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063263346061988099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891126678040240131",
+              "start": 0,
+              "username": "xiaotin14066019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063263346061988099",
+        "in_reply_to_user_id": "1891126678040240131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063261083419496803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotin14066019 私我发你宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891126678040240131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2063229127289938330",
+        "created_at": "2026-06-06T14:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063261083419496803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063261083419496803",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063229127289938330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 我需要抖音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 17,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "yvame_rain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T14:05:25.000Z",
+        "description": "",
+        "id": "1891126678040240131",
+        "name": "TTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046529262002585601/LSF8b4cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 115,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "username": "xiaotin14066019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2067231798925652089",
+    "created_at": "2026-06-17T17:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067299989974606013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799771405669847040",
+          "start": 0,
+          "username": "qqyu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067299989974606013",
+    "in_reply_to_user_id": "1799771405669847040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067266529482383519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqyu666 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2067231798925652089",
+        "created_at": "2026-06-17T17:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067299989974606013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799771405669847040",
+              "start": 0,
+              "username": "qqyu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067299989974606013",
+        "in_reply_to_user_id": "1799771405669847040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266529482383519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqyu666 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799771405669847040",
+        "conversation_id": "2067231798925652089",
+        "created_at": "2026-06-17T15:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067266529482383519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067266529482383519",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231798925652089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 可爱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 76,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "关注qq雨喵 关注qq雨谢谢喵",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2033898182057558388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064768209715359744/IoiOJBOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 95,
+          "like_count": 7847,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 3186
+        },
+        "username": "qqyu666",
+        "verified": false
+      }
+    ]
+  }
+}

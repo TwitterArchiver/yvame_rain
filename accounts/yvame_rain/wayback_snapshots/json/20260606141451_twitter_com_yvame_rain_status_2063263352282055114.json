@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063263312079646720"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063263352282055114",
+    "created_at": "2026-06-06T14:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063263352282055114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yW0kQkGtI7",
+          "end": 34,
+          "expanded_url": "https://x.com/yvame_rain/status/2063263352282055114/video/1",
+          "media_key": "7_2063263312079646720",
+          "start": 11,
+          "url": "https://t.co/yW0kQkGtI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063263352282055114",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Larry..... https://t.co/yW0kQkGtI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11377,
+        "height": 1280,
+        "media_key": "7_2063263312079646720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063263312079646720/pu/img/yasm_yDo49f5yb2t.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063263312079646720/pu/vid/avc1/320x568/c1WYlPuodmp0m6oo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063263312079646720/pu/vid/avc1/480x852/NeydEthBQM-hF2N-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063263312079646720/pu/vid/avc1/720x1280/UXVDCYFk5rXGa74H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063263312079646720/pu/pl/xU4TfVzgDqSJoinX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063263312079646720"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063263352282055114",
+        "created_at": "2026-06-06T14:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063263352282055114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yW0kQkGtI7",
+              "end": 34,
+              "expanded_url": "https://x.com/yvame_rain/status/2063263352282055114/video/1",
+              "media_key": "7_2063263312079646720",
+              "start": 11,
+              "url": "https://t.co/yW0kQkGtI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063263352282055114",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Larry..... https://t.co/yW0kQkGtI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 17,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "yvame_rain",
+        "verified": false
+      }
+    ]
+  }
+}

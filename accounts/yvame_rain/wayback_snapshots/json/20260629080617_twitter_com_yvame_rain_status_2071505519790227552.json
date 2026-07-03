@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071505506473271296"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2071505519790227552",
+    "created_at": "2026-06-29T08:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071505519790227552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wgp0mz9rV2",
+          "end": 45,
+          "expanded_url": "https://x.com/yvame_rain/status/2071505519790227552/photo/1",
+          "media_key": "3_2071505506473271296",
+          "start": 22,
+          "url": "https://t.co/wgp0mz9rV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071505519790227552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人有病是吧，一直说我不是本人，故意找我茬 https://t.co/wgp0mz9rV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071505506473271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL93SGea4AA0YV4.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071505506473271296"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2071505519790227552",
+        "created_at": "2026-06-29T08:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071505519790227552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgp0mz9rV2",
+              "end": 45,
+              "expanded_url": "https://x.com/yvame_rain/status/2071505519790227552/photo/1",
+              "media_key": "3_2071505506473271296",
+              "start": 22,
+              "url": "https://t.co/wgp0mz9rV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071505519790227552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人有病是吧，一直说我不是本人，故意找我茬 https://t.co/wgp0mz9rV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 97,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

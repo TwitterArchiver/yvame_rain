@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070801539737034752",
+        "3_2070801539753709568"
+      ],
+      "media_source_tweet_id": [
+        "2070801623354581353",
+        "2070801623354581353"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2070813512025436438",
+    "created_at": "2026-06-27T10:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070813512025436438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 14,
+          "tag": "東方Projectㅤㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769193780329304064",
+          "start": 3,
+          "username": "azhe_713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gA6g0mzSEA",
+          "end": 52,
+          "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+          "media_key": "3_2070801539737034752",
+          "start": 29,
+          "url": "https://t.co/gA6g0mzSEA"
+        },
+        {
+          "display_url": "pic.x.com/gA6g0mzSEA",
+          "end": 52,
+          "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+          "media_key": "3_2070801539753709568",
+          "start": 29,
+          "url": "https://t.co/gA6g0mzSEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070813512025436438",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070801623354581353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhe_713: #東方Projectㅤㅤㅤㅤ https://t.co/gA6g0mzSEA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4009,
+        "media_key": "3_2070801539737034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz3B2BboAA1jb7.jpg",
+        "width": 3003
+      },
+      {
+        "height": 4012,
+        "media_key": "3_2070801539753709568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz3B2FaEAAg84Z.jpg",
+        "width": 3012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070801539737034752",
+            "3_2070801539753709568"
+          ],
+          "media_source_tweet_id": [
+            "2070801623354581353",
+            "2070801623354581353"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2070813512025436438",
+        "created_at": "2026-06-27T10:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070813512025436438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "東方Projectㅤㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769193780329304064",
+              "start": 3,
+              "username": "azhe_713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gA6g0mzSEA",
+              "end": 52,
+              "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+              "media_key": "3_2070801539737034752",
+              "start": 29,
+              "url": "https://t.co/gA6g0mzSEA"
+            },
+            {
+              "display_url": "pic.x.com/gA6g0mzSEA",
+              "end": 52,
+              "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+              "media_key": "3_2070801539753709568",
+              "start": 29,
+              "url": "https://t.co/gA6g0mzSEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813512025436438",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070801623354581353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhe_713: #東方Projectㅤㅤㅤㅤ https://t.co/gA6g0mzSEA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070801539737034752",
+            "3_2070801539753709568"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2070801623354581353",
+        "created_at": "2026-06-27T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070801623354581353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "東方Projectㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gA6g0mzSEA",
+              "end": 38,
+              "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+              "media_key": "3_2070801539737034752",
+              "start": 15,
+              "url": "https://t.co/gA6g0mzSEA"
+            },
+            {
+              "display_url": "pic.x.com/gA6g0mzSEA",
+              "end": 38,
+              "expanded_url": "https://x.com/azhe_713/status/2070801623354581353/photo/1",
+              "media_key": "3_2070801539753709568",
+              "start": 15,
+              "url": "https://t.co/gA6g0mzSEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070801623354581353",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 348,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Projectㅤㅤㅤㅤ https://t.co/gA6g0mzSEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 93,
+          "like_count": 661,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2060298369281781766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 67,
+          "like_count": 1089,
+          "listed_count": 10,
+          "media_count": 74,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

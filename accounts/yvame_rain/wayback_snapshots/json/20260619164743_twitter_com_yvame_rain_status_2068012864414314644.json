@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2068012864414314644",
+    "created_at": "2026-06-19T16:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:46:35.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068012579067424914",
+      "2068012696809918751",
+      "2068012864414314644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nikumannbunnka…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Nikumannbunnka/status/2067898464592416891",
+          "start": 30,
+          "url": "https://t.co/hzGjzT1RUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068012864414314644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067898464592416891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在想我要不要到时候去上海自己搭一套女仆装的间宫卓司cos https://t.co/hzGjzT1RUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067898451938164736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmr5NawAAJTxi.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2068012579067424914",
+        "created_at": "2026-06-19T16:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:46:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068012579067424914",
+          "2068012696809918751",
+          "2068012864414314644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nikumannbunnka…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Nikumannbunnka/status/2067898464592416891",
+              "start": 27,
+              "url": "https://t.co/hzGjzT1RUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068012579067424914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898464592416891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想我要不要到时候自己搭一套女仆装cos成间宫卓司 https://t.co/hzGjzT1RUq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2068012696809918751",
+        "created_at": "2026-06-19T16:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:46:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068012579067424914",
+          "2068012696809918751",
+          "2068012864414314644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nikumannbunnka…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Nikumannbunnka/status/2067898464592416891",
+              "start": 30,
+              "url": "https://t.co/hzGjzT1RUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068012696809918751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898464592416891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想我要不要到时候去上海自己搭一套女仆装cos成间宫卓司 https://t.co/hzGjzT1RUq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2068012864414314644",
+        "created_at": "2026-06-19T16:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:46:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068012579067424914",
+          "2068012696809918751",
+          "2068012864414314644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nikumannbunnka…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Nikumannbunnka/status/2067898464592416891",
+              "start": 30,
+              "url": "https://t.co/hzGjzT1RUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068012864414314644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898464592416891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想我要不要到时候去上海自己搭一套女仆装的间宫卓司cos https://t.co/hzGjzT1RUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067898451938164736"
+          ]
+        },
+        "author_id": "1903060182944583686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067898464592416891",
+        "created_at": "2026-06-19T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067898464592416891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaOtnlBzep",
+              "end": 177,
+              "expanded_url": "https://x.com/Nikumannbunnka/status/2067898464592416891/photo/1",
+              "media_key": "3_2067898451938164736",
+              "start": 154,
+              "url": "https://t.co/TaOtnlBzep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898464592416891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "すば日々コラボカフェ　\n新規書き下ろし「メイド　間宮卓司」\n\n『素晴らしき日々 ～不連続存在～』× 肉包文化\n\n本コラボにあたり、肉包文化と Keroq様がタッグを組み、新規書き下ろしイラスト「メイド　間宮卓司」を公開いたします。\n\n開催期間｜2026.7.20 ～ 8.10\n会場｜上海市南京東路800号 第一百貨商業中心 C館 L6\n\nテーマフード、限定グッズ、フォトスポットなどの内容も順次登場予定。\n詳細は後日公開いたしますので、続報をお楽しみに。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 748,
+          "impression_count": 178864,
+          "like_count": 3428,
+          "quote_count": 285,
+          "reply_count": 12,
+          "retweet_count": 845
+        },
+        "reply_settings": "everyone",
+        "text": "すば日々コラボカフェ　\n新規書き下ろし「メイド　間宮卓司」\n\n『素晴らしき日々 ～不連続存在～』× 肉包文化\n\n本コラボにあたり、肉包文化と Keroq様がタッグを組み、新規書き下ろしイラスト「メイド　間宮卓司」を公開いたします。\n\n開催期間｜2026.7.20 ～ 8.10\n会場｜上海市南京東路800号 https://t.co/TaOtnlBzep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 82,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-21T12:26:46.000Z",
+        "description": "日本のアニメ・ゲーム・漫画コンテンツを中国で盛り上げる肉包文化公式アカウントです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikumann.net",
+                "end": 23,
+                "expanded_url": "https://nikumann.net/",
+                "start": 0,
+                "url": "https://t.co/yG6otVduok"
+              }
+            ]
+          }
+        },
+        "id": "1903060182944583686",
+        "location": "Shanghai",
+        "name": "肉包文化",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060582865667313664/qp7-RWNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 18,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/yG6otVduok",
+        "username": "Nikumannbunnka",
+        "verified": true
+      }
+    ]
+  }
+}

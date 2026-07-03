@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063568121777295360",
+        "3_2063568121978560513"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063568124612661287",
+    "created_at": "2026-06-07T10:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063568124612661287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cb0ar7QnkM",
+          "end": 115,
+          "expanded_url": "https://x.com/yvame_rain/status/2063568124612661287/photo/1",
+          "media_key": "3_2063568121777295360",
+          "start": 92,
+          "url": "https://t.co/Cb0ar7QnkM"
+        },
+        {
+          "display_url": "pic.x.com/Cb0ar7QnkM",
+          "end": 115,
+          "expanded_url": "https://x.com/yvame_rain/status/2063568124612661287/photo/1",
+          "media_key": "3_2063568121978560513",
+          "start": 92,
+          "url": "https://t.co/Cb0ar7QnkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568124612661287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我用我最后的力量，还有卖了好多衣服凑出来的2500的阿福的cos，我之后打算开个认证，就靠这个冲刺回我大号的粉丝量，我这段时间想想办法搞钱，然后弄个好一点的摄影，唉....... https://t.co/Cb0ar7QnkM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063568121777295360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNERgRbEAAzd_L.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063568121978560513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNERhBaIAEVedN.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063568121777295360",
+            "3_2063568121978560513"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063568124612661287",
+        "created_at": "2026-06-07T10:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568124612661287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cb0ar7QnkM",
+              "end": 115,
+              "expanded_url": "https://x.com/yvame_rain/status/2063568124612661287/photo/1",
+              "media_key": "3_2063568121777295360",
+              "start": 92,
+              "url": "https://t.co/Cb0ar7QnkM"
+            },
+            {
+              "display_url": "pic.x.com/Cb0ar7QnkM",
+              "end": 115,
+              "expanded_url": "https://x.com/yvame_rain/status/2063568124612661287/photo/1",
+              "media_key": "3_2063568121978560513",
+              "start": 92,
+              "url": "https://t.co/Cb0ar7QnkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568124612661287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我用我最后的力量，还有卖了好多衣服凑出来的2500的阿福的cos，我之后打算开个认证，就靠这个冲刺回我大号的粉丝量，我这段时间想想办法搞钱，然后弄个好一点的摄影，唉....... https://t.co/Cb0ar7QnkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 39,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "yvame_rain",
+        "verified": false
+      }
+    ]
+  }
+}

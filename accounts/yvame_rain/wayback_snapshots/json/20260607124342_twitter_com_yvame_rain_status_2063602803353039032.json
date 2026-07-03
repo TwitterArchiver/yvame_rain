@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063569652845027338",
+    "created_at": "2026-06-07T12:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063602803353039032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041205107920908288",
+          "start": 0,
+          "username": "yosfl907yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063602803353039032",
+    "in_reply_to_user_id": "2041205107920908288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063601263271702765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yosfl907yu 就是我虽然也是男娘，但是不喜欢这个标签......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063569652845027338",
+        "created_at": "2026-06-07T12:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063602803353039032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041205107920908288",
+              "start": 0,
+              "username": "yosfl907yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063602803353039032",
+        "in_reply_to_user_id": "2041205107920908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063601263271702765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yosfl907yu 就是我虽然也是男娘，但是不喜欢这个标签......."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041205107920908288",
+        "conversation_id": "2063569652845027338",
+        "created_at": "2026-06-07T12:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063601263271702765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063601263271702765",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063569652845027338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 还是要洁身自好得好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 44,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T17:24:22.000Z",
+        "description": "你好呀，你可以叫我小雨也可以叫我梦断，平时会发一些碎碎念，身体和精神上都有些问题，但是在积极生活呢，欢迎大家和我互fo喔",
+        "id": "2041205107920908288",
+        "name": "yosfl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062259928111394816/4ng51Kt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 37,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 323
+        },
+        "username": "yosfl907yu",
+        "verified": false
+      }
+    ]
+  }
+}

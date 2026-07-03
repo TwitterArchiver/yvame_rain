@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063577792906940487",
+    "created_at": "2026-06-07T15:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063648053379432522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754580544640495616",
+          "start": 0,
+          "username": "ZoeChu1315560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063648053379432522",
+    "in_reply_to_user_id": "1754580544640495616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063611768652562771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZoeChu1315560 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T15:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063648053379432522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754580544640495616",
+              "start": 0,
+              "username": "ZoeChu1315560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063648053379432522",
+        "in_reply_to_user_id": "1754580544640495616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063611768652562771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZoeChu1315560 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754580544640495616",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T13:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063611768652562771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063611768652562771",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577792906940487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 如此🤗美丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关////cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 46,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T18:59:43.000Z",
+        "description": "19岁苦逼在读男娘一枚/不键政/完全包茎大唧唧日常戴锁/赛博露阴癖/腿控足控丝袜控/仅欢迎有礼貌的私信/有原味等业务（抱歉我真的很需要钱钱/欢迎扩列但是社交平台玩得很烂提前致歉/当朋友圈玩发发牢骚和日常啦",
+        "id": "1754580544640495616",
+        "name": "檀木香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062713060796850176/twojVJq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 375,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 240
+        },
+        "username": "ZoeChu1315560",
+        "verified": false
+      }
+    ]
+  }
+}

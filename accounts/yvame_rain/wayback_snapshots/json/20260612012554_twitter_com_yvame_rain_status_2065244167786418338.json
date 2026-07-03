@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065244164389011456"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2065244167786418338",
+    "created_at": "2026-06-12T01:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065244167786418338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jELa2A1Djl",
+          "end": 55,
+          "expanded_url": "https://x.com/yvame_rain/status/2065244167786418338/photo/1",
+          "media_key": "3_2065244164389011456",
+          "start": 32,
+          "url": "https://t.co/jELa2A1Djl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065244167786418338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是我的小群\n玩游戏聊天都可以呀\n来点人吧(┯_┯)wwww https://t.co/jELa2A1Djl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065244164389011456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKk4oBjbAAAQPni.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065244164389011456"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2065244167786418338",
+        "created_at": "2026-06-12T01:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065244167786418338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jELa2A1Djl",
+              "end": 55,
+              "expanded_url": "https://x.com/yvame_rain/status/2065244167786418338/photo/1",
+              "media_key": "3_2065244164389011456",
+              "start": 32,
+              "url": "https://t.co/jELa2A1Djl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065244167786418338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是我的小群\n玩游戏聊天都可以呀\n来点人吧(┯_┯)wwww https://t.co/jELa2A1Djl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 59,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

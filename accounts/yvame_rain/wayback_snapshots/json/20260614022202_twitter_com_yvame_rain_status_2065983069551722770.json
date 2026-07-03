@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065968236970315776"
+      ],
+      "media_source_tweet_id": [
+        "2065968244146770170"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2065983069551722770",
+    "created_at": "2026-06-14T02:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065983069551722770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544961662679060480",
+          "start": 3,
+          "username": "Janejianzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zy68DUZCCk",
+          "end": 40,
+          "expanded_url": "https://x.com/Janejianzhu/status/2065968244146770170/photo/1",
+          "media_key": "3_2065968236970315776",
+          "start": 17,
+          "url": "https://t.co/Zy68DUZCCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065983069551722770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065968244146770170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Janejianzhu: https://t.co/Zy68DUZCCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065968236970315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvLKmHbEAAU4nM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065968236970315776"
+          ],
+          "media_source_tweet_id": [
+            "2065968244146770170"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2065983069551722770",
+        "created_at": "2026-06-14T02:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065983069551722770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544961662679060480",
+              "start": 3,
+              "username": "Janejianzhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zy68DUZCCk",
+              "end": 40,
+              "expanded_url": "https://x.com/Janejianzhu/status/2065968244146770170/photo/1",
+              "media_key": "3_2065968236970315776",
+              "start": 17,
+              "url": "https://t.co/Zy68DUZCCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065983069551722770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065968244146770170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Janejianzhu: https://t.co/Zy68DUZCCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065968236970315776"
+          ]
+        },
+        "author_id": "1544961662679060480",
+        "conversation_id": "2065968244146770170",
+        "created_at": "2026-06-14T01:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065968244146770170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zy68DUZCCk",
+              "end": 23,
+              "expanded_url": "https://x.com/Janejianzhu/status/2065968244146770170/photo/1",
+              "media_key": "3_2065968236970315776",
+              "start": 0,
+              "url": "https://t.co/Zy68DUZCCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065968244146770170",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 392,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zy68DUZCCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//原账号负能量内容与此账号内容无关//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "小雨rain",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065627711763369984/FvefLAVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 69,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 43
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T08:29:25.000Z",
+        "description": "希望大家都能开心呢 (=^▽^=)   \n                                                                                                         喜欢一切可爱的事物 @xiaoyuer_houhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "xiaoyuer_houhou"
+              }
+            ]
+          }
+        },
+        "id": "1544961662679060480",
+        "name": "剪烛",
+        "pinned_tweet_id": "2048695648787350009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828793217183367169/00RObBCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5344,
+          "following_count": 233,
+          "like_count": 5186,
+          "listed_count": 16,
+          "media_count": 40,
+          "tweet_count": 459
+        },
+        "username": "Janejianzhu",
+        "verified": false
+      }
+    ]
+  }
+}

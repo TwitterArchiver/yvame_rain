@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2066781575615013104",
+    "created_at": "2026-06-16T19:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066959449731092526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1473889196511473664",
+          "start": 0,
+          "username": "TAKAYAvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066959449731092526",
+    "in_reply_to_user_id": "1473889196511473664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066781575615013104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKAYAvs 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066781571487809536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6u45TawAAdmPG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2066781575615013104",
+        "created_at": "2026-06-16T19:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066959449731092526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1473889196511473664",
+              "start": 0,
+              "username": "TAKAYAvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066959449731092526",
+        "in_reply_to_user_id": "1473889196511473664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066781575615013104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKAYAvs 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066781571487809536"
+          ]
+        },
+        "author_id": "1473889196511473664",
+        "conversation_id": "2066781575615013104",
+        "created_at": "2026-06-16T07:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066781575615013104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJY7xWQ7kD",
+              "end": 101,
+              "expanded_url": "https://x.com/TAKAYAvs/status/2066781575615013104/photo/1",
+              "media_key": "3_2066781571487809536",
+              "start": 78,
+              "url": "https://t.co/SJY7xWQ7kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066781575615013104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1845,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "フォロワー様なんと3000人になりました！日本人の方だけじゃなく色んな国々の方と繋がれて大変感謝しております、これからもどうぞよろしくお願い申し上げます🙇 https://t.co/SJY7xWQ7kD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065627711763369984/FvefLAVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 77,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 54
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-23T05:32:32.000Z",
+        "description": "札幌の人 漫画、コスプレ、SF、ミステリー、映画が好きな人　呼びタメ大歓迎です😊",
+        "id": "1473889196511473664",
+        "location": "北海道 ",
+        "name": "TAKAYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784420499306725376/DnCYIWcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 3000,
+          "like_count": 266166,
+          "listed_count": 20,
+          "media_count": 179,
+          "tweet_count": 143408
+        },
+        "username": "TAKAYAvs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2069312856403882173",
+    "created_at": "2026-06-23T07:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069321714845249625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "ysawa325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069321714845249625",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069320894913352035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysawa325 武汉的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2069312856403882173",
+        "created_at": "2026-06-23T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069321714845249625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "ysawa325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069321714845249625",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069320894913352035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysawa325 武汉的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2069312856403882173",
+        "created_at": "2026-06-23T07:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069320894913352035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069320894913352035",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069312856403882173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 老大梦乡你到时要去吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 91,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "我没钱，不要在我这里求得金钱。我就一男傻逼。距离他妈是假的。\n🚪34/68/136",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com/zh",
+                "end": 23,
+                "expanded_url": "https://arcaea.lowiro.com/zh",
+                "start": 0,
+                "url": "https://t.co/T15QFpyRbx"
+              }
+            ]
+          }
+        },
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "虚无（渴望被拯救）",
+        "pinned_tweet_id": "2067840611147973042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 558,
+          "like_count": 13837,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 12637
+        },
+        "url": "https://t.co/T15QFpyRbx",
+        "username": "ysawa325",
+        "verified": false
+      }
+    ]
+  }
+}

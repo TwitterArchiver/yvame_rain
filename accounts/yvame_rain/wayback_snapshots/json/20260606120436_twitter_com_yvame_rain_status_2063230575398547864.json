@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063229127289938330",
+    "created_at": "2026-06-06T12:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063230575398547864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054187552265904130",
+          "start": 0,
+          "username": "AiZe18908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063230575398547864",
+    "in_reply_to_user_id": "2054187552265904130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063230002410487931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiZe18908 现在好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063229127289938330",
+        "created_at": "2026-06-06T12:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063230575398547864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054187552265904130",
+              "start": 0,
+              "username": "AiZe18908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230575398547864",
+        "in_reply_to_user_id": "2054187552265904130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063230002410487931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiZe18908 现在好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054187552265904130",
+        "conversation_id": "2063229127289938330",
+        "created_at": "2026-06-06T12:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063230002410487931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063230002410487931",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063229825830342967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 我私信不了😭一直发不出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 15,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "yvame_rain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:11:17.000Z",
+        "description": "会好的",
+        "id": "2054187552265904130",
+        "name": "艾泽特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054187768667090944/8mVz0ia5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 199,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 152
+        },
+        "username": "AiZe18908",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2065850128112722095",
+    "created_at": "2026-06-14T03:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065995980764561640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1771131154214932480",
+          "start": 0,
+          "username": "ace_sana_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065995980764561640",
+    "in_reply_to_user_id": "1771131154214932480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065850128112722095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ace_sana_ 感觉贵公子真的没我帅其实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065850121187938305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtfvWia0AE7zae.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-14T03:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065995980764561640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065995980764561640",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065850128112722095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 感觉贵公子真的没我帅其实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065850121187938305"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-13T17:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065850128112722095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X83BoK9b76",
+              "end": 46,
+              "expanded_url": "https://x.com/ace_sana_/status/2065850128112722095/photo/1",
+              "media_key": "3_2065850121187938305",
+              "start": 23,
+              "url": "https://t.co/X83BoK9b76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065850128112722095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28460,
+          "like_count": 168,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "地雷妹把你那大卧蚕擦擦吧 你哥哥喜欢春雨女大 https://t.co/X83BoK9b76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//原账号负能量内容与此账号内容无关//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "小雨rain",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065627711763369984/FvefLAVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 69,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 198,
+          "like_count": 16220,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

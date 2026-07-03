@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2072170851584401554",
+    "created_at": "2026-07-01T04:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072170851584401554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amiami_english…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/amiami_english/status/2071881439235514566",
+          "start": 24,
+          "url": "https://t.co/SA3ZjVqyLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072170851584401554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071881439235514566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1200买一个不如淘宝200的空之镜的北校校服 https://t.co/SA3ZjVqyLb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2071494966929678336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9tsnnaYAA-qpp.png",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_2071494966904492032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9tsnhaEAAPzBq.png",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_2071494966661332993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9tsmnbwAE6a5A.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2072170851584401554",
+        "created_at": "2026-07-01T04:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072170851584401554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amiami_english…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/amiami_english/status/2071881439235514566",
+              "start": 24,
+              "url": "https://t.co/SA3ZjVqyLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072170851584401554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071881439235514566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1200买一个不如淘宝200的空之镜的北校校服 https://t.co/SA3ZjVqyLb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071494966929678336",
+            "3_2071494966904492032",
+            "3_2071494966661332993"
+          ]
+        },
+        "author_id": "343765161",
+        "conversation_id": "2071881439235514566",
+        "created_at": "2026-06-30T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071881439235514566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 254,
+              "start": 236,
+              "tag": "WonderfulEveryday"
+            },
+            {
+              "end": 271,
+              "start": 255,
+              "tag": "SubarashikiHibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "amiami.com/eng/search/lis…",
+              "end": 234,
+              "expanded_url": "https://www.amiami.com/eng/search/list/?s_keywords=Ba_00635&utm_source=twitter_en&utm_medium=social&utm_campaign=twitter",
+              "start": 211,
+              "status": 200,
+              "title": "AmiAmi [Character & Hobby Shop]",
+              "unwound_url": "https://www.amiami.com/eng/search/list/?s_keywords=Ba_00635",
+              "url": "https://t.co/6VNeeBMTFo"
+            },
+            {
+              "display_url": "pic.x.com/0P3SOCv0Dr",
+              "end": 295,
+              "expanded_url": "https://x.com/AmiAmi_English/status/2071881439235514566/photo/1",
+              "media_key": "3_2071494966929678336",
+              "start": 272,
+              "url": "https://t.co/0P3SOCv0Dr"
+            },
+            {
+              "display_url": "pic.x.com/0P3SOCv0Dr",
+              "end": 295,
+              "expanded_url": "https://x.com/AmiAmi_English/status/2071881439235514566/photo/1",
+              "media_key": "3_2071494966904492032",
+              "start": 272,
+              "url": "https://t.co/0P3SOCv0Dr"
+            },
+            {
+              "display_url": "pic.x.com/0P3SOCv0Dr",
+              "end": 295,
+              "expanded_url": "https://x.com/AmiAmi_English/status/2071881439235514566/photo/1",
+              "media_key": "3_2071494966661332993",
+              "start": 272,
+              "url": "https://t.co/0P3SOCv0Dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071881439235514566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 87637,
+          "like_count": 289,
+          "quote_count": 51,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "📢Wonderful Everyday -Diskontinuierliches Dasein- Kitakou Girls' Uniform Sets (S/M/L/XL) from KeroQ &amp; Makura are now available for pre-order!\n\nSample display coming to the AmiAmi booth at AX2026!\n\nOrder here👉https://t.co/6VNeeBMTFo\n\n#WonderfulEveryday #SubarashikiHibi https://t.co/0P3SOCv0Dr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 98,
+          "like_count": 779,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-28T01:42:06.000Z",
+        "description": "Official English X account of https://t.co/subF8nabI8🧡 Please visit our website for any inquiries 🌟Event photos & fun info👉️@AmiAmi_Report",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "AmiAmi_Report"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amiami.com",
+                "end": 53,
+                "expanded_url": "http://amiami.com",
+                "start": 30,
+                "url": "https://t.co/subF8nabI8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiami.com",
+                "end": 23,
+                "expanded_url": "http://www.amiami.com",
+                "start": 0,
+                "url": "https://t.co/9dCVUwcQ3S"
+              }
+            ]
+          }
+        },
+        "id": "343765161",
+        "location": "Tokyo, Japan",
+        "name": "AmiAmi English",
+        "pinned_tweet_id": "2063803371677745546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752617697421246464/S8WldaoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544005,
+          "following_count": 30,
+          "like_count": 12680,
+          "listed_count": 653,
+          "media_count": 36942,
+          "tweet_count": 68164
+        },
+        "url": "https://t.co/9dCVUwcQ3S",
+        "username": "AmiAmi_English",
+        "verified": true
+      }
+    ]
+  }
+}

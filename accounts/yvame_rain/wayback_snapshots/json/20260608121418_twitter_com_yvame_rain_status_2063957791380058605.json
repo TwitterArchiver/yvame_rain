@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063943931411460257",
+    "created_at": "2026-06-08T12:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063957791380058605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617471215001796609",
+          "start": 0,
+          "username": "stuk_randomdude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063957791380058605",
+    "in_reply_to_user_id": "1617471215001796609",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063944799888220196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuk_randomdude 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063943931411460257",
+        "created_at": "2026-06-08T12:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063957791380058605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617471215001796609",
+              "start": 0,
+              "username": "stuk_randomdude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063957791380058605",
+        "in_reply_to_user_id": "1617471215001796609",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063944799888220196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuk_randomdude 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617471215001796609",
+        "conversation_id": "2063943931411460257",
+        "created_at": "2026-06-08T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063944799888220196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944799888220196",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063943931411460257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关////cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 48,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-23T10:36:22.000Z",
+        "description": "正常人盡量不要找我\n這個帳號就只是用作看黃色和玩弄詐騙機器人用\n真的想聊就私聊問我聯繫方式\n如果還看不出來，我是男的",
+        "id": "1617471215001796609",
+        "location": "某處",
+        "name": "Stuk",
+        "pinned_tweet_id": "2061303538568081620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629528544878686212/P4_GDHqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 147,
+          "like_count": 436,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1009
+        },
+        "username": "stuk_randomdude",
+        "verified": false
+      }
+    ]
+  }
+}

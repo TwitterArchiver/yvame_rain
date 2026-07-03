@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068809548446490624"
+      ],
+      "media_source_tweet_id": [
+        "2068809554398265510"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2069326776954995093",
+    "created_at": "2026-06-23T07:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069326776954995093"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "SubaHibi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066251370714251264",
+          "start": 3,
+          "username": "angelrespawn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eO5hP10a3X",
+          "end": 94,
+          "expanded_url": "https://x.com/angelrespawn/status/2068809554398265510/photo/1",
+          "media_key": "3_2068809548446490624",
+          "start": 71,
+          "url": "https://t.co/eO5hP10a3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069326776954995093",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068809554398265510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelrespawn: the sky is full of anxious words\n\n#素晴らしき日々 #SubaHibi https://t.co/eO5hP10a3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2068809548446490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXjUsMW4AAGshM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068809548446490624"
+          ],
+          "media_source_tweet_id": [
+            "2068809554398265510"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2069326776954995093",
+        "created_at": "2026-06-23T07:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069326776954995093"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "SubaHibi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066251370714251264",
+              "start": 3,
+              "username": "angelrespawn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eO5hP10a3X",
+              "end": 94,
+              "expanded_url": "https://x.com/angelrespawn/status/2068809554398265510/photo/1",
+              "media_key": "3_2068809548446490624",
+              "start": 71,
+              "url": "https://t.co/eO5hP10a3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069326776954995093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068809554398265510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelrespawn: the sky is full of anxious words\n\n#素晴らしき日々 #SubaHibi https://t.co/eO5hP10a3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068809548446490624"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "conversation_id": "2068809554398265510",
+        "created_at": "2026-06-21T21:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068809554398265510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "SubaHibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eO5hP10a3X",
+              "end": 76,
+              "expanded_url": "https://x.com/angelrespawn/status/2068809554398265510/photo/1",
+              "media_key": "3_2068809548446490624",
+              "start": 53,
+              "url": "https://t.co/eO5hP10a3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068809554398265510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4351,
+          "like_count": 209,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "the sky is full of anxious words\n\n#素晴らしき日々 #SubaHibi https://t.co/eO5hP10a3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 92,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "total moe takeover 💢 !! 147cm🪽 ♰ @utsugeangel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "utsugeangel"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🇯🇵 🐈‍⬛",
+        "name": "hime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067404219041112064/Twk9_Ifx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 54,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "angelrespawn",
+        "verified": false
+      }
+    ]
+  }
+}

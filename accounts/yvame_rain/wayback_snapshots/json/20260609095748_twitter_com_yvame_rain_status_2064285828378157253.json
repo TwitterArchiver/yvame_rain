@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064278869126074368"
+      ],
+      "media_source_tweet_id": [
+        "2064279342407114936"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2064285828378157253",
+    "created_at": "2026-06-09T09:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064285828378157253"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "东方project"
+        },
+        {
+          "end": 48,
+          "start": 33,
+          "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1174380399088156673",
+          "start": 3,
+          "username": "daserdesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WQ4D0dP60L",
+          "end": 72,
+          "expanded_url": "https://x.com/daserdesu/status/2064279342407114936/photo/1",
+          "media_key": "3_2064278869126074368",
+          "start": 49,
+          "url": "https://t.co/WQ4D0dP60L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064285828378157253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064279342407114936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daserdesu: 東風谷早苗~\n#东方project #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/WQ4D0dP60L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3467,
+        "media_key": "3_2064278869126074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXKscea0AAeKAq.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064278869126074368"
+          ],
+          "media_source_tweet_id": [
+            "2064279342407114936"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2064285828378157253",
+        "created_at": "2026-06-09T09:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064285828378157253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "东方project"
+            },
+            {
+              "end": 48,
+              "start": 33,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1174380399088156673",
+              "start": 3,
+              "username": "daserdesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQ4D0dP60L",
+              "end": 72,
+              "expanded_url": "https://x.com/daserdesu/status/2064279342407114936/photo/1",
+              "media_key": "3_2064278869126074368",
+              "start": 49,
+              "url": "https://t.co/WQ4D0dP60L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064285828378157253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064279342407114936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daserdesu: 東風谷早苗~\n#东方project #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/WQ4D0dP60L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064278869126074368"
+          ]
+        },
+        "author_id": "1174380399088156673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2064279342407114936",
+        "created_at": "2026-06-09T09:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064279342407114936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "东方project"
+            },
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQ4D0dP60L",
+              "end": 57,
+              "expanded_url": "https://x.com/daserdesu/status/2064279342407114936/photo/1",
+              "media_key": "3_2064278869126074368",
+              "start": 34,
+              "url": "https://t.co/WQ4D0dP60L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064279342407114936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "東風谷早苗~\n#东方project #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/WQ4D0dP60L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 53,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-18T17:51:34.000Z",
+        "description": "喜欢cosplay的普通人，有空就会去漫展玩，高P日抛脸，不接推广，可私信投喂，赞助筑波的米会用来购入C服和吃喝w 不互fo 看见喜欢的会关注，来点正常人。 ⭕Coser ⭕唱K ⭕喜欢可爱的事物₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1174380399088156673",
+        "location": "0.9km",
+        "name": "古明地こいし",
+        "pinned_tweet_id": "1984264608602071246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901295009745580032/XiK8_cEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19276,
+          "following_count": 213,
+          "like_count": 11054,
+          "listed_count": 56,
+          "media_count": 331,
+          "tweet_count": 3465
+        },
+        "username": "daserdesu",
+        "verified": false
+      }
+    ]
+  }
+}

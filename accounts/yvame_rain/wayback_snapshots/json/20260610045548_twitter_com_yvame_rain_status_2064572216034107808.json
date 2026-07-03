@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064572209650434048",
+        "3_2064572210266972160"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2064572216034107808",
+    "created_at": "2026-06-10T04:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064572216034107808"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "東方Project"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "魂魄妖夢"
+        },
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nk6O3Ky63V",
+          "end": 49,
+          "expanded_url": "https://x.com/yvame_rain/status/2064572216034107808/photo/1",
+          "media_key": "3_2064572209650434048",
+          "start": 26,
+          "url": "https://t.co/Nk6O3Ky63V"
+        },
+        {
+          "display_url": "pic.x.com/Nk6O3Ky63V",
+          "end": 49,
+          "expanded_url": "https://x.com/yvame_rain/status/2064572216034107808/photo/1",
+          "media_key": "3_2064572210266972160",
+          "start": 26,
+          "url": "https://t.co/Nk6O3Ky63V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064572216034107808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#東方Project #魂魄妖夢 #cosplay https://t.co/Nk6O3Ky63V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2064572209650434048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbVfHFbgAAMPYQ.jpg",
+        "width": 1554
+      },
+      {
+        "height": 838,
+        "media_key": "3_2064572210266972160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbVfJYbIAAJlR3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064572209650434048",
+            "3_2064572210266972160"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2064572216034107808",
+        "created_at": "2026-06-10T04:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064572216034107808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "魂魄妖夢"
+            },
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nk6O3Ky63V",
+              "end": 49,
+              "expanded_url": "https://x.com/yvame_rain/status/2064572216034107808/photo/1",
+              "media_key": "3_2064572209650434048",
+              "start": 26,
+              "url": "https://t.co/Nk6O3Ky63V"
+            },
+            {
+              "display_url": "pic.x.com/Nk6O3Ky63V",
+              "end": 49,
+              "expanded_url": "https://x.com/yvame_rain/status/2064572216034107808/photo/1",
+              "media_key": "3_2064572210266972160",
+              "start": 26,
+              "url": "https://t.co/Nk6O3Ky63V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064572216034107808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project #魂魄妖夢 #cosplay https://t.co/Nk6O3Ky63V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 56,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 30
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

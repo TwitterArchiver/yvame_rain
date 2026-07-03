@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2070140671953125615",
+    "created_at": "2026-06-25T14:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070156494847594721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846739759085113346",
+          "start": 0,
+          "username": "twilightversu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070156494847594721",
+    "in_reply_to_user_id": "1846739759085113346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070140671953125615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilightversu 看起来像我女神🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2070140671953125615",
+        "created_at": "2026-06-25T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070156494847594721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846739759085113346",
+              "start": 0,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070156494847594721",
+        "in_reply_to_user_id": "1846739759085113346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070140671953125615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilightversu 看起来像我女神🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846739759085113346",
+        "conversation_id": "2070140671953125615",
+        "created_at": "2026-06-25T13:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070140671953125615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070140671953125615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看着很像男的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 93,
+          "like_count": 620,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉还高p让让我丨闺闺@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "视觉动物",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538782851907584/a5B4WcgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12530,
+          "following_count": 712,
+          "like_count": 22531,
+          "listed_count": 51,
+          "media_count": 41,
+          "tweet_count": 4963
+        },
+        "url": "",
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}

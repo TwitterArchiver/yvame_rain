@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2071505597061812295",
+    "created_at": "2026-06-30T05:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071831116361978109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057522150681272320",
+          "start": 0,
+          "username": "Yuzuk1QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071831116361978109",
+    "in_reply_to_user_id": "2057522150681272320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071688927287902399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzuk1QwQ 我以为他真的以为我不是本人，然后说我盗图什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2071505597061812295",
+        "created_at": "2026-06-30T05:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071831116361978109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057522150681272320",
+              "start": 0,
+              "username": "Yuzuk1QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071831116361978109",
+        "in_reply_to_user_id": "2057522150681272320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071688927287902399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzuk1QwQ 我以为他真的以为我不是本人，然后说我盗图什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057522150681272320",
+        "conversation_id": "2071505597061812295",
+        "created_at": "2026-06-29T20:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071688927287902399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071688927287902399",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071505597061812295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 这种就是纯傻逼，想找人聊天又不知道怎么找话题，只会说这种没脑子的话想让你多理理他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 98,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T18:01:38.000Z",
+        "description": "08已成年，先看置顶！！！不接线下不接定制不接11,不出原味，只回关注的私信，私信请把要干什么写清楚，看不懂不会回，没回就是在睡觉ᗜωᗜ                                               \n上一世@Yuzuk1UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "Yuzuk1UwU"
+              }
+            ]
+          }
+        },
+        "id": "2057522150681272320",
+        "location": "北京",
+        "name": "游星兔",
+        "pinned_tweet_id": "2067660623249633491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057522429048807424/5f3GQY5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 42,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "Yuzuk1QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

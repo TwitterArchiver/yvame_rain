@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2067589871783588060",
+    "created_at": "2026-06-21T10:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068637019660849439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693652712293085184",
+          "start": 0,
+          "username": "xxmyz543077931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068637019660849439",
+    "in_reply_to_user_id": "1693652712293085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068493356456702143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxmyz543077931 我好久没玩了，宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2067589871783588060",
+        "created_at": "2026-06-21T10:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068637019660849439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693652712293085184",
+              "start": 0,
+              "username": "xxmyz543077931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637019660849439",
+        "in_reply_to_user_id": "1693652712293085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068493356456702143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxmyz543077931 我好久没玩了，宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693652712293085184",
+        "conversation_id": "2067589871783588060",
+        "created_at": "2026-06-21T00:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068493356456702143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068493356456702143",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589871783588060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 老师有没有五宝汇呆，我借来打打狂冠戴冠战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 90,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T15:54:18.000Z",
+        "description": "",
+        "id": "1693652712293085184",
+        "name": "小小摸鱼志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016192678929825794/frU54icQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 94,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "xxmyz543077931",
+        "verified": false
+      }
+    ]
+  }
+}

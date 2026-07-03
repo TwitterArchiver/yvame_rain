@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2069448669204824434",
+    "created_at": "2026-06-23T18:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069493701152481699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068768781913182208",
+          "start": 0,
+          "username": "CIELzzz520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069493701152481699",
+    "in_reply_to_user_id": "2068768781913182208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069448669204824434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CIELzzz520 宝宝，我来支持你了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2069448669204824434",
+        "created_at": "2026-06-23T18:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069493701152481699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068768781913182208",
+              "start": 0,
+              "username": "CIELzzz520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069493701152481699",
+        "in_reply_to_user_id": "2068768781913182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069448669204824434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CIELzzz520 宝宝，我来支持你了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068768781913182208",
+        "conversation_id": "2069448669204824434",
+        "created_at": "2026-06-23T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069448669204824434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069448669204824434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么流量这么低，压根没人给我点赞。同样ip的作品，质量没我好的都有几十几百个赞，我一直都是0个赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 93,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T18:52:35.000Z",
+        "description": "这里是weiran，直接叫蔚然/鲨鲨都可以\n欢迎交友 09女高\n脾气不好 反感我的可以直接删",
+        "id": "2068768781913182208",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "蔚然CIEL",
+        "pinned_tweet_id": "2069028881072541705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068787659024334849/2Kkbdqu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 15,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "CIELzzz520",
+        "verified": false
+      }
+    ]
+  }
+}

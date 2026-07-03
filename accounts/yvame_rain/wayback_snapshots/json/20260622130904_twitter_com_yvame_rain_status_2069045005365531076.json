@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2069028881072541705",
+    "created_at": "2026-06-22T13:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069045005365531076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068768781913182208",
+          "start": 0,
+          "username": "CIELzzz520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069045005365531076",
+    "in_reply_to_user_id": "2068768781913182208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069028881072541705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CIELzzz520 宝宝🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069028875770937344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqzOJaQAADYZg.jpg",
+        "width": 590
+      },
+      {
+        "height": 1449,
+        "media_key": "3_2069028876152619008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqzPkaQAAWMCj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069028877855584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqzV6bcAAJXPW.jpg",
+        "width": 1608
+      },
+      {
+        "height": 1213,
+        "media_key": "3_2069028876400181248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaqzQfbwAAMT7p.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2069028881072541705",
+        "created_at": "2026-06-22T13:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069045005365531076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068768781913182208",
+              "start": 0,
+              "username": "CIELzzz520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069045005365531076",
+        "in_reply_to_user_id": "2068768781913182208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069028881072541705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CIELzzz520 宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069028875770937344",
+            "3_2069028876152619008",
+            "3_2069028877855584256",
+            "3_2069028876400181248"
+          ]
+        },
+        "author_id": "2068768781913182208",
+        "conversation_id": "2069028881072541705",
+        "created_at": "2026-06-22T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069028881072541705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GVm8gNK7g",
+              "end": 71,
+              "expanded_url": "https://x.com/CIELzzz520/status/2069028881072541705/photo/1",
+              "media_key": "3_2069028875770937344",
+              "start": 48,
+              "url": "https://t.co/3GVm8gNK7g"
+            },
+            {
+              "display_url": "pic.x.com/3GVm8gNK7g",
+              "end": 71,
+              "expanded_url": "https://x.com/CIELzzz520/status/2069028881072541705/photo/1",
+              "media_key": "3_2069028876152619008",
+              "start": 48,
+              "url": "https://t.co/3GVm8gNK7g"
+            },
+            {
+              "display_url": "pic.x.com/3GVm8gNK7g",
+              "end": 71,
+              "expanded_url": "https://x.com/CIELzzz520/status/2069028881072541705/photo/1",
+              "media_key": "3_2069028877855584256",
+              "start": 48,
+              "url": "https://t.co/3GVm8gNK7g"
+            },
+            {
+              "display_url": "pic.x.com/3GVm8gNK7g",
+              "end": 71,
+              "expanded_url": "https://x.com/CIELzzz520/status/2069028881072541705/photo/1",
+              "media_key": "3_2069028876400181248",
+              "start": 48,
+              "url": "https://t.co/3GVm8gNK7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028881072541705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是蔚然/鲨鲨\n欢迎扩列和交友\n如果有条件的话可以支持一下\n我会继续努力的，谢谢你们！ https://t.co/3GVm8gNK7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 90,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T18:52:35.000Z",
+        "description": "这里是weiran，直接叫蔚然/鲨鲨都可以\n欢迎交友 09女高\n脾气不好 反感我的可以直接删",
+        "id": "2068768781913182208",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "蔚然CIEL",
+        "pinned_tweet_id": "2069028881072541705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068787659024334849/2Kkbdqu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "CIELzzz520",
+        "verified": false
+      }
+    ]
+  }
+}

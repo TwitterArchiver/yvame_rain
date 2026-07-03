@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063544530444365851",
+    "created_at": "2026-06-07T08:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063545889629880534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "P_chan_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063545889629880534",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063544530444365851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P_chan_neko 阿p，我祝你高考星途璀璨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063544530444365851",
+        "created_at": "2026-06-07T08:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063545889629880534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "P_chan_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063545889629880534",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063544530444365851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P_chan_neko 阿p，我祝你高考星途璀璨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2063544530444365851",
+        "created_at": "2026-06-07T08:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063544530444365851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063544530444365851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们我明天就高考了可以给我一句高考加油吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 38,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "yvame_rain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "我是你最喜欢的「people」兼「producer」阿P！人称P酱！你的赛博饮食起居由我来负责！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "守护最可爱的小天使",
+        "name": "阿P",
+        "pinned_tweet_id": "2062871387375542778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168823256768512/2LSiZGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 191,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "P_chan_neko",
+        "verified": true
+      }
+    ]
+  }
+}

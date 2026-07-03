@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2072402635358142488",
+    "created_at": "2026-07-02T08:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072593108207095984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512558841820442625",
+          "start": 0,
+          "username": "pastelsweeets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072593108207095984",
+    "in_reply_to_user_id": "1512558841820442625",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072402635358142488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@pastelsweeets Me too."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2072402635358142488",
+        "created_at": "2026-07-02T08:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072593108207095984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512558841820442625",
+              "start": 0,
+              "username": "pastelsweeets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072593108207095984",
+        "in_reply_to_user_id": "1512558841820442625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072402635358142488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@pastelsweeets Me too."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512558841820442625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2072402635358142488",
+        "created_at": "2026-07-01T19:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072402635358142488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072402635358142488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "I need a billion dollarsz so i can cosplay all my fav anime girls instead of being broke 24/7🤤🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 99,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T22:32:04.000Z",
+        "description": "i love my cute anime wifes (mainly alya) and husband a whole lot\n@yuri_d4e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "yuri_d4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/yuri_d4e",
+                "end": 23,
+                "expanded_url": "https://guns.lol/yuri_d4e",
+                "start": 0,
+                "url": "https://t.co/KlKvrT97ur"
+              }
+            ]
+          }
+        },
+        "id": "1512558841820442625",
+        "name": "Yuri",
+        "pinned_tweet_id": "2070618542966497461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070284082614038528/h1bJsIoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 84,
+          "like_count": 3701,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/KlKvrT97ur",
+        "username": "pastelsweeets",
+        "verified": false
+      }
+    ]
+  }
+}

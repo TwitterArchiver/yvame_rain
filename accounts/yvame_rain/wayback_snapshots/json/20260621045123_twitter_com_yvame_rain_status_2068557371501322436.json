@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2068538992472244560",
+    "created_at": "2026-06-21T04:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068557371501322436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1630986969928056832",
+          "start": 0,
+          "username": "omangopuuding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068557371501322436",
+    "in_reply_to_user_id": "1630986969928056832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068555810368843805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omangopuuding 宝宝🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2068538992472244560",
+        "created_at": "2026-06-21T04:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068557371501322436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1630986969928056832",
+              "start": 0,
+              "username": "omangopuuding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068557371501322436",
+        "in_reply_to_user_id": "1630986969928056832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068555810368843805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omangopuuding 宝宝🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630986969928056832",
+        "conversation_id": "2068538992472244560",
+        "created_at": "2026-06-21T04:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068555810368843805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068555810368843805",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068538992472244560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 88,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-01T17:43:02.000Z",
+        "description": "陷入发狂时，释放划空癫火",
+        "id": "1630986969928056832",
+        "name": "芒果布丁",
+        "pinned_tweet_id": "2065339468362776899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064936438207299584/dw3NElFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 209,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 714
+        },
+        "url": "",
+        "username": "omangopuuding",
+        "verified": false
+      }
+    ]
+  }
+}

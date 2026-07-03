@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069312853992198144",
+        "3_2069312854126391296"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2069312856403882173",
+    "created_at": "2026-06-23T06:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069312856403882173"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "東方Project"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SjASWMV04J",
+          "end": 34,
+          "expanded_url": "https://x.com/yvame_rain/status/2069312856403882173/photo/1",
+          "media_key": "3_2069312853992198144",
+          "start": 11,
+          "url": "https://t.co/SjASWMV04J"
+        },
+        {
+          "display_url": "pic.x.com/SjASWMV04J",
+          "end": 34,
+          "expanded_url": "https://x.com/yvame_rain/status/2069312856403882173/photo/1",
+          "media_key": "3_2069312854126391296",
+          "start": 11,
+          "url": "https://t.co/SjASWMV04J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069312856403882173",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#東方Project https://t.co/SjASWMV04J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069312853992198144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLetE7da0AAm-Ih.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2069312854126391296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLetE79acAAAMd4.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069312853992198144",
+            "3_2069312854126391296"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2069312856403882173",
+        "created_at": "2026-06-23T06:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069312856403882173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjASWMV04J",
+              "end": 34,
+              "expanded_url": "https://x.com/yvame_rain/status/2069312856403882173/photo/1",
+              "media_key": "3_2069312853992198144",
+              "start": 11,
+              "url": "https://t.co/SjASWMV04J"
+            },
+            {
+              "display_url": "pic.x.com/SjASWMV04J",
+              "end": 34,
+              "expanded_url": "https://x.com/yvame_rain/status/2069312856403882173/photo/1",
+              "media_key": "3_2069312854126391296",
+              "start": 11,
+              "url": "https://t.co/SjASWMV04J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069312856403882173",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project https://t.co/SjASWMV04J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 91,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

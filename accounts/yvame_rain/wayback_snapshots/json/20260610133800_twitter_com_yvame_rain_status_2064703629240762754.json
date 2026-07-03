@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064287436587573248",
+        "3_2064287436642140160"
+      ],
+      "media_source_tweet_id": [
+        "2064287443650769296",
+        "2064287443650769296"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2064703629240762754",
+    "created_at": "2026-06-10T13:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064703629240762754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888742763900104705",
+          "start": 3,
+          "username": "KAkizaki01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LX2qu03FbB",
+          "end": 74,
+          "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+          "media_key": "3_2064287436587573248",
+          "start": 51,
+          "url": "https://t.co/LX2qu03FbB"
+        },
+        {
+          "display_url": "pic.x.com/LX2qu03FbB",
+          "end": 74,
+          "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+          "media_key": "3_2064287436642140160",
+          "start": 51,
+          "url": "https://t.co/LX2qu03FbB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064703629240762754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064287443650769296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAkizaki01: ❤︎cosplay❤︎\n\n素晴らしき日々〜不連続存在〜\n\n高島ざくろ https://t.co/LX2qu03FbB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2064287436587573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXSfIwaoAA6qYc.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2064287436642140160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXSfI9bQAAOjkM.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064287436587573248",
+            "3_2064287436642140160"
+          ],
+          "media_source_tweet_id": [
+            "2064287443650769296",
+            "2064287443650769296"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064703629240762754",
+        "created_at": "2026-06-10T13:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064703629240762754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888742763900104705",
+              "start": 3,
+              "username": "KAkizaki01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LX2qu03FbB",
+              "end": 74,
+              "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+              "media_key": "3_2064287436587573248",
+              "start": 51,
+              "url": "https://t.co/LX2qu03FbB"
+            },
+            {
+              "display_url": "pic.x.com/LX2qu03FbB",
+              "end": 74,
+              "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+              "media_key": "3_2064287436642140160",
+              "start": 51,
+              "url": "https://t.co/LX2qu03FbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064703629240762754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064287443650769296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KAkizaki01: ❤︎cosplay❤︎\n\n素晴らしき日々〜不連続存在〜\n\n高島ざくろ https://t.co/LX2qu03FbB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064287436587573248",
+            "3_2064287436642140160"
+          ]
+        },
+        "author_id": "1888742763900104705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064287443650769296",
+        "created_at": "2026-06-09T10:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064287443650769296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LX2qu03FbB",
+              "end": 58,
+              "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+              "media_key": "3_2064287436587573248",
+              "start": 35,
+              "url": "https://t.co/LX2qu03FbB"
+            },
+            {
+              "display_url": "pic.x.com/LX2qu03FbB",
+              "end": 58,
+              "expanded_url": "https://x.com/KAkizaki01/status/2064287443650769296/photo/1",
+              "media_key": "3_2064287436642140160",
+              "start": 35,
+              "url": "https://t.co/LX2qu03FbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064287443650769296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5088,
+          "like_count": 313,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "❤︎cosplay❤︎\n\n素晴らしき日々〜不連続存在〜\n\n高島ざくろ https://t.co/LX2qu03FbB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 61,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-10T00:12:32.000Z",
+        "description": "ボクらを、この屋上を、美しい旋律がつつむ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/KAkizaki",
+                "end": 23,
+                "expanded_url": "https://lit.link/KAkizaki",
+                "start": 0,
+                "url": "https://t.co/8nQY8fhVhr"
+              }
+            ]
+          }
+        },
+        "id": "1888742763900104705",
+        "location": "成人済",
+        "name": "柿崎",
+        "pinned_tweet_id": "2063602370286952892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666642728173569/X7MRZBnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 118,
+          "like_count": 594,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/8nQY8fhVhr",
+        "username": "KAkizaki01",
+        "verified": false
+      }
+    ]
+  }
+}

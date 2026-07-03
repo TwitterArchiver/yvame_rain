@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063577792906940487",
+    "created_at": "2026-06-07T15:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063647963415806263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063407748960980992",
+          "start": 0,
+          "username": "szk25810086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063647963415806263",
+    "in_reply_to_user_id": "2063407748960980992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063643480996429832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szk25810086 谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063647963415806263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063407748960980992",
+              "start": 0,
+              "username": "szk25810086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063647963415806263",
+        "in_reply_to_user_id": "2063407748960980992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063643480996429832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szk25810086 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063407748960980992",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T15:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063643480996429832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063643480996429832",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577792906940487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关////cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 46,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T23:49:43.000Z",
+        "description": "",
+        "id": "2063407748960980992",
+        "name": "sorasuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063408461204066304/KcseedPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 137,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "szk25810086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067575510646112256"
+      ],
+      "media_source_tweet_id": [
+        "2067575518879441029"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2067587651163848910",
+    "created_at": "2026-06-18T12:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067587651163848910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799771405669847040",
+          "start": 3,
+          "username": "qqyu666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2H95xmaGaT",
+          "end": 50,
+          "expanded_url": "https://x.com/qqyu666/status/2067575518879441029/photo/1",
+          "media_key": "3_2067575510646112256",
+          "start": 27,
+          "url": "https://t.co/2H95xmaGaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067587651163848910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067575518879441029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqyu666: 雪莉酱卡哇伊daisuki https://t.co/2H95xmaGaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067575510646112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGA-PJbwAAIY-i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067575510646112256"
+          ],
+          "media_source_tweet_id": [
+            "2067575518879441029"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2067587651163848910",
+        "created_at": "2026-06-18T12:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067587651163848910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799771405669847040",
+              "start": 3,
+              "username": "qqyu666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2H95xmaGaT",
+              "end": 50,
+              "expanded_url": "https://x.com/qqyu666/status/2067575518879441029/photo/1",
+              "media_key": "3_2067575510646112256",
+              "start": 27,
+              "url": "https://t.co/2H95xmaGaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067587651163848910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067575518879441029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqyu666: 雪莉酱卡哇伊daisuki https://t.co/2H95xmaGaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067575510646112256"
+          ]
+        },
+        "author_id": "1799771405669847040",
+        "conversation_id": "2067575518879441029",
+        "created_at": "2026-06-18T11:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067575518879441029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2H95xmaGaT",
+              "end": 37,
+              "expanded_url": "https://x.com/qqyu666/status/2067575518879441029/photo/1",
+              "media_key": "3_2067575510646112256",
+              "start": 14,
+              "url": "https://t.co/2H95xmaGaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067575518879441029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雪莉酱卡哇伊daisuki https://t.co/2H95xmaGaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067586383456407822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 79,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "关注qq雨喵 关注qq雨谢谢喵\n欢迎女孩子跟我互fo喵",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2033898182057558388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064768209715359744/IoiOJBOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 93,
+          "like_count": 7871,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 3193
+        },
+        "username": "qqyu666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065532701231517696"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2065532703374725524",
+    "created_at": "2026-06-12T20:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065532703374725524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IApB046Ti6",
+          "end": 69,
+          "expanded_url": "https://x.com/yvame_rain/status/2065532703374725524/photo/1",
+          "media_key": "3_2065532701231517696",
+          "start": 46,
+          "url": "https://t.co/IApB046Ti6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065532703374725524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇，好开心！被扶他自老师转发了，第一次cos素的角色，下一次就是7.20上海cos素晴日了 https://t.co/IApB046Ti6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2065532701231517696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKo_DFDbkAA1UoM.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065532701231517696"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2065532703374725524",
+        "created_at": "2026-06-12T20:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065532703374725524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IApB046Ti6",
+              "end": 69,
+              "expanded_url": "https://x.com/yvame_rain/status/2065532703374725524/photo/1",
+              "media_key": "3_2065532701231517696",
+              "start": 46,
+              "url": "https://t.co/IApB046Ti6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065532703374725524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，好开心！被扶他自老师转发了，第一次cos素的角色，下一次就是7.20上海cos素晴日了 https://t.co/IApB046Ti6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//最好的朋友@ace_sana_//原账号@yv_amerain//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 62,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

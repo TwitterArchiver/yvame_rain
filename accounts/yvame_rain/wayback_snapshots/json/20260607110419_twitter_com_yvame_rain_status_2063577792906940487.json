@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063577789572489216",
+        "3_2063577789698293760",
+        "3_2063577790423969792"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063577792906940487",
+    "created_at": "2026-06-07T11:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063577792906940487"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "男娘"
+        },
+        {
+          "end": 11,
+          "start": 4,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "伪娘"
+        },
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "晓山瑞希"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "PJSK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m3vAE8WvGi",
+          "end": 51,
+          "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+          "media_key": "3_2063577789572489216",
+          "start": 28,
+          "url": "https://t.co/m3vAE8WvGi"
+        },
+        {
+          "display_url": "pic.x.com/m3vAE8WvGi",
+          "end": 51,
+          "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+          "media_key": "3_2063577789698293760",
+          "start": 28,
+          "url": "https://t.co/m3vAE8WvGi"
+        },
+        {
+          "display_url": "pic.x.com/m3vAE8WvGi",
+          "end": 51,
+          "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+          "media_key": "3_2063577790423969792",
+          "start": 28,
+          "url": "https://t.co/m3vAE8WvGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063577792906940487",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男娘 #可爱的男孩子 #伪娘 #晓山瑞希 #PJSK https://t.co/m3vAE8WvGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2063577789572489216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNEPnaoAAMCkg.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2063577789698293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNEQFaQAAheA1.jpg",
+        "width": 1028
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2063577790423969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNESybMAAKQAm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063577789572489216",
+            "3_2063577789698293760",
+            "3_2063577790423969792"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T11:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063577792906940487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "晓山瑞希"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "PJSK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577789572489216",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            },
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577789698293760",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            },
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577790423969792",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577792906940487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #可爱的男孩子 #伪娘 #晓山瑞希 #PJSK https://t.co/m3vAE8WvGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 39,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

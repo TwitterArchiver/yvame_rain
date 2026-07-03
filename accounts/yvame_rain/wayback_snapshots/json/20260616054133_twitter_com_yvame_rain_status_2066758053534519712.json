@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2063189968592457847",
+    "created_at": "2026-06-16T05:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066758053534519712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025193723693596676",
+          "start": 0,
+          "username": "miaomeow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066758053534519712",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066315135992655915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 对，我全平台都有号，除了快手微博"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063189968592457847",
+        "created_at": "2026-06-16T05:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066758053534519712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025193723693596676",
+              "start": 0,
+              "username": "miaomeow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066758053534519712",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066315135992655915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 对，我全平台都有号，除了快手微博"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2063189968592457847",
+        "created_at": "2026-06-15T00:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066315135992655915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066315135992655915",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063189968592457847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 你是不是在贴吧也发了交友贴，看到同款照片了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065627711763369984/FvefLAVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 75,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 52
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "破碎，破碎的不是我也是我。",
+        "id": "2025193723693596676",
+        "name": "碎夏",
+        "pinned_tweet_id": "2049523575439360190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 24,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 253
+        },
+        "username": "miaomeow_cat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2064517857631977480",
+    "created_at": "2026-06-10T05:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064580787123753407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064580787123753407",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064517857631977480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 支持了，感觉初高中还有性压抑男大最爱开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2064517857631977480",
+        "created_at": "2026-06-10T05:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064580787123753407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580787123753407",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064517857631977480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 支持了，感觉初高中还有性压抑男大最爱开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2064517857631977480",
+        "created_at": "2026-06-10T01:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064517857631977480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064517857631977480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随便开黄腔很不礼貌望周知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//基本上每天更新//cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 58,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 33
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい  亲友群854686674， English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，无性别，泛性恋，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱（低浮上",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 2151,
+          "like_count": 70964,
+          "listed_count": 8,
+          "media_count": 1767,
+          "tweet_count": 11911
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

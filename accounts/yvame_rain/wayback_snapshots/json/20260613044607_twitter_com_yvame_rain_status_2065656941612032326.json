@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2065656941612032326",
+    "created_at": "2026-06-13T04:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065656941612032326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065656941612032326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我这个号只想好好运营，我现在性格想法变好多，所以说风格变了，所以我只转发和发可爱的东西了，还有我喜欢的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2065656941612032326",
+        "created_at": "2026-06-13T04:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065656941612032326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065656941612032326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我这个号只想好好运营，我现在性格想法变好多，所以说风格变了，所以我只转发和发可爱的东西了，还有我喜欢的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//最好的朋友@ace_sana_//原账号负能量内容与此账号内容无关//B站：宅小雨rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065627711763369984/FvefLAVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 69,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}
