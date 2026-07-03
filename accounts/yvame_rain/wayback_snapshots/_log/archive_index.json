@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-03T08:38:38",
+  "last_updated": "2026-07-03T08:38:52",
   "html": {
     "https://web.archive.org/web/20260606115851if_/https://twitter.com/yvame_rain/status/2063229127289938330": {
       "status": "done",
@@ -1264,9 +1264,9 @@
       "referenced_by": [
         "20260606141451_twitter_com_yvame_rain_status_2063263352282055114.json"
       ],
-      "last_updated": "2026-07-03T08:22:02",
+      "last_updated": "2026-07-03T08:38:52",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606141451/https://video.twimg.com/ext_tw_video/2063263312079646720/pu/vid/avc1/720x1280/UXVDCYFk5rXGa74H.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/vid/avc1/1072x1920/2ecGHoKGw5V-xQUV.mp4": {
       "status": "done",
