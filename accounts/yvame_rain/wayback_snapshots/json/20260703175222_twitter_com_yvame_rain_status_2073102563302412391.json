@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2072589333870297553",
+    "created_at": "2026-07-03T17:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073102563302412391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058961842803011584",
+          "start": 0,
+          "username": "licehkgtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073102563302412391",
+    "in_reply_to_user_id": "2058961842803011584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073101638798279051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licehkgtp 不错不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073101634616578048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUi8_KaUAAwQx3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2072589333870297553",
+        "created_at": "2026-07-03T17:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073102563302412391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058961842803011584",
+              "start": 0,
+              "username": "licehkgtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073102563302412391",
+        "in_reply_to_user_id": "2058961842803011584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073101638798279051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licehkgtp 不错不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073101634616578048"
+          ]
+        },
+        "author_id": "2058961842803011584",
+        "conversation_id": "2072589333870297553",
+        "created_at": "2026-07-03T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073101638798279051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdmSGOLaVD",
+              "end": 50,
+              "expanded_url": "https://x.com/licehkgtp/status/2073101638798279051/photo/1",
+              "media_key": "3_2073101634616578048",
+              "start": 27,
+              "url": "https://t.co/FdmSGOLaVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073101638798279051",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072589333870297553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain wow，我有一件另一张柄图的 https://t.co/FdmSGOLaVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 98,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T17:25:23.000Z",
+        "description": "11111",
+        "id": "2058961842803011584",
+        "name": "lice-h",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058963331189493760/U31TWxwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 141,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "licehkgtp",
+        "verified": false
+      }
+    ]
+  }
+}

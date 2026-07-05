@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073259918694789120",
+        "3_2073259918703157248"
+      ],
+      "media_source_tweet_id": [
+        "2073259929025282450",
+        "2073259929025282450"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2073338883161424164",
+    "created_at": "2026-07-04T09:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073338883161424164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "プロセカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846739759085113346",
+          "start": 3,
+          "username": "twilightversu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/60N6pcZ4EJ",
+          "end": 48,
+          "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+          "media_key": "3_2073259918694789120",
+          "start": 25,
+          "url": "https://t.co/60N6pcZ4EJ"
+        },
+        {
+          "display_url": "pic.x.com/60N6pcZ4EJ",
+          "end": 48,
+          "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+          "media_key": "3_2073259918703157248",
+          "start": 25,
+          "url": "https://t.co/60N6pcZ4EJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073338883161424164",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073259929025282450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twilightversu: #プロセカ https://t.co/60N6pcZ4EJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073259918694789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWy6VTbsAA852e.jpg",
+        "width": 1516
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073259918703157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWy6VVbYAAt5dF.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073259918694789120",
+            "3_2073259918703157248"
+          ],
+          "media_source_tweet_id": [
+            "2073259929025282450",
+            "2073259929025282450"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2073338883161424164",
+        "created_at": "2026-07-04T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073338883161424164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "プロセカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846739759085113346",
+              "start": 3,
+              "username": "twilightversu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/60N6pcZ4EJ",
+              "end": 48,
+              "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+              "media_key": "3_2073259918694789120",
+              "start": 25,
+              "url": "https://t.co/60N6pcZ4EJ"
+            },
+            {
+              "display_url": "pic.x.com/60N6pcZ4EJ",
+              "end": 48,
+              "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+              "media_key": "3_2073259918703157248",
+              "start": 25,
+              "url": "https://t.co/60N6pcZ4EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073338883161424164",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073259929025282450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twilightversu: #プロセカ https://t.co/60N6pcZ4EJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073259918694789120",
+            "3_2073259918703157248"
+          ]
+        },
+        "author_id": "1846739759085113346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2073259929025282450",
+        "created_at": "2026-07-04T04:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073259929025282450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/60N6pcZ4EJ",
+              "end": 29,
+              "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+              "media_key": "3_2073259918694789120",
+              "start": 6,
+              "url": "https://t.co/60N6pcZ4EJ"
+            },
+            {
+              "display_url": "pic.x.com/60N6pcZ4EJ",
+              "end": 29,
+              "expanded_url": "https://x.com/twilightversu/status/2073259929025282450/photo/1",
+              "media_key": "3_2073259918703157248",
+              "start": 6,
+              "url": "https://t.co/60N6pcZ4EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073259929025282450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 5312,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "#プロセカ https://t.co/60N6pcZ4EJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 99,
+          "like_count": 860,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉还高p让让我丨闺闺@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "视觉动物",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538782851907584/a5B4WcgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12589,
+          "following_count": 718,
+          "like_count": 22654,
+          "listed_count": 51,
+          "media_count": 36,
+          "tweet_count": 4754
+        },
+        "url": "",
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}
