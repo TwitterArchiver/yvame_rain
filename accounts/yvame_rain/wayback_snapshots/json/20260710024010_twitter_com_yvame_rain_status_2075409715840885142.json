@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075409698119933952",
+        "3_2075409698128318464"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2075409715840885142",
+    "created_at": "2026-07-10T02:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075409715840885142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMv7UMi8uP",
+          "end": 52,
+          "expanded_url": "https://x.com/yvame_rain/status/2075409715840885142/photo/1",
+          "media_key": "3_2075409698119933952",
+          "start": 29,
+          "url": "https://t.co/rMv7UMi8uP"
+        },
+        {
+          "display_url": "pic.x.com/rMv7UMi8uP",
+          "end": 52,
+          "expanded_url": "https://x.com/yvame_rain/status/2075409715840885142/photo/1",
+          "media_key": "3_2075409698128318464",
+          "start": 29,
+          "url": "https://t.co/rMv7UMi8uP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075409715840885142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新假发都到了，不过我Yuki的假发坏了，需要重新找人做了 https://t.co/rMv7UMi8uP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075409698119933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1WH9vW4AAcn6h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075409698128318464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1WH9xW0AAwdkH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075409698119933952",
+            "3_2075409698128318464"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2075409715840885142",
+        "created_at": "2026-07-10T02:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075409715840885142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMv7UMi8uP",
+              "end": 52,
+              "expanded_url": "https://x.com/yvame_rain/status/2075409715840885142/photo/1",
+              "media_key": "3_2075409698119933952",
+              "start": 29,
+              "url": "https://t.co/rMv7UMi8uP"
+            },
+            {
+              "display_url": "pic.x.com/rMv7UMi8uP",
+              "end": 52,
+              "expanded_url": "https://x.com/yvame_rain/status/2075409715840885142/photo/1",
+              "media_key": "3_2075409698128318464",
+              "start": 29,
+              "url": "https://t.co/rMv7UMi8uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075409715840885142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新假发都到了，不过我Yuki的假发坏了，需要重新找人做了 https://t.co/rMv7UMi8uP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 100,
+          "like_count": 995,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

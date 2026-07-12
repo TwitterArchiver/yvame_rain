@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075311105325326337"
+      ],
+      "media_source_tweet_id": [
+        "2075311110996070617"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      }
+    ],
+    "conversation_id": "2075433446243991690",
+    "created_at": "2026-07-10T04:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075433446243991690"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "danganronpa"
+        },
+        {
+          "end": 44,
+          "start": 31,
+          "tag": "chiakinanami"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "sdr2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066251370714251264",
+          "start": 3,
+          "username": "angelrespawn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBbGmH3Cjx",
+          "end": 109,
+          "expanded_url": "https://x.com/angelrespawn/status/2075311110996070617/photo/1",
+          "media_key": "3_2075311105325326337",
+          "start": 86,
+          "url": "https://t.co/OBbGmH3Cjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075433446243991690",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075311110996070617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelrespawn: #danganronpa #chiakinanami #sdr2 pretend the hairclip is right ok.. https://t.co/OBbGmH3Cjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075311105325326337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMz8dG9W4AEaL-B.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075311105325326337"
+          ],
+          "media_source_tweet_id": [
+            "2075311110996070617"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          }
+        ],
+        "conversation_id": "2075433446243991690",
+        "created_at": "2026-07-10T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075433446243991690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "danganronpa"
+            },
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "chiakinanami"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "sdr2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066251370714251264",
+              "start": 3,
+              "username": "angelrespawn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBbGmH3Cjx",
+              "end": 109,
+              "expanded_url": "https://x.com/angelrespawn/status/2075311110996070617/photo/1",
+              "media_key": "3_2075311105325326337",
+              "start": 86,
+              "url": "https://t.co/OBbGmH3Cjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075433446243991690",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075311110996070617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelrespawn: #danganronpa #chiakinanami #sdr2 pretend the hairclip is right ok.. https://t.co/OBbGmH3Cjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075311105325326337"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          }
+        ],
+        "conversation_id": "2075311110996070617",
+        "created_at": "2026-07-09T20:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075311110996070617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "danganronpa"
+            },
+            {
+              "end": 26,
+              "start": 13,
+              "tag": "chiakinanami"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "sdr2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBbGmH3Cjx",
+              "end": 91,
+              "expanded_url": "https://x.com/angelrespawn/status/2075311110996070617/photo/1",
+              "media_key": "3_2075311105325326337",
+              "start": 68,
+              "url": "https://t.co/OBbGmH3Cjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075311110996070617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4121,
+          "like_count": 288,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#danganronpa #chiakinanami #sdr2 pretend the hairclip is right ok.. https://t.co/OBbGmH3Cjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 100,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "total moe takeover !! 147cm🪽 ♰ @kagerouudazed 💢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "kagerouudazed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMQzHE"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "location": "🇬🇧+🇯🇵 🐈‍⬛",
+        "name": "hime",
+        "pinned_tweet_id": "2073937422287622567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071668202287902720/EaApLZPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 99,
+          "like_count": 1297,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/evuquMQzHE",
+        "username": "angelrespawn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075504662267002880",
+        "3_2075504662229225472"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075504673398624680",
+    "created_at": "2026-07-10T08:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075504673398624680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AWInlWI4HA",
+          "end": 37,
+          "expanded_url": "https://x.com/yvame_rain/status/2075504673398624680/photo/1",
+          "media_key": "3_2075504662267002880",
+          "start": 14,
+          "url": "https://t.co/AWInlWI4HA"
+        },
+        {
+          "display_url": "pic.x.com/AWInlWI4HA",
+          "end": 37,
+          "expanded_url": "https://x.com/yvame_rain/status/2075504673398624680/photo/1",
+          "media_key": "3_2075504662229225472",
+          "start": 14,
+          "url": "https://t.co/AWInlWI4HA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075504673398624680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想要这个有人能给我买吗🥹 https://t.co/AWInlWI4HA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075504662267002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2sfmwXgAANqx1.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2075504662229225472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2sfmnXEAAp0KN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075504662267002880",
+            "3_2075504662229225472"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075504673398624680",
+        "created_at": "2026-07-10T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075504673398624680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWInlWI4HA",
+              "end": 37,
+              "expanded_url": "https://x.com/yvame_rain/status/2075504673398624680/photo/1",
+              "media_key": "3_2075504662267002880",
+              "start": 14,
+              "url": "https://t.co/AWInlWI4HA"
+            },
+            {
+              "display_url": "pic.x.com/AWInlWI4HA",
+              "end": 37,
+              "expanded_url": "https://x.com/yvame_rain/status/2075504673398624680/photo/1",
+              "media_key": "3_2075504662229225472",
+              "start": 14,
+              "url": "https://t.co/AWInlWI4HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075504673398624680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要这个有人能给我买吗🥹 https://t.co/AWInlWI4HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 101,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074677038128992256"
+      ],
+      "media_source_tweet_id": [
+        "2074677041203470452"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2075332562218573920",
+    "created_at": "2026-07-09T21:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075332562218573920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919634618522771457",
+          "start": 3,
+          "username": "chewtcy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPlG5PyWuW",
+          "end": 36,
+          "expanded_url": "https://x.com/chewtcy/status/2074677041203470452/photo/1",
+          "media_key": "3_2074677038128992256",
+          "start": 13,
+          "url": "https://t.co/kPlG5PyWuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075332562218573920",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074677041203470452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chewtcy: https://t.co/kPlG5PyWuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2074677038128992256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq7xilWkAAsfaU.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074677038128992256"
+          ],
+          "media_source_tweet_id": [
+            "2074677041203470452"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2075332562218573920",
+        "created_at": "2026-07-09T21:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075332562218573920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919634618522771457",
+              "start": 3,
+              "username": "chewtcy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPlG5PyWuW",
+              "end": 36,
+              "expanded_url": "https://x.com/chewtcy/status/2074677041203470452/photo/1",
+              "media_key": "3_2074677038128992256",
+              "start": 13,
+              "url": "https://t.co/kPlG5PyWuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075332562218573920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074677041203470452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chewtcy: https://t.co/kPlG5PyWuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074677038128992256"
+          ]
+        },
+        "author_id": "1919634618522771457",
+        "conversation_id": "2074677041203470452",
+        "created_at": "2026-07-08T02:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074677041203470452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPlG5PyWuW",
+              "end": 23,
+              "expanded_url": "https://x.com/chewtcy/status/2074677041203470452/photo/1",
+              "media_key": "3_2074677038128992256",
+              "start": 0,
+              "url": "https://t.co/kPlG5PyWuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074677041203470452",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 10508,
+          "like_count": 713,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kPlG5PyWuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 101,
+          "like_count": 970,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-06T06:05:40.000Z",
+        "description": "#puppyprincess 💗🦄🍭\nowned by @sinnnerss .ᐟ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "puppyprincess"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "sinnnerss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/puuuke",
+                "end": 23,
+                "expanded_url": "https://throne.com/puuuke",
+                "start": 0,
+                "url": "https://t.co/AI5EU63m0b"
+              }
+            ]
+          }
+        },
+        "id": "1919634618522771457",
+        "name": "⃟⃟⃟",
+        "pinned_tweet_id": "2070558051019501607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071709019631149056/hRPLSEsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3793,
+          "following_count": 336,
+          "like_count": 9559,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/AI5EU63m0b",
+        "username": "chewtcy",
+        "verified": false
+      }
+    ]
+  }
+}

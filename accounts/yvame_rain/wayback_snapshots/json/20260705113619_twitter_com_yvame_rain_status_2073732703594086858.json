@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2073618121672556770",
+    "created_at": "2026-07-05T11:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073732703594086858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903060182944583686",
+          "start": 0,
+          "username": "Nikumannbunnka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073732703594086858",
+    "in_reply_to_user_id": "1903060182944583686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073618121672556770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikumannbunnka 人那么多感觉名额也抢不到，只能去凑个热闹了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073618111862030336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMb4r61aQAApZ98.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2073618121672556770",
+        "created_at": "2026-07-05T11:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073732703594086858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903060182944583686",
+              "start": 0,
+              "username": "Nikumannbunnka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732703594086858",
+        "in_reply_to_user_id": "1903060182944583686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073618121672556770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikumannbunnka 人那么多感觉名额也抢不到，只能去凑个热闹了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073618111862030336"
+          ]
+        },
+        "author_id": "1903060182944583686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073618121672556770",
+        "created_at": "2026-07-05T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073618121672556770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8C21AGb4v",
+              "end": 148,
+              "expanded_url": "https://x.com/Nikumannbunnka/status/2073618121672556770/photo/1",
+              "media_key": "3_2073618111862030336",
+              "start": 125,
+              "url": "https://t.co/u8C21AGb4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073618121672556770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 11202,
+          "like_count": 254,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "各位素学家们久等啦～\n这次我们特别邀请到 SCA-自老师来上海举办签名会！\n考虑到商场规定与现场人流，我们为大家带来了本次「素晴日」上海活动的第二会场——快闪店 &amp; SCA-自老师签名会。\n📍 举办地点：环球港 B2 · X118 内部中庭 https://t.co/u8C21AGb4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 101,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-21T12:26:46.000Z",
+        "description": "日本のアニメ・ゲーム・漫画コンテンツを中国で盛り上げる肉包文化公式アカウントです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikumann.net",
+                "end": 23,
+                "expanded_url": "https://nikumann.net/",
+                "start": 0,
+                "url": "https://t.co/yG6otVduok"
+              }
+            ]
+          }
+        },
+        "id": "1903060182944583686",
+        "location": "Shanghai",
+        "name": "肉包文化",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060582865667313664/qp7-RWNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 18,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/yG6otVduok",
+        "username": "Nikumannbunnka",
+        "verified": true
+      }
+    ]
+  }
+}

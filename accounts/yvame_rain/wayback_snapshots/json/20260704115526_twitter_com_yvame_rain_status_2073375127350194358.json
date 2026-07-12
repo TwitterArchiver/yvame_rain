@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2073375127350194358",
+    "created_at": "2026-07-04T11:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073375127350194358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "73876279",
+          "start": 3,
+          "username": "SCA_DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073375127350194358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073340928400695464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SCA_DI: これ気になっていたのだけど（TLにすばひびのコスが出てきたので）、やはり誘導系の業者なのか。\nホンマこういうの辞めて欲しいし、みんなで通報して消して欲しいです。\n\n他の海外のコスプレイヤーさんも、「日本人は画像を盗む」とキレていたけど。\nほんま迷惑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2073375127350194358",
+        "created_at": "2026-07-04T11:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073375127350194358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "73876279",
+              "start": 3,
+              "username": "SCA_DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073375127350194358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073340928400695464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SCA_DI: これ気になっていたのだけど（TLにすばひびのコスが出てきたので）、やはり誘導系の業者なのか。\nホンマこういうの辞めて欲しいし、みんなで通報して消して欲しいです。\n\n他の海外のコスプレイヤーさんも、「日本人は画像を盗む」とキレていたけど。\nほんま迷惑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "73876279",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2073340928400695464",
+        "created_at": "2026-07-04T09:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073340928400695464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Seo_miaa_/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Seo_miaa_/status/2071049546403307856",
+              "start": 126,
+              "url": "https://t.co/VOqmJBUL6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073340928400695464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15116,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071049546403307856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これ気になっていたのだけど（TLにすばひびのコスが出てきたので）、やはり誘導系の業者なのか。\nホンマこういうの辞めて欲しいし、みんなで通報して消して欲しいです。\n\n他の海外のコスプレイヤーさんも、「日本人は画像を盗む」とキレていたけど。\nほんま迷惑。 https://t.co/VOqmJBUL6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 100,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-13T12:48:05.000Z",
+        "description": "片腕に五本の指を持つ男。 満三歳で独学によって言語習得（日本語）。 思索https://t.co/T4C7MUpDGW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/scadithink",
+                "end": 59,
+                "expanded_url": "https://twitter.com/scadithink",
+                "start": 36,
+                "url": "https://t.co/T4C7MUpDGW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keromakura.net",
+                "end": 23,
+                "expanded_url": "http://www.keromakura.net/",
+                "start": 0,
+                "url": "https://t.co/9p3c8DNBgD"
+              }
+            ]
+          }
+        },
+        "id": "73876279",
+        "location": "ケロQ　枕",
+        "name": "SCA自（すかぢ）",
+        "pinned_tweet_id": "1640806796746166272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830635995399864320/t_Np1VhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90776,
+          "following_count": 1700,
+          "like_count": 85021,
+          "listed_count": 1222,
+          "media_count": 332,
+          "tweet_count": 57202
+        },
+        "url": "https://t.co/9p3c8DNBgD",
+        "username": "SCA_DI",
+        "verified": true
+      }
+    ]
+  }
+}

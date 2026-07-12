@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2074424500821565582",
+    "created_at": "2026-07-08T21:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074972801996296268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074972801996296268",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074949709727494420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 青岛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2074424500821565582",
+        "created_at": "2026-07-08T21:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074972801996296268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074972801996296268",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074949709727494420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 青岛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917009430845194240",
+        "conversation_id": "2074424500821565582",
+        "created_at": "2026-07-08T20:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074949709727494420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074949709727494420",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074424500821565582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 哪边海呀ㅎㅅㅎ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 100,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 我是男的我也很抱歉 又不是我选的😿 喜欢互fo同类 交友扩列私信大欢迎 舟批老大找我打舟( ᐪ꒳ᐪ )｜大家过得都很痛苦 就算这么说很残忍 我还是不希望你们死掉 我希望你们可以过不用依赖嗑药自残也能获得自己想要幸福的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 188,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

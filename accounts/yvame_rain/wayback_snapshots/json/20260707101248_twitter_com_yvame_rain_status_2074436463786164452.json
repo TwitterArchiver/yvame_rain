@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2074424500821565582",
+    "created_at": "2026-07-07T10:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074436463786164452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2524396392",
+          "start": 0,
+          "username": "acgcnxox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074436463786164452",
+    "in_reply_to_user_id": "2524396392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074430978727260666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acgcnxox 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2074424500821565582",
+        "created_at": "2026-07-07T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074436463786164452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2524396392",
+              "start": 0,
+              "username": "acgcnxox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074436463786164452",
+        "in_reply_to_user_id": "2524396392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074430978727260666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acgcnxox 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2524396392",
+        "conversation_id": "2074424500821565582",
+        "created_at": "2026-07-07T09:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074430978727260666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074430978727260666",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074424500821565582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 这边推荐你本周去上海金山沙滩看地下偶像，据说还有台风加成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 100,
+          "like_count": 934,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-26T07:33:13.000Z",
+        "description": "🌙 幻月 | 二次元ACGer交友站\n\nidol｜coser｜音游人｜日常肝手游\n不分男女老少～一起聊天吧💕\n来聊番、聊cos、聊游戏、聊生活！\n\n🌙 幻月 | 二次元ACGer交流コミュニティ\nidol｜コスプレイヤー｜音ゲーマー｜ソシャゲ廃人\n年齢・性別問わず大歓迎✨\nアニメ・コス・ゲーム・日常話そうね💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idol.schoid.com",
+                "end": 23,
+                "expanded_url": "http://idol.schoid.com",
+                "start": 0,
+                "url": "https://t.co/HXkE6b6VR8"
+              }
+            ]
+          }
+        },
+        "id": "2524396392",
+        "location": "China",
+        "name": "幻月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056282464503615488/NKK_30G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 179,
+          "like_count": 138,
+          "listed_count": 20,
+          "media_count": 19565,
+          "tweet_count": 95258
+        },
+        "url": "https://t.co/HXkE6b6VR8",
+        "username": "acgcnxox",
+        "verified": true
+      }
+    ]
+  }
+}
