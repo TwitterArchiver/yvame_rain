@@ -7,13 +7,6 @@
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2067589871783588060",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 61,
-        "start": 52,
-        "username": "ace_sana"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg"
 }
