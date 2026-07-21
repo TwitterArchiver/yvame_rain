@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077011565048672256"
+      ],
+      "media_source_tweet_id": [
+        "2077011593544761822"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2077256496266801264",
+    "created_at": "2026-07-15T04:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077256496266801264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999025913212841985",
+          "start": 3,
+          "username": "6mPhr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJ2evnzG7B",
+          "end": 39,
+          "expanded_url": "https://x.com/6mPhr/status/2077011593544761822/photo/1",
+          "media_key": "3_2077011565048672256",
+          "start": 16,
+          "url": "https://t.co/MJ2evnzG7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077256496266801264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077011593544761822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6mPhr: 魂魄妖夢 https://t.co/MJ2evnzG7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077011565048672256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMHA5EasAAzNYj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077011565048672256"
+          ],
+          "media_source_tweet_id": [
+            "2077011593544761822"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2077256496266801264",
+        "created_at": "2026-07-15T04:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077256496266801264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999025913212841985",
+              "start": 3,
+              "username": "6mPhr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ2evnzG7B",
+              "end": 39,
+              "expanded_url": "https://x.com/6mPhr/status/2077011593544761822/photo/1",
+              "media_key": "3_2077011565048672256",
+              "start": 16,
+              "url": "https://t.co/MJ2evnzG7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077256496266801264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077011593544761822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6mPhr: 魂魄妖夢 https://t.co/MJ2evnzG7B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077011565048672256"
+          ]
+        },
+        "author_id": "1999025913212841985",
+        "conversation_id": "2077011593544761822",
+        "created_at": "2026-07-14T12:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077011593544761822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ2evnzG7B",
+              "end": 28,
+              "expanded_url": "https://x.com/6mPhr/status/2077011593544761822/photo/1",
+              "media_key": "3_2077011565048672256",
+              "start": 5,
+              "url": "https://t.co/MJ2evnzG7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077011593544761822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 474,
+          "impression_count": 45625,
+          "like_count": 5450,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "魂魄妖夢 https://t.co/MJ2evnzG7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//bilibili 宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 107,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T07:58:23.000Z",
+        "description": "絵を描く。ジャンル色々雑多垢\n合成音声@uzsgsg ウマ娘@pcdhxb\n学マス@Kozo0gt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "uzsgsg"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "pcdhxb"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Kozo0gt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/komomo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/komomom.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Sm0wkHbhDV"
+              }
+            ]
+          }
+        },
+        "id": "1999025913212841985",
+        "name": "虎守かもめ",
+        "pinned_tweet_id": "2075050579760660902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075144887071383552/BAHc8yRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 300,
+          "like_count": 1204,
+          "listed_count": 41,
+          "media_count": 79,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/Sm0wkHbhDV",
+        "username": "6mPhr",
+        "verified": false
+      }
+    ]
+  }
+}

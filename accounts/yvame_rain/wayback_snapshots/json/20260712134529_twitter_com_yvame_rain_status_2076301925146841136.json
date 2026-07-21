@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2076229305626177960",
+    "created_at": "2026-07-12T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076301925146841136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799771405669847040",
+          "start": 0,
+          "username": "qqyu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076301925146841136",
+    "in_reply_to_user_id": "1799771405669847040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076229305626177960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqyu666 吃这么好，给我来一口🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076229293617909760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA_is5bEAADTPh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076229291936038912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA_imobwAAGxaG.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2076229305626177960",
+        "created_at": "2026-07-12T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076301925146841136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799771405669847040",
+              "start": 0,
+              "username": "qqyu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076301925146841136",
+        "in_reply_to_user_id": "1799771405669847040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076229305626177960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqyu666 吃这么好，给我来一口🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076229293617909760",
+            "3_2076229291936038912"
+          ]
+        },
+        "author_id": "1799771405669847040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076229305626177960",
+        "created_at": "2026-07-12T08:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076229305626177960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG9h00BmqQ",
+              "end": 41,
+              "expanded_url": "https://x.com/qqyu666/status/2076229305626177960/photo/1",
+              "media_key": "3_2076229293617909760",
+              "start": 18,
+              "url": "https://t.co/zG9h00BmqQ"
+            },
+            {
+              "display_url": "pic.x.com/zG9h00BmqQ",
+              "end": 41,
+              "expanded_url": "https://x.com/qqyu666/status/2076229305626177960/photo/1",
+              "media_key": "3_2076229291936038912",
+              "start": 18,
+              "url": "https://t.co/zG9h00BmqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076229305626177960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "qq雨不在的这段时间 在安徽吃爽了 https://t.co/zG9h00BmqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 103,
+          "like_count": 1077,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "关注qq雨喵 关注qq雨谢谢喵",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2033898182057558388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064768209715359744/IoiOJBOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3185,
+          "following_count": 97,
+          "like_count": 8259,
+          "listed_count": 7,
+          "media_count": 90,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "qqyu666",
+        "verified": false
+      }
+    ]
+  }
+}

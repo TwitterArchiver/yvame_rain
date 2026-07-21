@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2076980684992983306",
+    "created_at": "2026-07-14T19:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077115494931325217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077115494931325217",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076980684992983306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 我最近也打算买脱毛仪，玥宝你买的多少钱的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2076980684992983306",
+        "created_at": "2026-07-14T19:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077115494931325217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077115494931325217",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076980684992983306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 我最近也打算买脱毛仪，玥宝你买的多少钱的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2076980684992983306",
+        "created_at": "2026-07-14T10:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076980684992983306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076980684992983306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冰点脱毛这么痛你们这么能忍。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//bilibili 宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 105,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "只是在和自己聊天",
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2066436022750294207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 361,
+          "like_count": 33070,
+          "listed_count": 10,
+          "media_count": 1773,
+          "tweet_count": 24873
+        },
+        "url": "",
+        "username": "aozn24428",
+        "verified": false
+      }
+    ]
+  }
+}

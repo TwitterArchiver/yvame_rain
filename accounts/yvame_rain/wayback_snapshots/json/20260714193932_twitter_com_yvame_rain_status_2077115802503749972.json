@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2077101133596696712",
+    "created_at": "2026-07-14T19:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077115802503749972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066251370714251264",
+          "start": 0,
+          "username": "angelrespawn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077115802503749972",
+    "in_reply_to_user_id": "2066251370714251264",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077101133596696712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelrespawn Congratulations 🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "16_2077101125883355137",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNNYeBLXYAEajnE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNNYeBLXYAEajnE.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2077101133596696712",
+        "created_at": "2026-07-14T19:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077115802503749972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066251370714251264",
+              "start": 0,
+              "username": "angelrespawn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077115802503749972",
+        "in_reply_to_user_id": "2066251370714251264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077101133596696712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelrespawn Congratulations 🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077101125883355137"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2077101133596696712",
+        "created_at": "2026-07-14T18:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077101133596696712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cbiw9rqNrV",
+              "end": 117,
+              "expanded_url": "https://x.com/angelrespawn/status/2077101133596696712/photo/1",
+              "media_key": "16_2077101125883355137",
+              "start": 94,
+              "url": "https://t.co/Cbiw9rqNrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077101133596696712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "happy 500 followers Thank u all for liking my cosplays !!!!!!!!!!!!!! heart heart heart heart https://t.co/Cbiw9rqNrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//bilibili 宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 105,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "total moe takeover !! 147cm🪽 ♰ @kagerouudazed 💢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "kagerouudazed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMR7xc"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿+ 🇯🇵🐈‍⬛",
+        "name": "hime",
+        "pinned_tweet_id": "2075311110996070617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071668202287902720/EaApLZPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 99,
+          "like_count": 1704,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/evuquMR7xc",
+        "username": "angelrespawn",
+        "verified": false
+      }
+    ]
+  }
+}

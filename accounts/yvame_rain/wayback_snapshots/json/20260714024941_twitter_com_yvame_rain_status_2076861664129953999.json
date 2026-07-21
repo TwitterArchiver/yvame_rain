@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076761556872761345"
+      ],
+      "media_source_tweet_id": [
+        "2076761563784954307"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2076861664129953999",
+    "created_at": "2026-07-14T02:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076861664129953999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066251370714251264",
+          "start": 3,
+          "username": "angelrespawn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5aIwA3ZBX",
+          "end": 68,
+          "expanded_url": "https://x.com/angelrespawn/status/2076761563784954307/photo/1",
+          "media_key": "3_2076761556872761345",
+          "start": 45,
+          "url": "https://t.co/B5aIwA3ZBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076861664129953999",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076761563784954307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelrespawn: #素晴らしき日々 kimika repost ^_^ https://t.co/B5aIwA3ZBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076761556872761345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIjogCWkAESwpz.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076761556872761345"
+          ],
+          "media_source_tweet_id": [
+            "2076761563784954307"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2076861664129953999",
+        "created_at": "2026-07-14T02:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076861664129953999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066251370714251264",
+              "start": 3,
+              "username": "angelrespawn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5aIwA3ZBX",
+              "end": 68,
+              "expanded_url": "https://x.com/angelrespawn/status/2076761563784954307/photo/1",
+              "media_key": "3_2076761556872761345",
+              "start": 45,
+              "url": "https://t.co/B5aIwA3ZBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076861664129953999",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076761563784954307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelrespawn: #素晴らしき日々 kimika repost ^_^ https://t.co/B5aIwA3ZBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076761556872761345"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "conversation_id": "2076761563784954307",
+        "created_at": "2026-07-13T20:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076761563784954307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5aIwA3ZBX",
+              "end": 50,
+              "expanded_url": "https://x.com/angelrespawn/status/2076761563784954307/photo/1",
+              "media_key": "3_2076761556872761345",
+              "start": 27,
+              "url": "https://t.co/B5aIwA3ZBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076761563784954307",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 4532,
+          "like_count": 463,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 kimika repost ^_^ https://t.co/B5aIwA3ZBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 104,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "total moe takeover !! 147cm🪽 ♰ @kagerouudazed 💢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "kagerouudazed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMR7xc"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿+ 🇯🇵🐈‍⬛",
+        "name": "hime",
+        "pinned_tweet_id": "2075311110996070617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071668202287902720/EaApLZPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 99,
+          "like_count": 1621,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/evuquMR7xc",
+        "username": "angelrespawn",
+        "verified": false
+      }
+    ]
+  }
+}

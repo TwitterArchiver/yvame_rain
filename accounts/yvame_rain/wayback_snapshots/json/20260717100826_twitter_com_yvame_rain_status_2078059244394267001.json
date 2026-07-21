@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078058645049257985"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2078059244394267001",
+    "created_at": "2026-07-17T10:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:06:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078058662627602470",
+      "2078059244394267001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 0,
+          "tag": "projectsekai"
+        },
+        {
+          "end": 28,
+          "start": 14,
+          "tag": "MizukiAkiyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W5yTbCcbM9",
+          "end": 52,
+          "expanded_url": "https://x.com/yvame_rain/status/2078059244394267001/photo/1",
+          "media_key": "3_2078058645049257985",
+          "start": 29,
+          "url": "https://t.co/W5yTbCcbM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078059244394267001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#projectsekai #MizukiAkiyama https://t.co/W5yTbCcbM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078058645049257985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_U-CXMAERuhE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078058645049257985"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2078058662627602470",
+        "created_at": "2026-07-17T10:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:06:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078058662627602470",
+          "2078059244394267001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "projectsekai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2arjAoyjwy",
+              "end": 37,
+              "expanded_url": "https://x.com/yvame_rain/status/2078058662627602470/photo/1",
+              "media_key": "3_2078058645049257985",
+              "start": 14,
+              "url": "https://t.co/2arjAoyjwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078058662627602470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#projectsekai https://t.co/2arjAoyjwy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078058645049257985"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2078059244394267001",
+        "created_at": "2026-07-17T10:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:06:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078058662627602470",
+          "2078059244394267001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "projectsekai"
+            },
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "MizukiAkiyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5yTbCcbM9",
+              "end": 52,
+              "expanded_url": "https://x.com/yvame_rain/status/2078059244394267001/photo/1",
+              "media_key": "3_2078058645049257985",
+              "start": 29,
+              "url": "https://t.co/W5yTbCcbM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078059244394267001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#projectsekai #MizukiAkiyama https://t.co/W5yTbCcbM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 109,
+          "like_count": 1190,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2076139971530952889",
+    "created_at": "2026-07-12T12:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076284791733780718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075117524589686784",
+          "start": 0,
+          "username": "qazhrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076284791733780718",
+    "in_reply_to_user_id": "2075117524589686784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076207211718783404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazhrk 国男滚，而且我现实中也招女生喜欢不像你只能在推特找鸡😹，男的怎么了，你怎么觉得我想让男的或者我喜欢男的还是咋滴😹我没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2076139971530952889",
+        "created_at": "2026-07-12T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076284791733780718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075117524589686784",
+              "start": 0,
+              "username": "qazhrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076284791733780718",
+        "in_reply_to_user_id": "2075117524589686784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076207211718783404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazhrk 国男滚，而且我现实中也招女生喜欢不像你只能在推特找鸡😹，男的怎么了，你怎么觉得我想让男的或者我喜欢男的还是咋滴😹我没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075117524589686784",
+        "conversation_id": "2076139971530952889",
+        "created_at": "2026-07-12T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076207211718783404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076207211718783404",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076139971530952889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 没有如果，首先你是男的就不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 102,
+          "like_count": 1062,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T07:19:41.000Z",
+        "description": "这个号就唱唱歌吧",
+        "id": "2075117524589686784",
+        "name": "吃猪肉还放醋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075124646702452736/rYoxEYPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 25,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "qazhrk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2077332744279900582",
+    "created_at": "2026-07-15T10:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077332744279900582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077332744279900582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我买了一套很酷很帅的衣服，打算下个月去海边拍照，嗯，我感觉我是一个人没人陪我出去旅游一起玩之类的，不过也挺好的吧......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2077332744279900582",
+        "created_at": "2026-07-15T10:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077332744279900582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077332744279900582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买了一套很酷很帅的衣服，打算下个月去海边拍照，嗯，我感觉我是一个人没人陪我出去旅游一起玩之类的，不过也挺好的吧......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 108,
+          "like_count": 1160,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}
