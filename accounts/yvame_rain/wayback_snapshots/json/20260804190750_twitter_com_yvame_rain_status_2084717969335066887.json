@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2084706166756540731",
+    "created_at": "2026-08-04T19:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084717969335066887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497876376833052673",
+          "start": 0,
+          "username": "Slama_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084717969335066887",
+    "in_reply_to_user_id": "1497876376833052673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084706624258629897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slama_05 宝宝呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2084706166756540731",
+        "created_at": "2026-08-04T19:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084717969335066887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497876376833052673",
+              "start": 0,
+              "username": "Slama_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084717969335066887",
+        "in_reply_to_user_id": "1497876376833052673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084706624258629897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slama_05 宝宝呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497876376833052673",
+        "conversation_id": "2084706166756540731",
+        "created_at": "2026-08-04T18:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084706624258629897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084706624258629897",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084706166756540731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 你能照顾好自己 就是给大家最好的礼物了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 115,
+          "like_count": 1524,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T10:09:02.000Z",
+        "description": "。",
+        "id": "1497876376833052673",
+        "name": "BIANYUAN",
+        "pinned_tweet_id": "2009913055778611312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544263650443267/xSjTY8xC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 431,
+          "like_count": 27731,
+          "listed_count": 11,
+          "media_count": 120,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "Slama_05",
+        "verified": false
+      }
+    ]
+  }
+}

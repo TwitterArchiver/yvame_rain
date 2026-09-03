@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086927956635500545"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2086927965816775134",
+    "created_at": "2026-08-10T21:29:34.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T22:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086927965816775134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VJ9jpw7kol",
+          "end": 46,
+          "expanded_url": "https://x.com/yvame_rain/status/2086927965816775134/photo/1",
+          "media_key": "3_2086927956635500545",
+          "start": 23,
+          "url": "https://t.co/VJ9jpw7kol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086927965816775134",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086927956635500545"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等我1200粉抽奖啊，有没有人就是想关注我🥺 https://t.co/VJ9jpw7kol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086927956635500545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZB62cXQAEVgST.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086927956635500545"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2086927965816775134",
+        "created_at": "2026-08-10T21:29:34.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086927965816775134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJ9jpw7kol",
+              "end": 46,
+              "expanded_url": "https://x.com/yvame_rain/status/2086927965816775134/photo/1",
+              "media_key": "3_2086927956635500545",
+              "start": 23,
+              "url": "https://t.co/VJ9jpw7kol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086927965816775134",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086927956635500545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我1200粉抽奖啊，有没有人就是想关注我🥺 https://t.co/VJ9jpw7kol"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086927965816775134",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 118,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

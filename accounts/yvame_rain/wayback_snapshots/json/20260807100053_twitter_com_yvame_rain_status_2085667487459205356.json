@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085667478827413504"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2085667487459205356",
+    "created_at": "2026-08-07T10:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085667487459205356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yxubp4tjxi",
+          "end": 87,
+          "expanded_url": "https://x.com/yvame_rain/status/2085667487459205356/photo/1",
+          "media_key": "3_2085667478827413504",
+          "start": 64,
+          "url": "https://t.co/yxubp4tjxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085667487459205356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人能资助我一套魔理沙的cos嘛，拜托了，我最近没啥新图片了，然后之后有新图片也是男角色，就是个格里菲斯正片，现在非常需要资助 https://t.co/yxubp4tjxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2085667478827413504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHHhYsXsAAPG9O.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085667478827413504"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085667487459205356",
+        "created_at": "2026-08-07T10:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085667487459205356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxubp4tjxi",
+              "end": 87,
+              "expanded_url": "https://x.com/yvame_rain/status/2085667487459205356/photo/1",
+              "media_key": "3_2085667478827413504",
+              "start": 64,
+              "url": "https://t.co/yxubp4tjxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085667487459205356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人能资助我一套魔理沙的cos嘛，拜托了，我最近没啥新图片了，然后之后有新图片也是男角色，就是个格里菲斯正片，现在非常需要资助 https://t.co/yxubp4tjxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 116,
+          "like_count": 1578,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

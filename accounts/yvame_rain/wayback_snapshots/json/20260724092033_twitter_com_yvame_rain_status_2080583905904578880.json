@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2080576417595846949",
+    "created_at": "2026-07-24T09:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080583905904578880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960965516442656776",
+          "start": 0,
+          "username": "Th_and_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080583905904578880",
+    "in_reply_to_user_id": "1960965516442656776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080578393649623147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Th_and_VRC 私もちょっとかっこよく撮れたと思う、かわいいなんて要らない！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2080576417595846949",
+        "created_at": "2026-07-24T09:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080583905904578880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960965516442656776",
+              "start": 0,
+              "username": "Th_and_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080583905904578880",
+        "in_reply_to_user_id": "1960965516442656776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080578393649623147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Th_and_VRC 私もちょっとかっこよく撮れたと思う、かわいいなんて要らない！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960965516442656776",
+        "conversation_id": "2080576417595846949",
+        "created_at": "2026-07-24T08:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080578393649623147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080578393649623147",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080576417595846949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain かっこいい！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 114,
+          "like_count": 1357,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-28T07:20:01.000Z",
+        "description": "みみのこ大好きマン\nVRC用に作りました\n4月くらいからみみのこです",
+        "id": "1960965516442656776",
+        "name": "家臣FF（VRC用）",
+        "pinned_tweet_id": "2062671457348714675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062911699645313024/VjsZCBta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 64,
+          "like_count": 5753,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "Th_and_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

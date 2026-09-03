@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2078910310837354709",
+    "created_at": "2026-07-20T02:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079032149135573348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "73876279",
+          "start": 0,
+          "username": "SCA_DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079032149135573348",
+    "in_reply_to_user_id": "73876279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078910310837354709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SCA_DI 我喜欢这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1667,
+        "media_key": "3_2078910300741660672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnF52ubcAACN5H.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2078910310837354709",
+        "created_at": "2026-07-20T02:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079032149135573348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "73876279",
+              "start": 0,
+              "username": "SCA_DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079032149135573348",
+        "in_reply_to_user_id": "73876279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078910310837354709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SCA_DI 我喜欢这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078910300741660672"
+          ]
+        },
+        "author_id": "73876279",
+        "conversation_id": "2078910310837354709",
+        "created_at": "2026-07-19T18:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078910310837354709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2Yy6MShiQ",
+              "end": 73,
+              "expanded_url": "https://x.com/SCA_DI/status/2078910310837354709/photo/1",
+              "media_key": "3_2078910300741660672",
+              "start": 50,
+              "url": "https://t.co/F2Yy6MShiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078910310837354709",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 92621,
+          "like_count": 5072,
+          "quote_count": 46,
+          "reply_count": 56,
+          "retweet_count": 1563
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々\n\n7              /                     20 https://t.co/F2Yy6MShiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 113,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-13T12:48:05.000Z",
+        "description": "片腕に五本の指を持つ男。 満三歳で独学によって言語習得（日本語）。 思索https://t.co/T4C7MUpDGW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/scadithink",
+                "end": 59,
+                "expanded_url": "https://twitter.com/scadithink",
+                "start": 36,
+                "url": "https://t.co/T4C7MUpDGW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keromakura.net",
+                "end": 23,
+                "expanded_url": "http://www.keromakura.net/",
+                "start": 0,
+                "url": "https://t.co/9p3c8DNBgD"
+              }
+            ]
+          }
+        },
+        "id": "73876279",
+        "location": "ケロQ　枕",
+        "name": "SCA自（すかぢ）",
+        "pinned_tweet_id": "1640806796746166272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078927241724284928/ALhav1E5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92788,
+          "following_count": 1711,
+          "like_count": 85561,
+          "listed_count": 1224,
+          "media_count": 341,
+          "tweet_count": 57556
+        },
+        "url": "https://t.co/9p3c8DNBgD",
+        "username": "SCA_DI",
+        "verified": true
+      }
+    ]
+  }
+}

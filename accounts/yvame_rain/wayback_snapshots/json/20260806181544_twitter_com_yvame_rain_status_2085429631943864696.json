@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2085429631943864696",
+    "created_at": "2026-08-06T18:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:08:33.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085427824840630706",
+      "2085428652792062125",
+      "2085429631943864696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085429631943864696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "cos顺序是格里菲斯，晓山瑞希，艾伦耶格尔，恩奇都，结城理，阿斯托尔福，雾雨魔理沙，贞德，魂魄妖梦，金闪闪，藤丸立香（可能），音无彩名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085427824840630706",
+        "created_at": "2026-08-06T18:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:08:33.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085427824840630706",
+          "2085428652792062125",
+          "2085429631943864696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085427824840630706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cos顺序是格里菲斯，艾伦耶格尔，恩奇都，结城理，阿斯托尔福，贞德，金闪闪，藤丸立香（可能），音无彩名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085428652792062125",
+        "created_at": "2026-08-06T18:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:08:33.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085427824840630706",
+          "2085428652792062125",
+          "2085429631943864696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085428652792062125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cos顺序是格里菲斯，艾伦耶格尔，恩奇都，结城理，阿斯托尔福，雾雨魔理沙，贞德，魂魄妖梦，金闪闪，藤丸立香（可能），音无彩名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085429631943864696",
+        "created_at": "2026-08-06T18:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:08:33.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085427824840630706",
+          "2085428652792062125",
+          "2085429631943864696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085429631943864696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cos顺序是格里菲斯，晓山瑞希，艾伦耶格尔，恩奇都，结城理，阿斯托尔福，雾雨魔理沙，贞德，魂魄妖梦，金闪闪，藤丸立香（可能），音无彩名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 116,
+          "like_count": 1563,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

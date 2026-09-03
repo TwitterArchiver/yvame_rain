@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2079272214830911710",
+    "created_at": "2026-07-20T21:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T22:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079310513897455689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065865575050469376",
+          "start": 0,
+          "username": "yukathebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079310513897455689",
+    "in_reply_to_user_id": "2065865575050469376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079272214830911710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukathebrat I really like this character, and you are really cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079272209957191681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsPDvnXAAE6aJC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2079272214830911710",
+        "created_at": "2026-07-20T21:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079310513897455689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065865575050469376",
+              "start": 0,
+              "username": "yukathebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079310513897455689",
+        "in_reply_to_user_id": "2065865575050469376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079272214830911710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukathebrat I really like this character, and you are really cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079272209957191681"
+          ]
+        },
+        "author_id": "2065865575050469376",
+        "conversation_id": "2079272214830911710",
+        "created_at": "2026-07-20T18:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079272214830911710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvTPMdYz4h",
+              "end": 82,
+              "expanded_url": "https://x.com/yukathebrat/status/2079272214830911710/photo/1",
+              "media_key": "3_2079272209957191681",
+              "start": 59,
+              "url": "https://t.co/jvTPMdYz4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079272214830911710",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 709,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "I’m even famous for being nice to everyone.\n7/20\n\n#素晴らしき日々 https://t.co/jvTPMdYz4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 114,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-13T18:37:24.000Z",
+        "description": "mdni \nbackup acc \n\nhttps://t.co/Cyy3Q9ZlET",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/mesugakirat",
+                "end": 42,
+                "expanded_url": "https://throne.com/mesugakirat",
+                "start": 19,
+                "url": "https://t.co/Cyy3Q9ZlET"
+              }
+            ]
+          }
+        },
+        "id": "2065865575050469376",
+        "name": "yuka",
+        "pinned_tweet_id": "2071633387249356907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065866290984603649/OOh8mk74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 83,
+          "like_count": 1606,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "yukathebrat",
+        "verified": true
+      }
+    ]
+  }
+}

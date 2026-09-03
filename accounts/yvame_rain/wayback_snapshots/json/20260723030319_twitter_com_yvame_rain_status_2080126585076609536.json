@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2079988012562153666",
+    "created_at": "2026-07-23T03:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080126585076609536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921296124586893312",
+          "start": 0,
+          "username": "meari_1705"
+        },
+        {
+          "end": 24,
+          "id": "2065865575050469376",
+          "start": 12,
+          "username": "yukathebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080126585076609536",
+    "in_reply_to_user_id": "1921296124586893312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079988012562153666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meari_1705 @yukathebrat CUTE！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3451,
+        "media_key": "3_2079988004282671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2aEdRXoAAML-T.jpg",
+        "width": 2493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2079988012562153666",
+        "created_at": "2026-07-23T03:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080126585076609536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921296124586893312",
+              "start": 0,
+              "username": "meari_1705"
+            },
+            {
+              "end": 24,
+              "id": "2065865575050469376",
+              "start": 12,
+              "username": "yukathebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080126585076609536",
+        "in_reply_to_user_id": "1921296124586893312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079988012562153666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meari_1705 @yukathebrat CUTE！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079988004282671104"
+          ]
+        },
+        "author_id": "1921296124586893312",
+        "conversation_id": "2079988012562153666",
+        "created_at": "2026-07-22T17:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079988012562153666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytUiLM56EI",
+              "end": 46,
+              "expanded_url": "https://x.com/meari_1705/status/2079988012562153666/photo/1",
+              "media_key": "3_2079988004282671104",
+              "start": 23,
+              "url": "https://t.co/ytUiLM56EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079988012562153666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3067,
+          "like_count": 457,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "EXPLOOOOOSION !!!! 💥💢💢 https://t.co/ytUiLM56EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 114,
+          "like_count": 1309,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T20:08:00.000Z",
+        "description": "⋆𐙚₊˚⊹♡\npl/en \n\nthrone : https://t.co/wFOgUuMvEs\n₊˚⊹ ᰔ \nhttps://t.co/uecstaw7uB\n₊˚⊹ ᰔ \nrepost only with credit \n₊˚⊹ ᰔ \npriv acc: @yuyu_1705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "yuyu_1705"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/meari_1705",
+                "end": 47,
+                "expanded_url": "https://throne.com/meari_1705",
+                "start": 24,
+                "url": "https://t.co/wFOgUuMvEs"
+              },
+              {
+                "display_url": "ko-fi.com/meari_1705",
+                "end": 78,
+                "expanded_url": "https://ko-fi.com/meari_1705",
+                "start": 55,
+                "url": "https://t.co/uecstaw7uB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mearii.ri?utm_…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mearii.ri?utm_source=linktree_profile_share&ltsid=c3f495f5-d2a0-4655-8040-4cb933bf",
+                "start": 0,
+                "url": "https://t.co/SFf3J0azB7"
+              }
+            ]
+          }
+        },
+        "id": "1921296124586893312",
+        "name": "meari",
+        "pinned_tweet_id": "1990059179068064135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023452495616299009/Elh5YIVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 797,
+          "like_count": 18091,
+          "listed_count": 12,
+          "media_count": 1340,
+          "tweet_count": 5368
+        },
+        "url": "https://t.co/SFf3J0azB7",
+        "username": "meari_1705",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T18:37:24.000Z",
+        "description": "mdni \nbackup acc \n\nhttps://t.co/Cyy3Q9ZlET",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/mesugakirat",
+                "end": 42,
+                "expanded_url": "https://throne.com/mesugakirat",
+                "start": 19,
+                "url": "https://t.co/Cyy3Q9ZlET"
+              }
+            ]
+          }
+        },
+        "id": "2065865575050469376",
+        "name": "yuka",
+        "pinned_tweet_id": "2071633387249356907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065866290984603649/OOh8mk74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 84,
+          "like_count": 1727,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "yukathebrat",
+        "verified": true
+      }
+    ]
+  }
+}

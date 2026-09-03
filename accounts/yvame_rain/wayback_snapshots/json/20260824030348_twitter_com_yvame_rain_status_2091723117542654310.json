@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2091723117542654310",
+    "created_at": "2026-08-24T03:03:48.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T04:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091723117542654310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091723117542654310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现了那些，因为我什么男娘伪娘，歧视我的人，并不会因为我性格变有阳刚了一些或者没有他们说的刻板印象就不歧视和攻击我了，我无论扮成男性还是女性，我都比你们这些人好看，我不理解为什么要仇恨一个根本没有现实有接触的群体，无论你职业还是什么，通过歧视别人获得作恶的快感，你们真该死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2091723117542654310",
+        "created_at": "2026-08-24T03:03:48.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091723117542654310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091723117542654310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了那些，因为我什么男娘伪娘，歧视我的人，并不会因为我性格变有阳刚了一些或者没有他们说的刻板印象就不歧视和攻击我了，我无论扮成男性还是女性，我都比你们这些人好看，我不理解为什么要仇恨一个根本没有现实有接触的群体，无论你职业还是什么，通过歧视别人获得作恶的快感，你们真该死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091723117542654310",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 118,
+          "like_count": 1775,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076922076808851456"
+      ],
+      "media_source_tweet_id": [
+        "2076922340588531966"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2078713652010430780",
+    "created_at": "2026-07-19T05:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078713652010430780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "Subahibi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769193780329304064",
+          "start": 3,
+          "username": "azhe_713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QOSjaWgeaM",
+          "end": 56,
+          "expanded_url": "https://x.com/azhe_713/status/2076922340588531966/photo/1",
+          "media_key": "3_2076922076808851456",
+          "start": 33,
+          "url": "https://t.co/QOSjaWgeaM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078713652010430780",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076922340588531966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhe_713: #素晴らしき日々 #Subahibi https://t.co/QOSjaWgeaM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076922076808851456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNK1n_ZbsAAHJTu.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076922076808851456"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2076922340588531966",
+        "created_at": "2026-07-14T06:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076922340588531966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "Subahibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOSjaWgeaM",
+              "end": 42,
+              "expanded_url": "https://x.com/azhe_713/status/2076922340588531966/photo/1",
+              "media_key": "3_2076922076808851456",
+              "start": 19,
+              "url": "https://t.co/QOSjaWgeaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076922340588531966",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 13020,
+          "like_count": 989,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 #Subahibi https://t.co/QOSjaWgeaM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076922076808851456"
+          ],
+          "media_source_tweet_id": [
+            "2076922340588531966"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2078713652010430780",
+        "created_at": "2026-07-19T05:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078713652010430780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "Subahibi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769193780329304064",
+              "start": 3,
+              "username": "azhe_713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOSjaWgeaM",
+              "end": 56,
+              "expanded_url": "https://x.com/azhe_713/status/2076922340588531966/photo/1",
+              "media_key": "3_2076922076808851456",
+              "start": 33,
+              "url": "https://t.co/QOSjaWgeaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078713652010430780",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076922340588531966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhe_713: #素晴らしき日々 #Subahibi https://t.co/QOSjaWgeaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 113,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2060298369281781766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 68,
+          "like_count": 1124,
+          "listed_count": 13,
+          "media_count": 95,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

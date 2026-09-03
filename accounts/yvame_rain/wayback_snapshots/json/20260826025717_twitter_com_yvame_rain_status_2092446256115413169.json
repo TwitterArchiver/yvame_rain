@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092446241087201280",
+        "3_2092446241095606272"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2092446256115413169",
+    "created_at": "2026-08-26T02:57:17.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092446256115413169"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "griffith"
+        },
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "Berserk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/USIv4ZdZIi",
+          "end": 62,
+          "expanded_url": "https://x.com/yvame_rain/status/2092446256115413169/photo/1",
+          "media_key": "3_2092446241087201280",
+          "start": 39,
+          "url": "https://t.co/USIv4ZdZIi"
+        },
+        {
+          "display_url": "pic.x.com/USIv4ZdZIi",
+          "end": 62,
+          "expanded_url": "https://x.com/yvame_rain/status/2092446256115413169/photo/1",
+          "media_key": "3_2092446241095606272",
+          "start": 39,
+          "url": "https://t.co/USIv4ZdZIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092446256115413169",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092446241087201280"
+      },
+      {
+        "media_key": "3_2092446241095606272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“万千敌友中，唯有你一人让我忘记梦想\"\n#griffith #Berserk https://t.co/USIv4ZdZIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2092446241087201280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQncxR-aoAA92_z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2092446241095606272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQncxSAa4AArT0h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092446241087201280",
+            "3_2092446241095606272"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2092446256115413169",
+        "created_at": "2026-08-26T02:57:17.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092446256115413169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "griffith"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "Berserk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/USIv4ZdZIi",
+              "end": 62,
+              "expanded_url": "https://x.com/yvame_rain/status/2092446256115413169/photo/1",
+              "media_key": "3_2092446241087201280",
+              "start": 39,
+              "url": "https://t.co/USIv4ZdZIi"
+            },
+            {
+              "display_url": "pic.x.com/USIv4ZdZIi",
+              "end": 62,
+              "expanded_url": "https://x.com/yvame_rain/status/2092446256115413169/photo/1",
+              "media_key": "3_2092446241095606272",
+              "start": 39,
+              "url": "https://t.co/USIv4ZdZIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092446256115413169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092446241087201280"
+          },
+          {
+            "media_key": "3_2092446241095606272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“万千敌友中，唯有你一人让我忘记梦想\"\n#griffith #Berserk https://t.co/USIv4ZdZIi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092446256115413169",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 119,
+          "like_count": 1835,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

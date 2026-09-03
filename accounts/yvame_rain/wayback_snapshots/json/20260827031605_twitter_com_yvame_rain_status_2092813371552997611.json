@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092813344650698752"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2092813371552997611",
+    "created_at": "2026-08-27T03:16:05.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092813371552997611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qjj6nUpnAi",
+          "end": 23,
+          "expanded_url": "https://x.com/yvame_rain/status/2092813371552997611/video/1",
+          "media_key": "13_2092813344650698752",
+          "start": 0,
+          "url": "https://t.co/Qjj6nUpnAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092813371552997611",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092813344650698752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Qjj6nUpnAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5060,
+        "height": 1920,
+        "media_key": "13_2092813344650698752",
+        "preview_image_url": "https://pbs.twimg.com/media/HQsqphfbsAA2RbM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092813344650698752/vid/avc1/320x568/qcXY6sk1x2FLlIWV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092813344650698752/vid/avc1/480x852/tFutfTyH4hDJppXD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092813344650698752/vid/avc1/720x1280/C87Z1TccqtkZIoc1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092813344650698752/pl/xnWRd7V6t7DpVsum.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092813344650698752"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2092813371552997611",
+        "created_at": "2026-08-27T03:16:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092813371552997611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qjj6nUpnAi",
+              "end": 23,
+              "expanded_url": "https://x.com/yvame_rain/status/2092813371552997611/video/1",
+              "media_key": "13_2092813344650698752",
+              "start": 0,
+              "url": "https://t.co/Qjj6nUpnAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092813371552997611",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092813344650698752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qjj6nUpnAi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092813371552997611",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 119,
+          "like_count": 1865,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

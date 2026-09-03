@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2083009676497555754",
+    "created_at": "2026-07-31T02:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083011068419334344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "513621372",
+          "start": 0,
+          "username": "adijung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083011068419334344",
+    "in_reply_to_user_id": "513621372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083009929372147739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adijung 4年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2083009676497555754",
+        "created_at": "2026-07-31T02:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083011068419334344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "513621372",
+              "start": 0,
+              "username": "adijung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083011068419334344",
+        "in_reply_to_user_id": "513621372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083009929372147739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adijung 4年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "513621372",
+        "conversation_id": "2083009676497555754",
+        "created_at": "2026-07-31T02:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083009929372147739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083009929372147739",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083009676497555754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 你魂游一般玩哪几作呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 109,
+          "like_count": 1406,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-03T21:27:11.000Z",
+        "description": "大家每一次下载和支持，都会成为我继续更新视频的动力👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/UrGumsJHTx"
+              }
+            ]
+          }
+        },
+        "id": "513621372",
+        "name": "霖儿测评VPN加速器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082035565663293440/rXGqBrIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 88,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/UrGumsJHTx",
+        "username": "adijung",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2091882757677072755",
+    "created_at": "2026-08-24T18:41:08.000Z",
+    "display_text_range": [
+      9,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091959007783407969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830165581800390656",
+          "start": 0,
+          "username": "TTYYqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091959007783407969",
+    "in_reply_to_user_id": "1830165581800390656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091882757677072755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTYYqwe 我都不敢说我是男的男娘，现在男娘又顺直又丑看百合看魔怔了，感觉自己女装就能被人夸，就会有人喜欢或者自己女装就能接触女生，或者那种纯给，喜欢男的就喜欢呗，非要不收拾自己说自己是男娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2091882757677072755",
+        "created_at": "2026-08-24T18:41:08.000Z",
+        "display_text_range": [
+          9,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091959007783407969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830165581800390656",
+              "start": 0,
+              "username": "TTYYqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091959007783407969",
+        "in_reply_to_user_id": "1830165581800390656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091882757677072755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTYYqwe 我都不敢说我是男的男娘，现在男娘又顺直又丑看百合看魔怔了，感觉自己女装就能被人夸，就会有人喜欢或者自己女装就能接触女生，或者那种纯给，喜欢男的就喜欢呗，非要不收拾自己说自己是男娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830165581800390656",
+        "conversation_id": "2091882757677072755",
+        "created_at": "2026-08-24T13:38:09.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091882757677072755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091882757677072755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11292,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的男娘不是那种顺直男娘 怎么说呢就是说自己是男娘然后主页全是什么找xx 男味很重的\n更喜欢那种死宅男娘不知道为什么 虽然这种爆猪率较高吧🖐️🖐️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091959007783407969",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 119,
+          "like_count": 1794,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T08:47:40.000Z",
+        "description": "非典型顺直女",
+        "id": "1830165581800390656",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2091925589859217767",
+        "name": "qWe",
+        "pinned_tweet_id": "2010368484539298137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830165581800390656/1786040448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 179,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2878
+        },
+        "url": "",
+        "username": "TTYYqwe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2084166755115561335",
+    "created_at": "2026-08-04T19:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084716363889741961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312730595022249984",
+          "start": 0,
+          "username": "1686746334G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084716363889741961",
+    "in_reply_to_user_id": "1312730595022249984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084686495341072719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1686746334G 有点，不过还好吧，我感觉没什么奇怪的，只是我原本就觉得自己长得挺好看，然后现在又被说就更确信了，我估计后面就没什么新奇的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2084166755115561335",
+        "created_at": "2026-08-04T19:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084716363889741961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312730595022249984",
+              "start": 0,
+              "username": "1686746334G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084716363889741961",
+        "in_reply_to_user_id": "1312730595022249984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686495341072719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1686746334G 有点，不过还好吧，我感觉没什么奇怪的，只是我原本就觉得自己长得挺好看，然后现在又被说就更确信了，我估计后面就没什么新奇的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312730595022249984",
+        "conversation_id": "2084166755115561335",
+        "created_at": "2026-08-04T17:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084686495341072719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084686495341072719",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084166755115561335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 那你有没有暗爽🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 115,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-04T12:25:52.000Z",
+        "description": "吃货一枚",
+        "id": "1312730595022249984",
+        "location": "美国",
+        "name": "老鸟爱吃家",
+        "pinned_tweet_id": "1582777135550586880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889590829536387072/sZXYopD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 439,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "1686746334G",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084706154010095617"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2084706166756540731",
+    "created_at": "2026-08-04T18:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084706166756540731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DjDS7xHk2",
+          "end": 64,
+          "expanded_url": "https://x.com/yvame_rain/status/2084706166756540731/photo/1",
+          "media_key": "3_2084706154010095617",
+          "start": 41,
+          "url": "https://t.co/0DjDS7xHk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084706166756540731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个月就1000粉丝了，感谢大家，1200粉，我会弄个抽奖，我在想抽奖送什么东西 https://t.co/0DjDS7xHk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084706154010095617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5dM6rXsAEqkgp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084706154010095617"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2084706166756540731",
+        "created_at": "2026-08-04T18:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084706166756540731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DjDS7xHk2",
+              "end": 64,
+              "expanded_url": "https://x.com/yvame_rain/status/2084706166756540731/photo/1",
+              "media_key": "3_2084706154010095617",
+              "start": 41,
+              "url": "https://t.co/0DjDS7xHk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084706166756540731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个月就1000粉丝了，感谢大家，1200粉，我会弄个抽奖，我在想抽奖送什么东西 https://t.co/0DjDS7xHk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 115,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

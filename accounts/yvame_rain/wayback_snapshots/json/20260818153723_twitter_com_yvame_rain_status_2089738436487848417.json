@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2089738436487848417",
+    "created_at": "2026-08-18T15:37:23.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089738436487848417"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089738436487848417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等我过段时间男角色cos都出来之后，想发视频去锐评你们这些土味男娘，装可爱卖萌肯定不是我的风格呀，大部分女生他们也不会刻意装可爱卖萌，别觉得自己老可爱了，我cos男角色还是cos女角色都好看，不存在找不到对象才女装这一说，我也不压抑，我是个精神需求很大的人，长得好看怎么样都好看，不像你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2089738436487848417",
+        "created_at": "2026-08-18T15:37:23.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089738436487848417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089738436487848417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我过段时间男角色cos都出来之后，想发视频去锐评你们这些土味男娘，装可爱卖萌肯定不是我的风格呀，大部分女生他们也不会刻意装可爱卖萌，别觉得自己老可爱了，我cos男角色还是cos女角色都好看，不存在找不到对象才女装这一说，我也不压抑，我是个精神需求很大的人，长得好看怎么样都好看，不像你们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089738436487848417",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 118,
+          "like_count": 1713,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

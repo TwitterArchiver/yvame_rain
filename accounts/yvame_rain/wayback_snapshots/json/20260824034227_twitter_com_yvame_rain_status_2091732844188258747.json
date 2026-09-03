@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091732833865981952"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2091732844188258747",
+    "created_at": "2026-08-24T03:42:27.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T04:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091732844188258747"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KHdBd3Dnu",
+          "end": 28,
+          "expanded_url": "https://x.com/yvame_rain/status/2091732844188258747/photo/1",
+          "media_key": "3_2091732833865981952",
+          "start": 5,
+          "url": "https://t.co/2KHdBd3Dnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091732844188258747",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091732833865981952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/2KHdBd3Dnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2091732833865981952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdT7g-aYAA2DPw.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091732833865981952"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2091732844188258747",
+        "created_at": "2026-08-24T03:42:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091732844188258747"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KHdBd3Dnu",
+              "end": 28,
+              "expanded_url": "https://x.com/yvame_rain/status/2091732844188258747/photo/1",
+              "media_key": "3_2091732833865981952",
+              "start": 5,
+              "url": "https://t.co/2KHdBd3Dnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091732844188258747",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091732833865981952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/2KHdBd3Dnu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091732844188258747",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 118,
+          "like_count": 1782,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

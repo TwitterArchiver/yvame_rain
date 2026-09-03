@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085675640297074688"
+      ],
+      "media_source_tweet_id": [
+        "2085675651307041212"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2085680353511899629",
+    "created_at": "2026-08-07T10:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085680353511899629"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "水上由岐"
+        },
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1112411531944304642",
+          "start": 3,
+          "username": "ratossaofofos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qP8PDPxUG3",
+          "end": 59,
+          "expanded_url": "https://x.com/ratossaofofos/status/2085675651307041212/photo/1",
+          "media_key": "3_2085675640297074688",
+          "start": 36,
+          "url": "https://t.co/qP8PDPxUG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085680353511899629",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085675651307041212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratossaofofos: #水上由岐 #素晴らしき日々 🍀 https://t.co/qP8PDPxUG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_2085675640297074688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHO8ciXsAAzOfC.jpg",
+        "width": 2937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085675640297074688"
+          ]
+        },
+        "author_id": "1112411531944304642",
+        "conversation_id": "2085675651307041212",
+        "created_at": "2026-08-07T10:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085675651307041212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qP8PDPxUG3",
+              "end": 40,
+              "expanded_url": "https://x.com/ratossaofofos/status/2085675651307041212/photo/1",
+              "media_key": "3_2085675640297074688",
+              "start": 17,
+              "url": "https://t.co/qP8PDPxUG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085675651307041212",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 149,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#水上由岐 #素晴らしき日々 🍀 https://t.co/qP8PDPxUG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085675640297074688"
+          ],
+          "media_source_tweet_id": [
+            "2085675651307041212"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085680353511899629",
+        "created_at": "2026-08-07T10:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085680353511899629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1112411531944304642",
+              "start": 3,
+              "username": "ratossaofofos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qP8PDPxUG3",
+              "end": 59,
+              "expanded_url": "https://x.com/ratossaofofos/status/2085675651307041212/photo/1",
+              "media_key": "3_2085675640297074688",
+              "start": 36,
+              "url": "https://t.co/qP8PDPxUG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680353511899629",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085675651307041212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratossaofofos: #水上由岐 #素晴らしき日々 🍀 https://t.co/qP8PDPxUG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 116,
+          "like_count": 1582,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-31T17:49:11.000Z",
+        "description": "the girl who is the world itself. PT•BR/ENG",
+        "id": "1112411531944304642",
+        "location": "幸福に生きよ！🌻",
+        "name": "yuki",
+        "pinned_tweet_id": "2085493473738731993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950600364593446912/UGtkfKUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 901,
+          "like_count": 39150,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 17697
+        },
+        "url": "",
+        "username": "ratossaofofos",
+        "verified": false
+      }
+    ]
+  }
+}

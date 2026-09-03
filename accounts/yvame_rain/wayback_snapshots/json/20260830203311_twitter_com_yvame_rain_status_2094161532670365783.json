@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094080970496643072"
+      ],
+      "media_source_tweet_id": [
+        "2094080990826385426"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2094161532670365783",
+    "created_at": "2026-08-30T20:33:11.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T21:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094161532670365783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "753983218622136322",
+          "start": 3,
+          "username": "Pile258"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XVWBF98hQb",
+          "end": 46,
+          "expanded_url": "https://x.com/Pile258/status/2094080990826385426/photo/1",
+          "media_key": "3_2094080970496643072",
+          "start": 23,
+          "url": "https://t.co/XVWBF98hQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094161532670365783",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094080970496643072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094080990826385426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pile258: 这两天的课程示范~ https://t.co/XVWBF98hQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094080970496643072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-rjDlbkAAHulp.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094080970496643072"
+          ],
+          "media_source_tweet_id": [
+            "2094080990826385426"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094161532670365783",
+        "created_at": "2026-08-30T20:33:11.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094161532670365783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "753983218622136322",
+              "start": 3,
+              "username": "Pile258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVWBF98hQb",
+              "end": 46,
+              "expanded_url": "https://x.com/Pile258/status/2094080990826385426/photo/1",
+              "media_key": "3_2094080970496643072",
+              "start": 23,
+              "url": "https://t.co/XVWBF98hQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094161532670365783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094080970496643072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094080990826385426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pile258: 这两天的课程示范~ https://t.co/XVWBF98hQb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094080970496643072"
+          ]
+        },
+        "author_id": "753983218622136322",
+        "conversation_id": "2094080990826385426",
+        "created_at": "2026-08-30T15:13:09.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094080990826385426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVWBF98hQb",
+              "end": 33,
+              "expanded_url": "https://x.com/Pile258/status/2094080990826385426/photo/1",
+              "media_key": "3_2094080970496643072",
+              "start": 10,
+              "url": "https://t.co/XVWBF98hQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094080990826385426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094080970496643072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 14888,
+          "like_count": 1799,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "这两天的课程示范~ https://t.co/XVWBF98hQb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2094161532670365783",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 121,
+          "like_count": 2105,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-15T16:03:02.000Z",
+        "description": "中国人，不擅长英语和日语，只能使用翻译器交流I'm accepting the request\n\ncommission：https://t.co/3TlEXog3u7\npixiv：https://t.co/qKC3S9DYX2\n商业委托请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mihuashi.com/stalls/57718",
+                "end": 83,
+                "expanded_url": "http://mihuashi.com/stalls/57718",
+                "start": 60,
+                "url": "https://t.co/3TlEXog3u7"
+              },
+              {
+                "display_url": "pixiv.net/users/21304996",
+                "end": 113,
+                "expanded_url": "http://pixiv.net/users/21304996",
+                "start": 90,
+                "url": "https://t.co/qKC3S9DYX2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/1854461747",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/1854461747",
+                "start": 0,
+                "url": "https://t.co/9MZiVcvgR1"
+              }
+            ]
+          }
+        },
+        "id": "753983218622136322",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094080990826385426",
+        "name": "落舟Pile",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753983218622136322/1725474651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683793737552625664/yzCiglfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50446,
+          "following_count": 1341,
+          "like_count": 2873,
+          "listed_count": 322,
+          "media_count": 405,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/9MZiVcvgR1",
+        "username": "Pile258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

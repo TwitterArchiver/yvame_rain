@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091466186685091840"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2091466250019098884",
+    "created_at": "2026-08-23T10:03:06.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091466250019098884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHXF0OD6cH",
+          "end": 63,
+          "expanded_url": "https://x.com/yvame_rain/status/2091466250019098884/video/1",
+          "media_key": "13_2091466186685091840",
+          "start": 40,
+          "url": "https://t.co/cHXF0OD6cH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091466250019098884",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091466186685091840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "格里菲斯的cos，不过我要把他卖掉了，今天请摄影拍了很多照片，过几天我会发出来 https://t.co/cHXF0OD6cH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17320,
+        "height": 720,
+        "media_key": "13_2091466186685091840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091466186685091840/img/ldYRlBT_Bn8i1P-5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091466186685091840/vid/avc1/480x270/o6T1iOHo_Ree588a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091466186685091840/vid/avc1/640x360/7mQ-BbyKSuEL9G5G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091466186685091840/vid/avc1/1280x720/kD5j0eDpIWSHxgV8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091466186685091840/pl/TsdVj7a3Re8YMkhJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091466186685091840"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2091466250019098884",
+        "created_at": "2026-08-23T10:03:06.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091466250019098884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHXF0OD6cH",
+              "end": 63,
+              "expanded_url": "https://x.com/yvame_rain/status/2091466250019098884/video/1",
+              "media_key": "13_2091466186685091840",
+              "start": 40,
+              "url": "https://t.co/cHXF0OD6cH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091466250019098884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091466186685091840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "格里菲斯的cos，不过我要把他卖掉了，今天请摄影拍了很多照片，过几天我会发出来 https://t.co/cHXF0OD6cH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091466250019098884",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 117,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

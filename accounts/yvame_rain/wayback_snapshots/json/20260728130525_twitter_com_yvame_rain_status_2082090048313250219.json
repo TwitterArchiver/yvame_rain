@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2082080348171567263",
+    "created_at": "2026-07-28T13:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082090048313250219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921296124586893312",
+          "start": 0,
+          "username": "meari_1705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082090048313250219",
+    "in_reply_to_user_id": "1921296124586893312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082080348171567263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meari_1705 CUTE！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3829,
+        "media_key": "3_2082080339426521088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUJCZFXsAA8rhY.jpg",
+        "width": 2639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2082080348171567263",
+        "created_at": "2026-07-28T13:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082090048313250219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921296124586893312",
+              "start": 0,
+              "username": "meari_1705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082090048313250219",
+        "in_reply_to_user_id": "1921296124586893312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082080348171567263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meari_1705 CUTE！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082080339426521088"
+          ]
+        },
+        "author_id": "1921296124586893312",
+        "conversation_id": "2082080348171567263",
+        "created_at": "2026-07-28T12:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082080348171567263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykmkZsKxYg",
+              "end": 23,
+              "expanded_url": "https://x.com/meari_1705/status/2082080348171567263/photo/1",
+              "media_key": "3_2082080339426521088",
+              "start": 0,
+              "url": "https://t.co/ykmkZsKxYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082080348171567263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ykmkZsKxYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 108,
+          "like_count": 1410,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T20:08:00.000Z",
+        "description": "⋆𐙚₊˚⊹♡\npl/en \nthrone : https://t.co/wFOgUuMvEs\n₊˚⊹ ᰔ \nhttps://t.co/uecstaw7uB\n₊˚⊹ ᰔ \nrepost only with credit \n₊˚⊹ ᰔ \npriv acc: @yuyu_1705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "yuyu_1705"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/meari_1705",
+                "end": 46,
+                "expanded_url": "https://throne.com/meari_1705",
+                "start": 23,
+                "url": "https://t.co/wFOgUuMvEs"
+              },
+              {
+                "display_url": "ko-fi.com/meari_1705",
+                "end": 77,
+                "expanded_url": "https://ko-fi.com/meari_1705",
+                "start": 54,
+                "url": "https://t.co/uecstaw7uB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mearii.ri?utm_…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mearii.ri?utm_source=linktree_profile_share&ltsid=c3f495f5-d2a0-4655-8040-4cb933bf",
+                "start": 0,
+                "url": "https://t.co/SFf3J0azB7"
+              }
+            ]
+          }
+        },
+        "id": "1921296124586893312",
+        "name": "meari",
+        "pinned_tweet_id": "1990059179068064135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023452495616299009/Elh5YIVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7152,
+          "following_count": 802,
+          "like_count": 18155,
+          "listed_count": 12,
+          "media_count": 1353,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/SFf3J0azB7",
+        "username": "meari_1705",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093465605324304384",
+        "3_2093465605336944640"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2093465635061928228",
+    "created_at": "2026-08-28T22:27:56.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T23:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093465635061928228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uvk5QBEmXr",
+          "end": 129,
+          "expanded_url": "https://x.com/yvame_rain/status/2093465635061928228/photo/1",
+          "media_key": "3_2093465605324304384",
+          "start": 106,
+          "url": "https://t.co/Uvk5QBEmXr"
+        },
+        {
+          "display_url": "pic.x.com/Uvk5QBEmXr",
+          "end": 129,
+          "expanded_url": "https://x.com/yvame_rain/status/2093465635061928228/photo/1",
+          "media_key": "3_2093465605336944640",
+          "start": 106,
+          "url": "https://t.co/Uvk5QBEmXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093465635061928228",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093465605324304384"
+      },
+      {
+        "media_key": "3_2093465605336944640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好莫名其妙，感觉这个大叔有40 50岁，我也不知道从哪儿找到的我，感觉都已经有自己的孩子了看男娘，居然还有这种癖好......喜欢伪娘......好奇怪的人，而且我这个qq号还是新注册的，怎么找到我的..... https://t.co/Uvk5QBEmXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093465605324304384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ174FracAA8oET.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093465605336944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ174FubUAASZvw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093465605324304384",
+            "3_2093465605336944640"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2093465635061928228",
+        "created_at": "2026-08-28T22:27:56.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093465635061928228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uvk5QBEmXr",
+              "end": 129,
+              "expanded_url": "https://x.com/yvame_rain/status/2093465635061928228/photo/1",
+              "media_key": "3_2093465605324304384",
+              "start": 106,
+              "url": "https://t.co/Uvk5QBEmXr"
+            },
+            {
+              "display_url": "pic.x.com/Uvk5QBEmXr",
+              "end": 129,
+              "expanded_url": "https://x.com/yvame_rain/status/2093465635061928228/photo/1",
+              "media_key": "3_2093465605336944640",
+              "start": 106,
+              "url": "https://t.co/Uvk5QBEmXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093465635061928228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093465605324304384"
+          },
+          {
+            "media_key": "3_2093465605336944640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好莫名其妙，感觉这个大叔有40 50岁，我也不知道从哪儿找到的我，感觉都已经有自己的孩子了看男娘，居然还有这种癖好......喜欢伪娘......好奇怪的人，而且我这个qq号还是新注册的，怎么找到我的..... https://t.co/Uvk5QBEmXr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2093465635061928228",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 121,
+          "like_count": 2015,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

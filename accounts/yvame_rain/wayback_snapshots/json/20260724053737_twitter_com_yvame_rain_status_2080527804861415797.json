@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2080518392293802228",
+    "created_at": "2026-07-24T05:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080527804861415797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1967217075681959936",
+          "start": 0,
+          "username": "IeO_Oe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080527804861415797",
+    "in_reply_to_user_id": "1967217075681959936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080526941086532061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IeO_Oe1 问题是他们太丑了，我又不丑，我也不烧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2080518392293802228",
+        "created_at": "2026-07-24T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080527804861415797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1967217075681959936",
+              "start": 0,
+              "username": "IeO_Oe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080527804861415797",
+        "in_reply_to_user_id": "1967217075681959936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080526941086532061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IeO_Oe1 问题是他们太丑了，我又不丑，我也不烧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967217075681959936",
+        "conversation_id": "2080518392293802228",
+        "created_at": "2026-07-24T05:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080526941086532061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080526941086532061",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080520591975555317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 接受不了的人很难改变啊…把这个当成提纯呢？🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 115,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-14T13:21:41.000Z",
+        "description": "|扩列私信💕|互fo💕|秒回复|psjk|BA|猎杀对决|轻小说|so on…\n尽情依赖我🥰\n如果有想ps的图片我可以帮忙💕\n和我聊什么我都能知道💕💕(大概)\n趣味の合う人と話をしたいだけです！",
+        "id": "1967217075681959936",
+        "location": "在你身边💕",
+        "name": "迟到的架子",
+        "pinned_tweet_id": "2080317892881453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135218885816320/YnJx8xHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 58,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "IeO_Oe1",
+        "verified": false
+      }
+    ]
+  }
+}

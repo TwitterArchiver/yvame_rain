@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092080871713206272"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2092080890453373314",
+    "created_at": "2026-08-25T02:45:27.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092080890453373314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRD7mR3i2p",
+          "end": 38,
+          "expanded_url": "https://x.com/yvame_rain/status/2092080890453373314/photo/1",
+          "media_key": "3_2092080871713206272",
+          "start": 15,
+          "url": "https://t.co/cRD7mR3i2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092080890453373314",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092080871713206272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出门顺手买了一个超天酱的娃娃 https://t.co/cRD7mR3i2p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092080871713206272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiQd-_a8AA2F_G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092080871713206272"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2092080890453373314",
+        "created_at": "2026-08-25T02:45:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092080890453373314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRD7mR3i2p",
+              "end": 38,
+              "expanded_url": "https://x.com/yvame_rain/status/2092080890453373314/photo/1",
+              "media_key": "3_2092080871713206272",
+              "start": 15,
+              "url": "https://t.co/cRD7mR3i2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092080890453373314",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092080871713206272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门顺手买了一个超天酱的娃娃 https://t.co/cRD7mR3i2p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092080890453373314",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 120,
+          "like_count": 1810,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

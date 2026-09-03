@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083930449689313280"
+      ],
+      "media_source_tweet_id": [
+        "2083930481117261950"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2083943533312930031",
+    "created_at": "2026-08-02T15:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083943533312930031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846739759085113346",
+          "start": 3,
+          "username": "twilightversu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1ym9GqXC6",
+          "end": 42,
+          "expanded_url": "https://x.com/twilightversu/status/2083930481117261950/video/1",
+          "media_key": "13_2083930449689313280",
+          "start": 19,
+          "url": "https://t.co/u1ym9GqXC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083943533312930031",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083930481117261950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twilightversu: https://t.co/u1ym9GqXC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2368,
+        "height": 1280,
+        "media_key": "13_2083930449689313280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083930449689313280/img/NORrJMLf9sWo5VUz.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083930449689313280/vid/avc1/320x568/tws1IqPJVWFdCwXz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083930449689313280/vid/avc1/480x852/Pdum009Lr88rBNEk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083930449689313280/vid/avc1/720x1280/BD4dgmqEDpCbN7Q7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083930449689313280/pl/ydAY_8UGl7kWk3RW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083930449689313280"
+          ]
+        },
+        "author_id": "1846739759085113346",
+        "conversation_id": "2083930481117261950",
+        "created_at": "2026-08-02T14:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083930481117261950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1ym9GqXC6",
+              "end": 23,
+              "expanded_url": "https://x.com/twilightversu/status/2083930481117261950/video/1",
+              "media_key": "13_2083930449689313280",
+              "start": 0,
+              "url": "https://t.co/u1ym9GqXC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083930481117261950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 281,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u1ym9GqXC6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083930449689313280"
+          ],
+          "media_source_tweet_id": [
+            "2083930481117261950"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2083943533312930031",
+        "created_at": "2026-08-02T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083943533312930031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846739759085113346",
+              "start": 3,
+              "username": "twilightversu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1ym9GqXC6",
+              "end": 42,
+              "expanded_url": "https://x.com/twilightversu/status/2083930481117261950/video/1",
+              "media_key": "13_2083930449689313280",
+              "start": 19,
+              "url": "https://t.co/u1ym9GqXC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083943533312930031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083930481117261950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twilightversu: https://t.co/u1ym9GqXC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 109,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉很穷还高p让让我丨闺闺@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "视觉动物",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538782851907584/a5B4WcgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12988,
+          "following_count": 727,
+          "like_count": 22857,
+          "listed_count": 51,
+          "media_count": 32,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}

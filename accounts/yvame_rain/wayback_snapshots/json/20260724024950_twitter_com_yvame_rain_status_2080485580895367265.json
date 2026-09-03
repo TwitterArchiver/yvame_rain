@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2080378972508967171",
+    "created_at": "2026-07-24T02:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080485580895367265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066251370714251264",
+          "start": 0,
+          "username": "angelrespawn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080485580895367265",
+    "in_reply_to_user_id": "2066251370714251264",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080378972508967171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelrespawn CUTE🥹💗💗💗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2080378967400357888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN79pgYXoAAWkzI.jpg",
+        "width": 1707
+      },
+      {
+        "height": 953,
+        "media_key": "3_2080378967383474176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN79pgUWAAAzUzs.jpg",
+        "width": 1704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2080378972508967171",
+        "created_at": "2026-07-24T02:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080485580895367265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066251370714251264",
+              "start": 0,
+              "username": "angelrespawn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485580895367265",
+        "in_reply_to_user_id": "2066251370714251264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080378972508967171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelrespawn CUTE🥹💗💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080378967400357888",
+            "3_2080378967383474176"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041986259",
+              "name": "この素晴らしい世界に祝福を!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1370163757012316163",
+              "name": "KonoSuba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370163757012316163",
+              "name": "KonoSuba"
+            }
+          }
+        ],
+        "conversation_id": "2080378972508967171",
+        "created_at": "2026-07-23T19:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080378972508967171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "konosuba"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "megumin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2j69f8dbJ",
+              "end": 53,
+              "expanded_url": "https://x.com/angelrespawn/status/2080378972508967171/photo/1",
+              "media_key": "3_2080378967400357888",
+              "start": 30,
+              "url": "https://t.co/y2j69f8dbJ"
+            },
+            {
+              "display_url": "pic.x.com/y2j69f8dbJ",
+              "end": 53,
+              "expanded_url": "https://x.com/angelrespawn/status/2080378972508967171/photo/1",
+              "media_key": "3_2080378967383474176",
+              "start": 30,
+              "url": "https://t.co/y2j69f8dbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080378972508967171",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6463,
+          "like_count": 775,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "explodes u #konosuba #megumin https://t.co/y2j69f8dbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 115,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "total moe takeover !! 147cm🪽 ♰ @kagerouudazed 💢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "kagerouudazed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMR7xc"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿+ 🇯🇵🐈‍⬛",
+        "name": "hime",
+        "pinned_tweet_id": "2075311110996070617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071668202287902720/EaApLZPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 99,
+          "like_count": 2310,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/evuquMR7xc",
+        "username": "angelrespawn",
+        "verified": false
+      }
+    ]
+  }
+}

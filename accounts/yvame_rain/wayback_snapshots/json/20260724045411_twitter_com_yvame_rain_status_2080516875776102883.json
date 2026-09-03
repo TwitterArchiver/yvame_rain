@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080516866221469696",
+        "3_2080516866246668289"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2080516875776102883",
+    "created_at": "2026-07-24T04:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080516875776102883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ep9XDuQIcd",
+          "end": 72,
+          "expanded_url": "https://x.com/yvame_rain/status/2080516875776102883/photo/1",
+          "media_key": "3_2080516866221469696",
+          "start": 49,
+          "url": "https://t.co/Ep9XDuQIcd"
+        },
+        {
+          "display_url": "pic.x.com/Ep9XDuQIcd",
+          "end": 72,
+          "expanded_url": "https://x.com/yvame_rain/status/2080516875776102883/photo/1",
+          "media_key": "3_2080516866246668289",
+          "start": 49,
+          "url": "https://t.co/Ep9XDuQIcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080516875776102883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备选一个cos一下格里菲斯，之后应该会很少会cos男角色了，不过我真的很喜欢这种美少年，美男子 https://t.co/Ep9XDuQIcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2080516866221469696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN97ERhW8AAr0Dv.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080516866246668289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN97ERnXcAEGJGS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080516866221469696",
+            "3_2080516866246668289"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2080516875776102883",
+        "created_at": "2026-07-24T04:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080516875776102883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ep9XDuQIcd",
+              "end": 72,
+              "expanded_url": "https://x.com/yvame_rain/status/2080516875776102883/photo/1",
+              "media_key": "3_2080516866221469696",
+              "start": 49,
+              "url": "https://t.co/Ep9XDuQIcd"
+            },
+            {
+              "display_url": "pic.x.com/Ep9XDuQIcd",
+              "end": 72,
+              "expanded_url": "https://x.com/yvame_rain/status/2080516875776102883/photo/1",
+              "media_key": "3_2080516866246668289",
+              "start": 49,
+              "url": "https://t.co/Ep9XDuQIcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080516875776102883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备选一个cos一下格里菲斯，之后应该会很少会cos男角色了，不过我真的很喜欢这种美少年，美男子 https://t.co/Ep9XDuQIcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 115,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

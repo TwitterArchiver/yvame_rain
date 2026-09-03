@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084998870258323456"
+      ],
+      "media_source_tweet_id": [
+        "2084998882291851384"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2085060833965437207",
+    "created_at": "2026-08-05T17:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085060833965437207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921296124586893312",
+          "start": 3,
+          "username": "meari_1705"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUPIx9s4kk",
+          "end": 79,
+          "expanded_url": "https://x.com/meari_1705/status/2084998882291851384/photo/1",
+          "media_key": "3_2084998870258323456",
+          "start": 56,
+          "url": "https://t.co/gUPIx9s4kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085060833965437207",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084998882291851384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meari_1705: I'll show you the qualities of a Magus! https://t.co/gUPIx9s4kk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3687,
+        "media_key": "3_2084998870258323456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9nbPrWkAAZwdA.jpg",
+        "width": 2685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084998870258323456"
+          ]
+        },
+        "author_id": "1921296124586893312",
+        "conversation_id": "2084998882291851384",
+        "created_at": "2026-08-05T13:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084998882291851384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUPIx9s4kk",
+              "end": 63,
+              "expanded_url": "https://x.com/meari_1705/status/2084998882291851384/photo/1",
+              "media_key": "3_2084998870258323456",
+              "start": 40,
+              "url": "https://t.co/gUPIx9s4kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084998882291851384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 823,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "I'll show you the qualities of a Magus! https://t.co/gUPIx9s4kk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084998870258323456"
+          ],
+          "media_source_tweet_id": [
+            "2084998882291851384"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085060833965437207",
+        "created_at": "2026-08-05T17:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085060833965437207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921296124586893312",
+              "start": 3,
+              "username": "meari_1705"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUPIx9s4kk",
+              "end": 79,
+              "expanded_url": "https://x.com/meari_1705/status/2084998882291851384/photo/1",
+              "media_key": "3_2084998870258323456",
+              "start": 56,
+              "url": "https://t.co/gUPIx9s4kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085060833965437207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084998882291851384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meari_1705: I'll show you the qualities of a Magus! https://t.co/gUPIx9s4kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 115,
+          "like_count": 1536,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T20:08:00.000Z",
+        "description": "⋆𐙚₊˚⊹♡\npl/en \nthrone : https://t.co/wFOgUuMvEs\n₊˚⊹ ᰔ \nhttps://t.co/uecstaw7uB\n₊˚⊹ ᰔ \nrepost only with credit \n₊˚⊹ ᰔ \npriv acc: @yuyu_1705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "yuyu_1705"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/meari_1705",
+                "end": 46,
+                "expanded_url": "https://throne.com/meari_1705",
+                "start": 23,
+                "url": "https://t.co/wFOgUuMvEs"
+              },
+              {
+                "display_url": "ko-fi.com/meari_1705",
+                "end": 77,
+                "expanded_url": "https://ko-fi.com/meari_1705",
+                "start": 54,
+                "url": "https://t.co/uecstaw7uB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mearii.ri?utm_…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mearii.ri?utm_source=linktree_profile_share&ltsid=c3f495f5-d2a0-4655-8040-4cb933bf",
+                "start": 0,
+                "url": "https://t.co/SFf3J0azB7"
+              }
+            ]
+          }
+        },
+        "id": "1921296124586893312",
+        "name": "meari",
+        "pinned_tweet_id": "1990059179068064135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023452495616299009/Elh5YIVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7139,
+          "following_count": 803,
+          "like_count": 18384,
+          "listed_count": 12,
+          "media_count": 1368,
+          "tweet_count": 5423
+        },
+        "url": "https://t.co/SFf3J0azB7",
+        "username": "meari_1705",
+        "verified": false
+      }
+    ]
+  }
+}

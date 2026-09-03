@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2089379048380314081",
+    "created_at": "2026-08-18T11:21:31.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089674048007540843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824480380797521920",
+          "start": 0,
+          "username": "emu_ddd_ume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089674048007540843",
+    "in_reply_to_user_id": "1824480380797521920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089587039633317921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emu_ddd_ume 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2089379048380314081",
+        "created_at": "2026-08-18T11:21:31.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089674048007540843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824480380797521920",
+              "start": 0,
+              "username": "emu_ddd_ume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089674048007540843",
+        "in_reply_to_user_id": "1824480380797521920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089587039633317921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emu_ddd_ume 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824480380797521920",
+        "conversation_id": "2089379048380314081",
+        "created_at": "2026-08-18T05:35:47.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089587039633317921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089587039633317921",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089379048380314081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain X上另一個我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089674048007540843",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 117,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T16:16:47.000Z",
+        "description": "希死念慮/社不/病み/自傷\n俺はいいけど、お前はダメ‼️\nADHD.ASD(自閉症) 発達障害 双極性障害 \n自律神経失調症 パニック障害 不安障害\n同類互fo 查成分回追",
+        "id": "1824480380797521920",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2089587039633317921",
+        "name": "えむ",
+        "pinned_tweet_id": "2066855691151978719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824480380797521920/1780242530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056589073192796160/pfix3XB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 133,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "emu_ddd_ume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

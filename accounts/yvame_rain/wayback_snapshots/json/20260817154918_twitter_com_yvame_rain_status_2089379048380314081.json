@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089378976208957440"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2089379048380314081",
+    "created_at": "2026-08-17T15:49:18.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089379048380314081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ouj6sl2dbG",
+          "end": 42,
+          "expanded_url": "https://x.com/yvame_rain/status/2089379048380314081/photo/1",
+          "media_key": "3_2089378976208957440",
+          "start": 19,
+          "url": "https://t.co/Ouj6sl2dbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089379048380314081",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089378976208957440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头发要成黄毛了，之后继续染蓝色怎么样 https://t.co/Ouj6sl2dbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2089378976208957440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP73G94asAALuSD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089378976208957440"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2089379048380314081",
+        "created_at": "2026-08-17T15:49:18.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089379048380314081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ouj6sl2dbG",
+              "end": 42,
+              "expanded_url": "https://x.com/yvame_rain/status/2089379048380314081/photo/1",
+              "media_key": "3_2089378976208957440",
+              "start": 19,
+              "url": "https://t.co/Ouj6sl2dbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089379048380314081",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089378976208957440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发要成黄毛了，之后继续染蓝色怎么样 https://t.co/Ouj6sl2dbG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089379048380314081",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 116,
+          "like_count": 1693,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

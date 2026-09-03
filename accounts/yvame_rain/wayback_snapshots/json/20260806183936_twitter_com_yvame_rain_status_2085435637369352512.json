@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085435534403403776"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2085435637369352512",
+    "created_at": "2026-08-06T18:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085435637369352512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sTOTMN60i",
+          "end": 38,
+          "expanded_url": "https://x.com/yvame_rain/status/2085435637369352512/video/1",
+          "media_key": "13_2085435534403403776",
+          "start": 15,
+          "url": "https://t.co/5sTOTMN60i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085435637369352512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我快变成黄毛了，没以前忧郁了 https://t.co/5sTOTMN60i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14557,
+        "height": 1920,
+        "media_key": "13_2085435534403403776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085435534403403776/img/Z93SA9f6VWNtz2ae.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085435534403403776/vid/avc1/720x1280/IUdY1Vx_IjiY4hr4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085435534403403776/pl/KZPDPWLPDoKF8cKI.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085435534403403776/vid/avc1/320x568/VZLtpPTVsIcW8aFA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085435534403403776/vid/avc1/1080x1920/aYcFcYjzpJJ1WXe-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085435534403403776/vid/avc1/480x852/5mGohLP8EEMUL_f_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085435534403403776"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2085435637369352512",
+        "created_at": "2026-08-06T18:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085435637369352512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sTOTMN60i",
+              "end": 38,
+              "expanded_url": "https://x.com/yvame_rain/status/2085435637369352512/video/1",
+              "media_key": "13_2085435534403403776",
+              "start": 15,
+              "url": "https://t.co/5sTOTMN60i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085435637369352512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快变成黄毛了，没以前忧郁了 https://t.co/5sTOTMN60i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085378507568279552/oVGlXI_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 116,
+          "like_count": 1566,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}
