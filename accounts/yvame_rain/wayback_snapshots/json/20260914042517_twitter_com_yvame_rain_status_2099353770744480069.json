@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2099240735102914585",
+    "created_at": "2026-09-14T04:25:17.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T05:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099353770744480069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066251370714251264",
+          "start": 0,
+          "username": "angelrespawn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099353770744480069",
+    "in_reply_to_user_id": "2066251370714251264",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099240735102914585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelrespawn Me too..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2099240735102914585",
+        "created_at": "2026-09-14T04:25:17.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099353770744480069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066251370714251264",
+              "start": 0,
+              "username": "angelrespawn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099353770744480069",
+        "in_reply_to_user_id": "2066251370714251264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099240735102914585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelrespawn Me too..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066251370714251264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2099240735102914585",
+        "created_at": "2026-09-13T20:56:07.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099240735102914585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099240735102914585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1562,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cosplaying is the only hobby i realy take happiness and pride from i hope to do it forever =^= i hate alot of things in real life and twitter brungs me joy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我//另一个我@kosame_yv\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kosame_yv"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2099353770744480069",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 92,
+          "like_count": 3215,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "tsundere service 🥞 147cm ♰ @systematiiclove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "systematiiclove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMQzHE"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "is_identity_verified": false,
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿+ 🇯🇵 🐈‍⬛",
+        "most_recent_tweet_id": "2099293062677639461",
+        "name": "hime",
+        "pinned_tweet_id": "2083363076217168370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066251370714251264/1788994708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093880187389661184/6rqJJTde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 150,
+          "like_count": 4609,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/evuquMQzHE",
+        "username": "angelrespawn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

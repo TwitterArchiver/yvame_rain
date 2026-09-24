@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2100536228349084042",
+    "created_at": "2026-09-17T12:53:13.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100568760184954887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310330776148377604",
+          "start": 0,
+          "username": "_Adbuzese_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100568760184954887",
+    "in_reply_to_user_id": "1310330776148377604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100536228349084042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Adbuzese_ 可以找cosplay的一些朋友或者请圈子的人帮忙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100536210842128384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaajf0XEAAQlog.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100536210871492608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaajf7XIAA10pv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2100536210863067136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaajf5WkAA9sF_.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2100536228349084042",
+        "created_at": "2026-09-17T12:53:13.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100568760184954887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310330776148377604",
+              "start": 0,
+              "username": "_Adbuzese_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100568760184954887",
+        "in_reply_to_user_id": "1310330776148377604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100536228349084042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Adbuzese_ 可以找cosplay的一些朋友或者请圈子的人帮忙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100536210842128384",
+            "3_2100536210871492608",
+            "3_2100536210863067136"
+          ]
+        },
+        "author_id": "1310330776148377604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2100536228349084042",
+        "created_at": "2026-09-17T10:43:57.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100536228349084042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORLHAJT7uD",
+              "end": 197,
+              "expanded_url": "https://x.com/_Adbuzese_/status/2100536228349084042/photo/1",
+              "media_key": "3_2100536210842128384",
+              "start": 174,
+              "url": "https://t.co/ORLHAJT7uD"
+            },
+            {
+              "display_url": "pic.x.com/ORLHAJT7uD",
+              "end": 197,
+              "expanded_url": "https://x.com/_Adbuzese_/status/2100536228349084042/photo/1",
+              "media_key": "3_2100536210871492608",
+              "start": 174,
+              "url": "https://t.co/ORLHAJT7uD"
+            },
+            {
+              "display_url": "pic.x.com/ORLHAJT7uD",
+              "end": 197,
+              "expanded_url": "https://x.com/_Adbuzese_/status/2100536228349084042/photo/1",
+              "media_key": "3_2100536210863067136",
+              "start": 174,
+              "url": "https://t.co/ORLHAJT7uD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100536228349084042",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2100536210842128384"
+          },
+          {
+            "media_key": "3_2100536210871492608"
+          },
+          {
+            "media_key": "3_2100536210863067136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2477,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "В первый год жизни в Москве, я очень часто посещал аниме мероприятия. Хочу до сих пор, что нибудь закосплеить. Но пока денег жалко и у меня нету опыта в так называемом мейке https://t.co/ORLHAJT7uD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2100568760184954887",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 92,
+          "like_count": 3410,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-27T21:29:56.000Z",
+        "description": "Картавый видеоблогер, твиттерский микроселебрити, студент московского вуза пытающий создать интернациональный аккаунт и стать популярным во всем мире",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Adbuzese",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@Adbuzese",
+                "start": 0,
+                "url": "https://t.co/YGMLa1s3HJ"
+              }
+            ]
+          }
+        },
+        "id": "1310330776148377604",
+        "is_identity_verified": false,
+        "location": "Москва",
+        "most_recent_tweet_id": "2100559359931548125",
+        "name": "ArbuzChan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310330776148377604/1740671075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081398831283916800/EDi0_WAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 425,
+          "like_count": 60140,
+          "listed_count": 37,
+          "media_count": 1404,
+          "tweet_count": 6175
+        },
+        "url": "https://t.co/YGMLa1s3HJ",
+        "username": "_Adbuzese_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

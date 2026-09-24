@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2094763459753689196",
+    "created_at": "2026-09-01T12:27:26.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T13:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094764064933290238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094764064933290238",
+    "in_reply_to_user_id": "2063187473405227008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094763459753689196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "除了这件事以外，还有更过分的，我之前还没有辍学的时候，他们还总是希望我的成绩要达到前多少多少名，然后做不到就打我，然后还控制兴趣爱好，我跟同龄人根本没有任何能交流的，他还总是说我连朋友都交不到之类的事情来打我，一吵架一跟我说这种事，我就想起我以前那些不好的经历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094763459753689196",
+        "created_at": "2026-09-01T12:27:26.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094764064933290238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094764064933290238",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094763459753689196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "除了这件事以外，还有更过分的，我之前还没有辍学的时候，他们还总是希望我的成绩要达到前多少多少名，然后做不到就打我，然后还控制兴趣爱好，我跟同龄人根本没有任何能交流的，他还总是说我连朋友都交不到之类的事情来打我，一吵架一跟我说这种事，我就想起我以前那些不好的经历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094763459753689196",
+        "created_at": "2026-09-01T12:25:02.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094763459753689196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094763459753689196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好讨厌我父母，但是没有办法，现在还是在意未来结婚还有身体能不能传宗接代.......在意我身体就是16岁之前天天打我，我本来忘干净了，吵架提这些事情我就很不舒服，我想哭，我说真的我好讨厌，我自己都没人爱我，还要去为了传宗接代辛苦追女孩.......我不能接受，我不想当男孩，但是你们还是要逼我......不要逼我了，我也想有人关心我，喜欢男孩女孩是我的事情，我身体是我的事情，不要逼我了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "好讨厌我父母，但是没有办法，现在还是在意未来结婚还有身体能不能传宗接代.......在意我身体就是16岁之前天天打我，我本来忘干净了，吵架提这些事情我就很不舒服，我想哭，我说真的我好讨厌，我自己都没人爱我，还要去为了传宗接代辛苦追女孩.......我不能接受，我不想当男孩，但是你们还是要逼我...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2094764064933290238",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 112,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

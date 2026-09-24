@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2097593518747537412",
+    "created_at": "2026-09-09T08:21:22.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097601242965082117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772667429006843904",
+          "start": 0,
+          "username": "XLintheAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097601242965082117",
+    "in_reply_to_user_id": "1772667429006843904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097598448677929440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLintheAM EXPLOSION 💥💥💥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2097593518747537412",
+        "created_at": "2026-09-09T08:21:22.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097601242965082117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1772667429006843904",
+              "start": 0,
+              "username": "XLintheAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097601242965082117",
+        "in_reply_to_user_id": "1772667429006843904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097598448677929440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLintheAM EXPLOSION 💥💥💥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772667429006843904",
+        "conversation_id": "2097593518747537412",
+        "created_at": "2026-09-09T08:10:16.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097598448677929440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097598448677929440",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097593518747537412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain EXPLOSION 💥💥💥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//男孩♂叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2097601242965082117",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2097345560210719149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097186109759635457/2rPy9ZXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 96,
+          "like_count": 2891,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-26T16:50:43.000Z",
+        "description": "didn't know what to put here .  24 M, English and Spanish fluent! sorry I use a translator for other languages DM is open!",
+        "id": "1772667429006843904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097599386360684605",
+        "name": "anthrax",
+        "pinned_tweet_id": "1912453234201096395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772667429006843904/1711500134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772667677330599936/PMGu9XkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 190,
+          "like_count": 15419,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "XLintheAM",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

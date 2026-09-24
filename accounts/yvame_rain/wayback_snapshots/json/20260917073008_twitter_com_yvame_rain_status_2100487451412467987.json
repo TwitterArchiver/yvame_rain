@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2099837940478234935",
+    "created_at": "2026-09-17T07:30:08.000Z",
+    "display_text_range": [
+      12,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T08:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100487451412467987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310330776148377604",
+          "start": 0,
+          "username": "_Adbuzese_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100487451412467987",
+    "in_reply_to_user_id": "1310330776148377604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099837940478234935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Adbuzese_ 喜欢动漫这些建议去日本，中国的话可以去景区或者经济发达的地区的省会城市，也可以找我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2099837940478234935",
+        "created_at": "2026-09-17T07:30:08.000Z",
+        "display_text_range": [
+          12,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100487451412467987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310330776148377604",
+              "start": 0,
+              "username": "_Adbuzese_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100487451412467987",
+        "in_reply_to_user_id": "1310330776148377604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099837940478234935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Adbuzese_ 喜欢动漫这些建议去日本，中国的话可以去景区或者经济发达的地区的省会城市，也可以找我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310330776148377604",
+        "conversation_id": "2099837940478234935",
+        "created_at": "2026-09-15T12:29:12.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099837940478234935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099837940478234935",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12848,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 109,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Какие города Японии и Китая посетить? Собираюсь в ближайшие года попутешествовать по восточной азии"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2100487451412467987",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 92,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-27T21:29:56.000Z",
+        "description": "Картавый видеоблогер, твиттерский микроселебрити, студент московского вуза пытающий создать интернациональный аккаунт и стать популярным во всем мире",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Adbuzese",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@Adbuzese",
+                "start": 0,
+                "url": "https://t.co/YGMLa1s3HJ"
+              }
+            ]
+          }
+        },
+        "id": "1310330776148377604",
+        "is_identity_verified": false,
+        "location": "Москва",
+        "most_recent_tweet_id": "2100486914281472422",
+        "name": "ArbuzChan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310330776148377604/1740671075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081398831283916800/EDi0_WAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5888,
+          "following_count": 423,
+          "like_count": 59898,
+          "listed_count": 37,
+          "media_count": 1401,
+          "tweet_count": 6161
+        },
+        "url": "https://t.co/YGMLa1s3HJ",
+        "username": "_Adbuzese_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

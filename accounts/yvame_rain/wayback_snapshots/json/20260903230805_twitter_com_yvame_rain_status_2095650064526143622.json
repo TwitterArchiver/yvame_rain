@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095494438428786688"
+      ],
+      "media_source_tweet_id": [
+        "2095494472650133900"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2095650064526143622",
+    "created_at": "2026-09-03T23:08:05.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T00:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095650064526143622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2005091796247085065",
+          "start": 3,
+          "username": "gensyo5gaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XLtbpQQnhF",
+          "end": 40,
+          "expanded_url": "https://x.com/gensyo5gaku/status/2095494472650133900/photo/1",
+          "media_key": "3_2095494438428786688",
+          "start": 17,
+          "url": "https://t.co/XLtbpQQnhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095650064526143622",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095494438428786688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095494472650133900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gensyo5gaku: https://t.co/XLtbpQQnhF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095494438428786688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSxFt9awAAxkYz.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095494438428786688"
+          ],
+          "media_source_tweet_id": [
+            "2095494472650133900"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2095650064526143622",
+        "created_at": "2026-09-03T23:08:05.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095650064526143622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2005091796247085065",
+              "start": 3,
+              "username": "gensyo5gaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLtbpQQnhF",
+              "end": 40,
+              "expanded_url": "https://x.com/gensyo5gaku/status/2095494472650133900/photo/1",
+              "media_key": "3_2095494438428786688",
+              "start": 17,
+              "url": "https://t.co/XLtbpQQnhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095650064526143622",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095494438428786688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095494472650133900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gensyo5gaku: https://t.co/XLtbpQQnhF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095494438428786688"
+          ]
+        },
+        "author_id": "2005091796247085065",
+        "conversation_id": "2095494472650133900",
+        "created_at": "2026-09-03T12:49:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095494472650133900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLtbpQQnhF",
+              "end": 23,
+              "expanded_url": "https://x.com/gensyo5gaku/status/2095494472650133900/photo/1",
+              "media_key": "3_2095494438428786688",
+              "start": 0,
+              "url": "https://t.co/XLtbpQQnhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095494472650133900",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095494438428786688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 16634,
+          "like_count": 1676,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XLtbpQQnhF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095650064526143622",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 90,
+          "like_count": 2287,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-28T01:42:03.000Z",
+        "description": "",
+        "id": "2005091796247085065",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095494472650133900",
+        "name": "現象学",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005091796247085065/1771990006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006943438155964417/rod1fsNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3377,
+          "following_count": 264,
+          "like_count": 3891,
+          "listed_count": 16,
+          "media_count": 18,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "gensyo5gaku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

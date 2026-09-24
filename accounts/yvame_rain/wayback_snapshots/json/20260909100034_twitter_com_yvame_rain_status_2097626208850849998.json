@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2097614931734692165",
+    "created_at": "2026-09-09T10:00:34.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097626208850849998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356817167736471554",
+          "start": 0,
+          "username": "AVQVvl0qHnZRG6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097626208850849998",
+    "in_reply_to_user_id": "1356817167736471554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097625171687575812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AVQVvl0qHnZRG6J 不可以....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2097614931734692165",
+        "created_at": "2026-09-09T10:00:34.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097626208850849998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356817167736471554",
+              "start": 0,
+              "username": "AVQVvl0qHnZRG6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097626208850849998",
+        "in_reply_to_user_id": "1356817167736471554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097625171687575812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AVQVvl0qHnZRG6J 不可以....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356817167736471554",
+        "conversation_id": "2097614931734692165",
+        "created_at": "2026-09-09T09:56:27.000Z",
+        "display_text_range": [
+          12,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097625171687575812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097625171687575812",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097614931734692165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 我感觉目前还挺受欢迎的，而且主播你真的很可爱，可以认识一下有空一起在漫展玩吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//男孩♂叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2097626208850849998",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2097345560210719149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097186109759635457/2rPy9ZXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 96,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-03T04:10:06.000Z",
+        "description": "",
+        "id": "1356817167736471554",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097625171687575812",
+        "name": "赵铁柱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356817292852486156/8GLx6gxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 2241,
+          "like_count": 3240,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 3951
+        },
+        "url": "",
+        "username": "AVQVvl0qHnZRG6J",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2097345560210719149",
+    "created_at": "2026-09-08T15:41:57.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097349733283213748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978546302955991040",
+          "start": 0,
+          "username": "Jasonluckydai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097349733283213748",
+    "in_reply_to_user_id": "1978546302955991040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097348064398970887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonluckydai ？我为什么要关注你，右边不是有赞赏码吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2097345560210719149",
+        "created_at": "2026-09-08T15:41:57.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097349733283213748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978546302955991040",
+              "start": 0,
+              "username": "Jasonluckydai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097349733283213748",
+        "in_reply_to_user_id": "1978546302955991040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097348064398970887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonluckydai ？我为什么要关注你，右边不是有赞赏码吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978546302955991040",
+        "conversation_id": "2097345560210719149",
+        "created_at": "2026-09-08T15:35:20.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097348064398970887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097348064398970887",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097345560210719149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 你都还没关注我怎么资助你呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//男孩♂叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2097349733283213748",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2097345560210719149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097186109759635457/2rPy9ZXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 93,
+          "like_count": 2796,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T19:39:52.000Z",
+        "description": "",
+        "id": "1978546302955991040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097348064398970887",
+        "name": "Jasondai",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978546428357316608/KvV__SRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 84,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "Jasonluckydai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

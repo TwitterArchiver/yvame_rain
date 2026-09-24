@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2100805944338960589",
+    "created_at": "2026-09-19T07:26:22.000Z",
+    "display_text_range": [
+      17,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101211278236942426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2097819323947470857",
+          "start": 0,
+          "username": "systematiiclove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101211278236942426",
+    "in_reply_to_user_id": "2097819323947470857",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101082607287185728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@systematiiclove I will prepare one for you as well☺️💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2100805944338960589",
+        "created_at": "2026-09-19T07:26:22.000Z",
+        "display_text_range": [
+          17,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101211278236942426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2097819323947470857",
+              "start": 0,
+              "username": "systematiiclove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101211278236942426",
+        "in_reply_to_user_id": "2097819323947470857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101082607287185728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@systematiiclove I will prepare one for you as well☺️💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2097819323947470857",
+        "conversation_id": "2100805944338960589",
+        "created_at": "2026-09-18T22:55:04.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101082607287185728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101082607287185728",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100805944338960589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain i will come telepathically from england!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2101211278236942426",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 93,
+          "like_count": 3484,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T22:49:14.000Z",
+        "description": "@angelrespawn 🍎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "angelrespawn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/arC02fbJDx"
+              }
+            ]
+          }
+        },
+        "id": "2097819323947470857",
+        "is_identity_verified": false,
+        "location": "emergency food",
+        "most_recent_tweet_id": "2101082607287185728",
+        "name": "hime hime hime",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097819323947470857/1788994680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097821420671959040/M13s97sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 42,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/arC02fbJDx",
+        "username": "systematiiclove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

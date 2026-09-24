@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2097843456253284520",
+    "created_at": "2026-09-10T02:48:41.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097879907133243816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112411531944304642",
+          "start": 0,
+          "username": "ratossaofofos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097879907133243816",
+    "in_reply_to_user_id": "1112411531944304642",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097843456253284520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratossaofofos CUTE！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3910,
+        "media_key": "3_2097843430298906625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0JfClacAEjkX7.jpg",
+        "width": 2304
+      },
+      {
+        "height": 3771,
+        "media_key": "3_2097843442965467140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0JfxxW0AQOl4z.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2097843456253284520",
+        "created_at": "2026-09-10T02:48:41.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097879907133243816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112411531944304642",
+              "start": 0,
+              "username": "ratossaofofos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097879907133243816",
+        "in_reply_to_user_id": "1112411531944304642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097843456253284520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratossaofofos CUTE！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097843430298906625",
+            "3_2097843442965467140"
+          ]
+        },
+        "author_id": "1112411531944304642",
+        "conversation_id": "2097843456253284520",
+        "created_at": "2026-09-10T00:23:50.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097843456253284520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "SubaHibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRpPDOhs1p",
+              "end": 48,
+              "expanded_url": "https://x.com/ratossaofofos/status/2097843456253284520/photo/1",
+              "media_key": "3_2097843430298906625",
+              "start": 25,
+              "url": "https://t.co/GRpPDOhs1p"
+            },
+            {
+              "display_url": "pic.x.com/GRpPDOhs1p",
+              "end": 48,
+              "expanded_url": "https://x.com/ratossaofofos/status/2097843456253284520/photo/1",
+              "media_key": "3_2097843442965467140",
+              "start": 25,
+              "url": "https://t.co/GRpPDOhs1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097843456253284520",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097843430298906625"
+          },
+          {
+            "media_key": "3_2097843442965467140"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 993,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 #水上由岐 #SubaHibi https://t.co/GRpPDOhs1p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//男孩♂叫我小雨就好了//互关和交朋友私信我//同好可直接互关//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n讨厌要求我更新色情内容以及找我线下见面",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2097879907133243816",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2097345560210719149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097186109759635457/2rPy9ZXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 93,
+          "like_count": 2969,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-31T17:49:11.000Z",
+        "description": "the girl who is the world itself. PT•BR/ENG",
+        "id": "1112411531944304642",
+        "is_identity_verified": false,
+        "location": "幸福に生きよ！🌻",
+        "most_recent_tweet_id": "2097846987726942709",
+        "name": "yuki",
+        "pinned_tweet_id": "2085493473738731993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112411531944304642/1786194447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950600364593446912/UGtkfKUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3289,
+          "following_count": 882,
+          "like_count": 39440,
+          "listed_count": 6,
+          "media_count": 146,
+          "tweet_count": 17661
+        },
+        "url": "",
+        "username": "ratossaofofos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

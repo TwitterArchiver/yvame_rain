@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2096448105864659173",
+    "created_at": "2026-09-06T04:27:26.000Z",
+    "display_text_range": [
+      15,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096455208943665383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942271268931395584",
+          "start": 0,
+          "username": "jiuyinanshang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096455208943665383",
+    "in_reply_to_user_id": "1942271268931395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096452603605663902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyinanshang 我这个是日抛日常的，cos那种可能有事，我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2096448105864659173",
+        "created_at": "2026-09-06T04:27:26.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096455208943665383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942271268931395584",
+              "start": 0,
+              "username": "jiuyinanshang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096455208943665383",
+        "in_reply_to_user_id": "1942271268931395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096452603605663902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyinanshang 我这个是日抛日常的，cos那种可能有事，我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942271268931395584",
+        "conversation_id": "2096448105864659173",
+        "created_at": "2026-09-06T04:17:05.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096452603605663902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096452603605663902",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096448105864659173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 美瞳一晚上不摘下来会有啥大问题吗？严重吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2096455208943665383",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 93,
+          "like_count": 2556,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T17:15:48.000Z",
+        "description": "明日方舟，蔚蓝档案玩家",
+        "id": "1942271268931395584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096452603605663902",
+        "name": "旧忆南殇",
+        "pinned_tweet_id": "2094539230508720261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942271268931395584/1780922410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942276430760734721/G-ZtavgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 81,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "jiuyinanshang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

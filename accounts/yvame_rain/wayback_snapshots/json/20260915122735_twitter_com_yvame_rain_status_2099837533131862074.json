@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099837391657930752",
+        "3_2099837391662161920"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2099837533131862074",
+    "created_at": "2026-09-15T12:27:35.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099837533131862074"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "subahibi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SkoCKnv0WK",
+          "end": 56,
+          "expanded_url": "https://x.com/yvame_rain/status/2099837533131862074/photo/1",
+          "media_key": "3_2099837391657930752",
+          "start": 33,
+          "url": "https://t.co/SkoCKnv0WK"
+        },
+        {
+          "display_url": "pic.x.com/SkoCKnv0WK",
+          "end": 56,
+          "expanded_url": "https://x.com/yvame_rain/status/2099837533131862074/photo/1",
+          "media_key": "3_2099837391662161920",
+          "start": 33,
+          "url": "https://t.co/SkoCKnv0WK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099837533131862074",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2099837391657930752"
+      },
+      {
+        "media_key": "3_2099837391662161920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Mamiya Takuji\n#素晴らしき日々 #subahibi https://t.co/SkoCKnv0WK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_2099837391657930752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQe-3fakAAqXZx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 600,
+        "media_key": "3_2099837391662161920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQe-3gbIAADIRN.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099837391657930752",
+            "3_2099837391662161920"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2099837533131862074",
+        "created_at": "2026-09-15T12:27:35.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099837533131862074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "subahibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkoCKnv0WK",
+              "end": 56,
+              "expanded_url": "https://x.com/yvame_rain/status/2099837533131862074/photo/1",
+              "media_key": "3_2099837391657930752",
+              "start": 33,
+              "url": "https://t.co/SkoCKnv0WK"
+            },
+            {
+              "display_url": "pic.x.com/SkoCKnv0WK",
+              "end": 56,
+              "expanded_url": "https://x.com/yvame_rain/status/2099837533131862074/photo/1",
+              "media_key": "3_2099837391662161920",
+              "start": 33,
+              "url": "https://t.co/SkoCKnv0WK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099837533131862074",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2099837391657930752"
+          },
+          {
+            "media_key": "3_2099837391662161920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mamiya Takuji\n#素晴らしき日々 #subahibi https://t.co/SkoCKnv0WK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2099837533131862074",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 93,
+          "like_count": 3250,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

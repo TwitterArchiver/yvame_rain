@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2094697768719683929",
+    "created_at": "2026-09-02T06:28:40.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095036164659187908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066129303562305536",
+          "start": 0,
+          "username": "Mekasinnthann"
+        },
+        {
+          "end": 25,
+          "id": "1372922377512833031",
+          "start": 15,
+          "username": "Alsharway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095036164659187908",
+    "in_reply_to_user_id": "2066129303562305536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095019743384318288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mekasinnthann @Alsharway 一模一样😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2095019736614735874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMBWb5akAIqyjC.jpg",
+        "width": 2198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094697768719683929",
+        "created_at": "2026-09-02T06:28:40.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095036164659187908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066129303562305536",
+              "start": 0,
+              "username": "Mekasinnthann"
+            },
+            {
+              "end": 25,
+              "id": "1372922377512833031",
+              "start": 15,
+              "username": "Alsharway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095036164659187908",
+        "in_reply_to_user_id": "2066129303562305536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095019743384318288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mekasinnthann @Alsharway 一模一样😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095019736614735874"
+          ]
+        },
+        "author_id": "2066129303562305536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2094697768719683929",
+        "created_at": "2026-09-02T05:23:25.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095019743384318288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1372922377512833031",
+              "start": 0,
+              "username": "Alsharway"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMOOlyMySm",
+              "end": 40,
+              "expanded_url": "https://x.com/Mekasinnthann/status/2095019743384318288/photo/1",
+              "media_key": "3_2095019736614735874",
+              "start": 17,
+              "url": "https://t.co/QMOOlyMySm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095019743384318288",
+        "in_reply_to_user_id": "1372922377512833031",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095019736614735874"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9537,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094697768719683929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alsharway ペルソナ？ https://t.co/QMOOlyMySm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095036164659187908",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 112,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T12:20:03.000Z",
+        "description": "いろんなゲームとか面白い画像とかいろいろやってます",
+        "id": "2066129303562305536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095027342871855317",
+        "name": "ぼくです",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066133980211281920/8K-jfcIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 73,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Mekasinnthann",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-19T14:46:44.000Z",
+        "description": "﴿رَبِّ اشْرَحْ لِي صَدْرِي﴾",
+        "id": "1372922377512833031",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095028952226013596",
+        "name": "راكان",
+        "pinned_tweet_id": "1714990447049777231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372922377512833031/1772247300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029190051121201152/VzEfsLIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419210,
+          "following_count": 8,
+          "like_count": 3611,
+          "listed_count": 360,
+          "media_count": 2677,
+          "tweet_count": 5964
+        },
+        "url": "",
+        "username": "Alsharway",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

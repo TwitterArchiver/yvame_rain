@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2095840755797614605",
+    "created_at": "2026-09-04T13:36:10.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095868527513412087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567903529943339009",
+          "start": 0,
+          "username": "_gray_dust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095868527513412087",
+    "in_reply_to_user_id": "1567903529943339009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095840755797614605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gray_dust_ 你别说还真有点像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2095840747631288321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXsDkRaIAEWL3J.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2095840755797614605",
+        "created_at": "2026-09-04T13:36:10.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095868527513412087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567903529943339009",
+              "start": 0,
+              "username": "_gray_dust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095868527513412087",
+        "in_reply_to_user_id": "1567903529943339009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095840755797614605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gray_dust_ 你别说还真有点像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095840747631288321"
+          ]
+        },
+        "author_id": "1567903529943339009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095840755797614605",
+        "created_at": "2026-09-04T11:45:49.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095840755797614605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1p4SvA1m7",
+              "end": 62,
+              "expanded_url": "https://x.com/_gray_dust_/status/2095840755797614605/photo/1",
+              "media_key": "3_2095840747631288321",
+              "start": 39,
+              "url": "https://t.co/X1p4SvA1m7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095840755797614605",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095840747631288321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个男服务生拿着假鸡吧的游戏在哪下载？\n（虽然我根本不玩但是我真的绷不住了） https://t.co/X1p4SvA1m7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095868527513412087",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 92,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）可爱男孩子请和我互fo🤤🤤🤤",
+        "id": "1567903529943339009",
+        "is_identity_verified": false,
+        "location": "南极洲迦勒底",
+        "most_recent_tweet_id": "2095863264756592819",
+        "name": "Dust",
+        "pinned_tweet_id": "2073396009158283636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567903529943339009/1735826394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073769169997180928/POzDFuHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 385,
+          "like_count": 46172,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 16756
+        },
+        "url": "",
+        "username": "_gray_dust_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

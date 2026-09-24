@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2100161818551595349",
+    "created_at": "2026-09-17T18:20:52.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T19:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100651214946103766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1763159799473356800",
+          "start": 0,
+          "username": "hddtethan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100651214946103766",
+    "in_reply_to_user_id": "1763159799473356800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100161818551595349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hddtethan 😰😰😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19096,
+        "height": 1280,
+        "media_key": "13_2100161770560397312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100161770560397312/img/NI73cGaHjyz2D5D3.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100161770560397312/vid/avc1/320x690/YLPJhTOsAX2g2NW3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100161770560397312/vid/avc1/480x1036/dVx_FOSgoonnBvE3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100161770560397312/vid/avc1/592x1280/le83-Z8kQuwFcBBZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100161770560397312/pl/reAvnBCrBMfzdwqr.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2100161818551595349",
+        "created_at": "2026-09-17T18:20:52.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T19:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100651214946103766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1763159799473356800",
+              "start": 0,
+              "username": "hddtethan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100651214946103766",
+        "in_reply_to_user_id": "1763159799473356800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100161818551595349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hddtethan 😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100161770560397312"
+          ]
+        },
+        "author_id": "1763159799473356800",
+        "conversation_id": "2100161818551595349",
+        "created_at": "2026-09-16T09:56:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100161818551595349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfuvqlyrWB",
+              "end": 23,
+              "expanded_url": "https://x.com/hddtethan/status/2100161818551595349/video/1",
+              "media_key": "13_2100161770560397312",
+              "start": 0,
+              "url": "https://t.co/rfuvqlyrWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100161818551595349",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100161770560397312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rfuvqlyrWB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2100651214946103766",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 93,
+          "like_count": 3433,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-29T11:10:41.000Z",
+        "description": "i love soma ria",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stats.fm/endsky",
+                "end": 23,
+                "expanded_url": "http://stats.fm/endsky",
+                "start": 0,
+                "url": "https://t.co/9rCboxtyfs"
+              }
+            ]
+          }
+        },
+        "id": "1763159799473356800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100577604214632625",
+        "name": "ethan",
+        "pinned_tweet_id": "2100217687922389478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763159799473356800/1787369062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100468745189851136/3BNbbhHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 75,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/9rCboxtyfs",
+        "username": "hddtethan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

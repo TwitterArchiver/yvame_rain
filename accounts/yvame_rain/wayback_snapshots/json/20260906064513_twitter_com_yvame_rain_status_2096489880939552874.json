@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2096448105864659173",
+    "created_at": "2026-09-06T06:45:13.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096489880939552874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567903529943339009",
+          "start": 0,
+          "username": "_gray_dust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096489880939552874",
+    "in_reply_to_user_id": "1567903529943339009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096489421478461892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gray_dust_ 还好我带的日抛，然后比cos的那种美瞳片薄一些😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2096448105864659173",
+        "created_at": "2026-09-06T06:45:13.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096489880939552874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567903529943339009",
+              "start": 0,
+              "username": "_gray_dust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096489880939552874",
+        "in_reply_to_user_id": "1567903529943339009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096489421478461892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gray_dust_ 还好我带的日抛，然后比cos的那种美瞳片薄一些😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567903529943339009",
+        "conversation_id": "2096448105864659173",
+        "created_at": "2026-09-06T06:43:23.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096489421478461892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096489421478461892",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096448105864659173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 妈呀，眼睛没发炎吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2096489880939552874",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 93,
+          "like_count": 2566,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）可爱男孩子请和我互fo🤤🤤🤤",
+        "id": "1567903529943339009",
+        "is_identity_verified": false,
+        "location": "南极洲迦勒底",
+        "most_recent_tweet_id": "2096489421478461892",
+        "name": "Dust",
+        "pinned_tweet_id": "2073396009158283636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567903529943339009/1735826394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073769169997180928/POzDFuHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 387,
+          "like_count": 46364,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 16841
+        },
+        "url": "",
+        "username": "_gray_dust_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

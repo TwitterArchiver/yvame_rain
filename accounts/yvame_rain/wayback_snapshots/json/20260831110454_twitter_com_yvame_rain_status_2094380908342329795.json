@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094083630503243776"
+      ],
+      "media_source_tweet_id": [
+        "2094083726062035275"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2094380908342329795",
+    "created_at": "2026-08-31T11:04:54.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094380908342329795"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 17,
+          "tag": "serialexperimentslain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2071219648067153922",
+          "start": 3,
+          "username": "ninjakimbap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/npmzB2kvd3",
+          "end": 63,
+          "expanded_url": "https://x.com/ninjakimbap/status/2094083726062035275/photo/1",
+          "media_key": "3_2094083630503243776",
+          "start": 40,
+          "url": "https://t.co/npmzB2kvd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094380908342329795",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094083630503243776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094083726062035275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninjakimbap: #serialexperimentslain https://t.co/npmzB2kvd3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2094083630503243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-t944bMAA4ggI.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094083630503243776"
+          ],
+          "media_source_tweet_id": [
+            "2094083726062035275"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094380908342329795",
+        "created_at": "2026-08-31T11:04:54.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094380908342329795"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 17,
+              "tag": "serialexperimentslain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2071219648067153922",
+              "start": 3,
+              "username": "ninjakimbap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npmzB2kvd3",
+              "end": 63,
+              "expanded_url": "https://x.com/ninjakimbap/status/2094083726062035275/photo/1",
+              "media_key": "3_2094083630503243776",
+              "start": 40,
+              "url": "https://t.co/npmzB2kvd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094380908342329795",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094083630503243776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094083726062035275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninjakimbap: #serialexperimentslain https://t.co/npmzB2kvd3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094083630503243776"
+          ]
+        },
+        "author_id": "2071219648067153922",
+        "conversation_id": "2094083726062035275",
+        "created_at": "2026-08-30T15:24:01.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094083726062035275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "serialexperimentslain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npmzB2kvd3",
+              "end": 46,
+              "expanded_url": "https://x.com/ninjakimbap/status/2094083726062035275/photo/1",
+              "media_key": "3_2094083630503243776",
+              "start": 23,
+              "url": "https://t.co/npmzB2kvd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094083726062035275",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094083630503243776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1396,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#serialexperimentslain https://t.co/npmzB2kvd3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2094380908342329795",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 121,
+          "like_count": 2161,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:10:50.000Z",
+        "description": "⚠",
+        "id": "2071219648067153922",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094349836984500382",
+        "name": "ninkim",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081303318274682880/J9wR6UIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 56,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "ninjakimbap",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

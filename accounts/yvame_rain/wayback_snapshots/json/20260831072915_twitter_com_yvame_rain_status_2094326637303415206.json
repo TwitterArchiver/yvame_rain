@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2094324335632863300",
+    "created_at": "2026-08-31T07:29:15.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094326637303415206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094326637303415206",
+    "in_reply_to_user_id": "2063187473405227008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094324335632863300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那些说我应该有男孩子样子，把我当异类的人，甚至歧视辱骂我的人，我是真希望你们可以每天遇到一个可以随便辱骂打你16年的人，你报警还是做什么？都没法去制止，你没法还手被打16年，我真希望你们都过我一样的日子体验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094324335632863300",
+        "created_at": "2026-08-31T07:29:15.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094326637303415206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094326637303415206",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094324335632863300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些说我应该有男孩子样子，把我当异类的人，甚至歧视辱骂我的人，我是真希望你们可以每天遇到一个可以随便辱骂打你16年的人，你报警还是做什么？都没法去制止，你没法还手被打16年，我真希望你们都过我一样的日子体验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2094324335632863300",
+        "created_at": "2026-08-31T07:20:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094324335632863300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094324335632863300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么道德绑架我，为什么一定要逼我，为什么，为什么要这样，我宁愿不出生在这个世界，为什么这样对我，为了我好全是假的，父母从小到大做的那些事根本就是自私，我为什么成现在这个样子也是怪你们，没人爱我，没人关心我，父母一直说这都是关心爱我就是打骂语言暴力各种攻击，只是想让我有所成就，跟你们养老跟你们有面子，然后还要有个后代，你们真是一些自私的人，你们都是一些自私的人，你们所有人都是我认识的所有人，你们都是这样，我讨厌你们"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么道德绑架我，为什么一定要逼我，为什么，为什么要这样，我宁愿不出生在这个世界，为什么这样对我，为了我好全是假的，父母从小到大做的那些事根本就是自私，我为什么成现在这个样子也是怪你们，没人爱我，没人关心我，父母一直说这都是关心爱我就是打骂语言暴力各种攻击，只是想让我有所成就，跟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2094326637303415206",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 121,
+          "like_count": 2149,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

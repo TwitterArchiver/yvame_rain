@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2048443277372981633",
+    "created_at": "2026-09-04T04:42:29.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095734218286637252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "760853725275561984",
+          "start": 0,
+          "username": "quintonmcc199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095734218286637252",
+    "in_reply_to_user_id": "760853725275561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048443277372981633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quintonmcc199 呃，我更喜欢男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2048443277372981633",
+        "created_at": "2026-09-04T04:42:29.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095734218286637252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "760853725275561984",
+              "start": 0,
+              "username": "quintonmcc199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095734218286637252",
+        "in_reply_to_user_id": "760853725275561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048443277372981633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quintonmcc199 呃，我更喜欢男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760853725275561984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2048443277372981633",
+        "created_at": "2026-04-26T16:45:10.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048443277372981633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048443277372981633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11560,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自始至终，我都认为，小男娘不能去🈷️，不能找男朋友，同好之间也不能肛交。最好就只停留在女装，cosplay这个程度。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095734218286637252",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 92,
+          "like_count": 2326,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T15:03:58.000Z",
+        "description": "一只臭名昭著的joker  |  \n目前在苏州打螺丝 ︴\n尽可能给大家传递乐观向上的能量",
+        "id": "760853725275561984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095729218063900972",
+        "name": "茴亦澜",
+        "pinned_tweet_id": "2048443277372981633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760853725275561984/1786509401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087397842071728128/fC_3wl-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 4009,
+          "like_count": 25091,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 7235
+        },
+        "url": "",
+        "username": "quintonmcc199",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2099451999691678068",
+    "created_at": "2026-09-14T10:55:37.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T11:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099451999691678068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 56,
+          "id": "868831876315848705",
+          "start": 47,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "重度依赖测试",
+          "display_url": "idrlabs.com/cn/needy-girl-…",
+          "end": 43,
+          "expanded_url": "https://www.idrlabs.com/cn/needy-girl-overdose/55-85-55-65-85/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2099452000845156352/C2AA4ztX?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099452000845156352/C2AA4ztX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "重度依赖测试: 我在多个角色之间并列。",
+          "unwound_url": "https://www.idrlabs.com/cn/needy-girl-overdose/55-85-55-65-85/result.php",
+          "url": "https://t.co/xlFk8gH815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099451999691678068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重度依赖测试: 我在多个角色之间并列。 https://t.co/xlFk8gH815 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2099451999691678068",
+        "created_at": "2026-09-14T10:55:37.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099451999691678068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "868831876315848705",
+              "start": 47,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "重度依赖测试",
+              "display_url": "idrlabs.com/cn/needy-girl-…",
+              "end": 43,
+              "expanded_url": "https://www.idrlabs.com/cn/needy-girl-overdose/55-85-55-65-85/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2099452000845156352/C2AA4ztX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099452000845156352/C2AA4ztX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "重度依赖测试: 我在多个角色之间并列。",
+              "unwound_url": "https://www.idrlabs.com/cn/needy-girl-overdose/55-85-55-65-85/result.php",
+              "url": "https://t.co/xlFk8gH815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099451999691678068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重度依赖测试: 我在多个角色之间并列。 https://t.co/xlFk8gH815 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我//另一个我@kosame_yv\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kosame_yv"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2099451999691678068",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 93,
+          "like_count": 3239,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094798863043383718",
+        "name": "IDRlabs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868831876315848705/1519302772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9605,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 40,
+          "media_count": 29,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

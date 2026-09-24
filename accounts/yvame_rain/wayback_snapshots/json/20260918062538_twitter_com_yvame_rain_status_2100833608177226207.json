@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2100824612057804839",
+    "created_at": "2026-09-18T06:25:38.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100833608177226207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2100594036033851392",
+          "start": 0,
+          "username": "wakacukishxpe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100833608177226207",
+    "in_reply_to_user_id": "2100594036033851392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100831757708959814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakacukishxpe5 你爱好女，可是我是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2100824612057804839",
+        "created_at": "2026-09-18T06:25:38.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100833608177226207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2100594036033851392",
+              "start": 0,
+              "username": "wakacukishxpe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100833608177226207",
+        "in_reply_to_user_id": "2100594036033851392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100831757708959814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakacukishxpe5 你爱好女，可是我是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2100594036033851392",
+        "conversation_id": "2100824612057804839",
+        "created_at": "2026-09-18T06:18:17.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100831757708959814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100831757708959814",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100824612057804839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 我不恶心，我爱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2100833608177226207",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 93,
+          "like_count": 3465,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-17T14:35:31.000Z",
+        "description": "普通人類desu，喜歡日語德語意大利語。",
+        "id": "2100594036033851392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100833619061436661",
+        "name": "若月 🧂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100594036033851392/1789657348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100594622984847360/DSDpfvhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "wakacukishxpe5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

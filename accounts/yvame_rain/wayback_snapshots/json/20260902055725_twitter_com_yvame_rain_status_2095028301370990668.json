@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095028177068511232"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2095028301370990668",
+    "created_at": "2026-09-02T05:57:25.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095028301370990668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JpTNGGqbOe",
+          "end": 23,
+          "expanded_url": "https://x.com/yvame_rain/status/2095028301370990668/video/1",
+          "media_key": "13_2095028177068511232",
+          "start": 0,
+          "url": "https://t.co/JpTNGGqbOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095028301370990668",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095028177068511232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "https://t.co/JpTNGGqbOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6101,
+        "height": 1080,
+        "media_key": "13_2095028177068511232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095028177068511232/img/o4roV_UcxpybZRS9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095028177068511232/vid/avc1/480x270/VivGlIY4RyANhAnE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095028177068511232/vid/avc1/1280x720/YoQTsMV1UuTBTqed.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095028177068511232/vid/avc1/640x360/yAnJaVrKPyp9cLxZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095028177068511232/pl/bPeXEBUvb2yxC4NA.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095028177068511232/vid/avc1/1920x1080/dAoD-1PRSUTNN5_T.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095028177068511232"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2095028301370990668",
+        "created_at": "2026-09-02T05:57:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095028301370990668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpTNGGqbOe",
+              "end": 23,
+              "expanded_url": "https://x.com/yvame_rain/status/2095028301370990668/video/1",
+              "media_key": "13_2095028177068511232",
+              "start": 0,
+              "url": "https://t.co/JpTNGGqbOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095028301370990668",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095028177068511232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/JpTNGGqbOe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095028301370990668",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 112,
+          "like_count": 2235,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

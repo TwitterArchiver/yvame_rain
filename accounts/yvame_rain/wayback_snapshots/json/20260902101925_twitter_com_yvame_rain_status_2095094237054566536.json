@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2095073711858790901",
+    "created_at": "2026-09-02T10:19:25.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095094237054566536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095094237054566536",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095073711858790901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 我小时候觉得村民可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2095073711858790901",
+        "created_at": "2026-09-02T10:19:25.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095094237054566536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095094237054566536",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095073711858790901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 我小时候觉得村民可怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2095073711858790901",
+        "created_at": "2026-09-02T08:57:52.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095073711858790901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qmsurf_999/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/qmsurf_999/status/2094761782783160585",
+              "start": 35,
+              "url": "https://t.co/B1FCHeoox0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095073711858790901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094761782783160585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还炸矿洞….因为他们说炸矿洞，炸深一点会有宝石，我就开创造在那里轰 https://t.co/B1FCHeoox0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//如果想交朋友可以私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvame_rain",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvame_rain",
+                "start": 0,
+                "url": "https://t.co/jBOZNMgy69"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2095094237054566536",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2083011763247653236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1784251818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091732796150894592/AB8oB6jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 112,
+          "like_count": 2244,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/jBOZNMgy69",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "只是在和自己聊天",
+        "id": "1747146335323844609",
+        "is_identity_verified": false,
+        "location": "你心里❤️",
+        "most_recent_tweet_id": "2095077732065710363",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2066436022750294207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747146335323844609/1737022588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 345,
+          "like_count": 33297,
+          "listed_count": 10,
+          "media_count": 1839,
+          "tweet_count": 25255
+        },
+        "url": "",
+        "username": "aozn24428",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
