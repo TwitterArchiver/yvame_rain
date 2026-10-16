@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2108168433506426984",
+    "created_at": "2026-10-08T23:45:31.000Z",
+    "display_text_range": [
+      17,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T00:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108343060660654253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3668966956",
+          "start": 0,
+          "username": "poopchud88ffddh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108343060660654253",
+    "in_reply_to_user_id": "3668966956",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108340875679891935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poopchud88ffddh This game looks very strange....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2108168433506426984",
+        "created_at": "2026-10-08T23:45:31.000Z",
+        "display_text_range": [
+          17,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108343060660654253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3668966956",
+              "start": 0,
+              "username": "poopchud88ffddh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108343060660654253",
+        "in_reply_to_user_id": "3668966956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108340875679891935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poopchud88ffddh This game looks very strange....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3668966956",
+        "conversation_id": "2108168433506426984",
+        "created_at": "2026-10-08T23:36:50.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108340875679891935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108340875679891935",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108340696117907958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain sure do u wanna play poop spray obby"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n备用账号@kosame_yv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "kosame_yv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TtRvMgpu",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TtRvMgpu",
+                "start": 0,
+                "url": "https://t.co/biZygHtvcS"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2108343060660654253",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 97,
+          "like_count": 4823,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/biZygHtvcS",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-15T23:39:58.000Z",
+        "description": "deinstitutionalized hyperbolic diddygoy actively being monitored by New world kabbalistic globalists to suppress the old world poop agenda\n\npuni @gumpy_blumper",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "gumpy_blumper"
+              }
+            ]
+          }
+        },
+        "id": "3668966956",
+        "is_identity_verified": false,
+        "location": "distributed evenly",
+        "most_recent_tweet_id": "2108340875679891935",
+        "name": "poopchud88",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3668966956/1790298069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083625071738793984/u-wVGS-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 134,
+          "like_count": 259096,
+          "listed_count": 6,
+          "media_count": 1769,
+          "tweet_count": 10515
+        },
+        "url": "",
+        "username": "poopchud88ffddh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

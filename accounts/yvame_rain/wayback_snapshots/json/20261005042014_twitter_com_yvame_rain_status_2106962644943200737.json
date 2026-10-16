@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2106819222651514943",
+    "created_at": "2026-10-05T04:20:14.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106962644943200737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106962644943200737",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106869140057362861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 玥宝🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2106819222651514943",
+        "created_at": "2026-10-05T04:20:14.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106962644943200737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106962644943200737",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106869140057362861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 玥宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2106819222651514943",
+        "created_at": "2026-10-04T22:08:41.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T23:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106869140057362861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106869140057362861",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106819222651514943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 小雨宝宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2106962644943200737",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 94,
+          "like_count": 4412,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "只是在和自己聊天",
+        "id": "1747146335323844609",
+        "is_identity_verified": false,
+        "location": "你心里❤️",
+        "most_recent_tweet_id": "2106870321764848051",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2066436022750294207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747146335323844609/1737022588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 348,
+          "like_count": 33463,
+          "listed_count": 10,
+          "media_count": 1897,
+          "tweet_count": 25636
+        },
+        "url": "",
+        "username": "aozn24428",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

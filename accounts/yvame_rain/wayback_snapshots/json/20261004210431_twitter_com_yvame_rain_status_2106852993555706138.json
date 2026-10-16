@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2106753365308784830",
+    "created_at": "2026-10-04T21:04:31.000Z",
+    "display_text_range": [
+      23,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T22:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106852993555706138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112411531944304642",
+          "start": 0,
+          "username": "ratossaofofos"
+        },
+        {
+          "end": 22,
+          "id": "73876279",
+          "start": 15,
+          "username": "SCA_DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106852993555706138",
+    "in_reply_to_user_id": "1112411531944304642",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106753365308784830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratossaofofos @SCA_DI Your photos all look like Yuki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3459,
+        "media_key": "3_2106753355297013760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyxA7vXQAA-gr6.jpg",
+        "width": 2307
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2106753365308784830",
+        "created_at": "2026-10-04T21:04:31.000Z",
+        "display_text_range": [
+          23,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T22:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106852993555706138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112411531944304642",
+              "start": 0,
+              "username": "ratossaofofos"
+            },
+            {
+              "end": 22,
+              "id": "73876279",
+              "start": 15,
+              "username": "SCA_DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106852993555706138",
+        "in_reply_to_user_id": "1112411531944304642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106753365308784830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratossaofofos @SCA_DI Your photos all look like Yuki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106753355297013760"
+          ]
+        },
+        "author_id": "1112411531944304642",
+        "conversation_id": "2106753365308784830",
+        "created_at": "2026-10-04T14:28:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106753365308784830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "水上由岐"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "SubaHibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfP6qkXEJU",
+              "end": 64,
+              "expanded_url": "https://x.com/ratossaofofos/status/2106753365308784830/photo/1",
+              "media_key": "3_2106753355297013760",
+              "start": 41,
+              "url": "https://t.co/MfP6qkXEJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106753365308784830",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2106753355297013760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 5072,
+          "like_count": 666,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "proibido fumar \n#素晴らしき日々 #水上由岐 #SubaHibi https://t.co/MfP6qkXEJU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2106852993555706138",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 94,
+          "like_count": 4395,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-31T17:49:11.000Z",
+        "description": "the girl who is the world itself. PT•BR/ENG",
+        "id": "1112411531944304642",
+        "is_identity_verified": false,
+        "location": "幸福に生きよ！🌻",
+        "most_recent_tweet_id": "2106761754600493471",
+        "name": "yuki",
+        "pinned_tweet_id": "2085493473738731993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112411531944304642/1789334708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950600364593446912/UGtkfKUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 910,
+          "like_count": 39810,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 17723
+        },
+        "url": "",
+        "username": "ratossaofofos",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-13T12:48:05.000Z",
+        "description": "片腕に五本の指を持つ男。 満三歳で独学によって言語習得（日本語）。 思索https://t.co/T4C7MUpDGW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/scadithink",
+                "end": 59,
+                "expanded_url": "https://twitter.com/scadithink",
+                "start": 36,
+                "url": "https://t.co/T4C7MUpDGW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "keromakura.net",
+                "end": 23,
+                "expanded_url": "http://www.keromakura.net/",
+                "start": 0,
+                "url": "https://t.co/9p3c8DNBgD"
+              }
+            ]
+          }
+        },
+        "id": "73876279",
+        "is_identity_verified": false,
+        "location": "ケロQ　枕",
+        "most_recent_tweet_id": "2106803814947025349",
+        "name": "SCA自（すかぢ）",
+        "pinned_tweet_id": "1640806796746166272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73876279/1752937474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078927241724284928/ALhav1E5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96731,
+          "following_count": 1752,
+          "like_count": 87741,
+          "listed_count": 1226,
+          "media_count": 347,
+          "tweet_count": 58798
+        },
+        "url": "https://t.co/9p3c8DNBgD",
+        "username": "SCA_DI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

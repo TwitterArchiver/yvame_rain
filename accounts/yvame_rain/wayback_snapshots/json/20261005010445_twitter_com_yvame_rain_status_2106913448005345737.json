@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106850570573164545",
+        "3_2106850570564784129"
+      ],
+      "media_source_tweet_id": [
+        "2106850577619763546",
+        "2106850577619763546"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2106913448005345737",
+    "created_at": "2026-10-05T01:04:45.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T02:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106913448005345737"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "うみねこのなく頃に"
+        },
+        {
+          "end": 77,
+          "start": 69,
+          "tag": "umineko"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573483908762574872",
+          "start": 3,
+          "username": "lovelyteks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7zOSzoYDTm",
+          "end": 101,
+          "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+          "media_key": "3_2106850570573164545",
+          "start": 78,
+          "url": "https://t.co/7zOSzoYDTm"
+        },
+        {
+          "display_url": "pic.x.com/7zOSzoYDTm",
+          "end": 101,
+          "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+          "media_key": "3_2106850570564784129",
+          "start": 78,
+          "url": "https://t.co/7zOSzoYDTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106913448005345737",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106850570573164545"
+      },
+      {
+        "media_key": "3_2106850570564784129"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106850577619763546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyteks: October 4th, happy birthday Erika Furudo \n#うみねこのなく頃に #umineko https://t.co/7zOSzoYDTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106850570573164545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0Jbm3XsAEbmcs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106850570564784129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0Jbm1X0AEVmKB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106850570573164545",
+            "3_2106850570564784129"
+          ],
+          "media_source_tweet_id": [
+            "2106850577619763546",
+            "2106850577619763546"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2106913448005345737",
+        "created_at": "2026-10-05T01:04:45.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106913448005345737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "うみねこのなく頃に"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "umineko"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573483908762574872",
+              "start": 3,
+              "username": "lovelyteks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zOSzoYDTm",
+              "end": 101,
+              "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+              "media_key": "3_2106850570573164545",
+              "start": 78,
+              "url": "https://t.co/7zOSzoYDTm"
+            },
+            {
+              "display_url": "pic.x.com/7zOSzoYDTm",
+              "end": 101,
+              "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+              "media_key": "3_2106850570564784129",
+              "start": 78,
+              "url": "https://t.co/7zOSzoYDTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106913448005345737",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106850570573164545"
+          },
+          {
+            "media_key": "3_2106850570564784129"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106850577619763546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyteks: October 4th, happy birthday Erika Furudo \n#うみねこのなく頃に #umineko https://t.co/7zOSzoYDTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106850570573164545",
+            "3_2106850570564784129"
+          ]
+        },
+        "author_id": "1573483908762574872",
+        "conversation_id": "2106850577619763546",
+        "created_at": "2026-10-04T20:54:55.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T21:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106850577619763546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "うみねこのなく頃に"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "umineko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zOSzoYDTm",
+              "end": 85,
+              "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+              "media_key": "3_2106850570573164545",
+              "start": 62,
+              "url": "https://t.co/7zOSzoYDTm"
+            },
+            {
+              "display_url": "pic.x.com/7zOSzoYDTm",
+              "end": 85,
+              "expanded_url": "https://x.com/lovelyteks/status/2106850577619763546/photo/1",
+              "media_key": "3_2106850570564784129",
+              "start": 62,
+              "url": "https://t.co/7zOSzoYDTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106850577619763546",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106850570573164545"
+          },
+          {
+            "media_key": "3_2106850570564784129"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1586,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "October 4th, happy birthday Erika Furudo \n#うみねこのなく頃に #umineko https://t.co/7zOSzoYDTm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2106913448005345737",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 94,
+          "like_count": 4396,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T01:26:20.000Z",
+        "description": "🇸🇪\nhttps://t.co/YObym16L4U wl : https://t.co/yT3BaFGYw4 @nursewtchkomugi art @filosofem_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "nursewtchkomugi"
+              },
+              {
+                "end": 91,
+                "start": 77,
+                "username": "filosofem_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/loveryteks",
+                "end": 26,
+                "expanded_url": "https://ko-fi.com/loveryteks",
+                "start": 3,
+                "url": "https://t.co/YObym16L4U"
+              },
+              {
+                "display_url": "throne.com/loveryteks",
+                "end": 55,
+                "expanded_url": "https://throne.com/loveryteks",
+                "start": 32,
+                "url": "https://t.co/yT3BaFGYw4"
+              }
+            ]
+          }
+        },
+        "id": "1573483908762574872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106853344207688132",
+        "name": "Alicia🍀",
+        "pinned_tweet_id": "2098503309766074403",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573483908762574872/1767790663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103434020218429440/ddZCPwMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683,
+          "following_count": 1005,
+          "like_count": 35284,
+          "listed_count": 17,
+          "media_count": 386,
+          "tweet_count": 4131
+        },
+        "url": "",
+        "username": "lovelyteks",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

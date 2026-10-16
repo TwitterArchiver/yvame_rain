@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2101720091549225365",
+    "created_at": "2026-09-21T17:10:48.000Z",
+    "display_text_range": [
+      23,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T18:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102083132828885237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112411531944304642",
+          "start": 0,
+          "username": "ratossaofofos"
+        },
+        {
+          "end": 22,
+          "id": "88203232",
+          "start": 15,
+          "username": "UUYPro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102083132828885237",
+    "in_reply_to_user_id": "1112411531944304642",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101720091549225365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratossaofofos @UUYPro So beautiful, it looks like a photo of Yuki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1665,
+        "media_key": "3_2101720085119258624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrPSDLWUAAz7fP.jpg",
+        "width": 2496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2101720091549225365",
+        "created_at": "2026-09-21T17:10:48.000Z",
+        "display_text_range": [
+          23,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102083132828885237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112411531944304642",
+              "start": 0,
+              "username": "ratossaofofos"
+            },
+            {
+              "end": 22,
+              "id": "88203232",
+              "start": 15,
+              "username": "UUYPro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102083132828885237",
+        "in_reply_to_user_id": "1112411531944304642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101720091549225365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratossaofofos @UUYPro So beautiful, it looks like a photo of Yuki"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101720085119258624"
+          ]
+        },
+        "author_id": "1112411531944304642",
+        "conversation_id": "2101720091549225365",
+        "created_at": "2026-09-20T17:08:12.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101720091549225365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "水上由岐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGI9qaOoAm",
+              "end": 116,
+              "expanded_url": "https://x.com/ratossaofofos/status/2101720091549225365/photo/1",
+              "media_key": "3_2101720085119258624",
+              "start": 93,
+              "url": "https://t.co/pGI9qaOoAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101720091549225365",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2101720085119258624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 7920,
+          "like_count": 558,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "all a woman needs in life are cigarettes, a roof, and a frilly dress, right? \n#素晴らしき日々 #水上由岐 https://t.co/pGI9qaOoAm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2102083132828885237",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 95,
+          "like_count": 3567,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-31T17:49:11.000Z",
+        "description": "the girl who is the world itself. PT•BR/ENG",
+        "id": "1112411531944304642",
+        "is_identity_verified": false,
+        "location": "幸福に生きよ！🌻",
+        "most_recent_tweet_id": "2102034040488431765",
+        "name": "yuki",
+        "pinned_tweet_id": "2085493473738731993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112411531944304642/1789334708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950600364593446912/UGtkfKUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 898,
+          "like_count": 39588,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 17686
+        },
+        "url": "",
+        "username": "ratossaofofos",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-07T15:11:26.000Z",
+        "description": "絵を描いて写真撮ってドライブしてラーメン食べてる。 機械装置設計の仕事してる限界ヲタクお兄さん。 🚗：シビックFK7📷：PENTAX K-3 ご依頼、諸々のご相談はDMまで✉ ほしいもhttps://t.co/Ymz2IjHNeN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 115,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2KSRE78W4U5LK?ref_=wl_share",
+                "start": 92,
+                "url": "https://t.co/Ymz2IjHNeN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/417648",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/417648",
+                "start": 0,
+                "url": "https://t.co/8z4w5smQOV"
+              }
+            ]
+          }
+        },
+        "id": "88203232",
+        "is_identity_verified": false,
+        "location": "富山のスカートとニーソの隙間",
+        "most_recent_tweet_id": "2102082038652338664",
+        "name": "UUY@C108日曜日東３ヒ13b",
+        "pinned_tweet_id": "2087515056808534182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88203232/1696693541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953408524610064384/iD6EfmAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 6141,
+          "like_count": 319508,
+          "listed_count": 65,
+          "media_count": 5969,
+          "tweet_count": 115350
+        },
+        "url": "https://t.co/8z4w5smQOV",
+        "username": "UUYPro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

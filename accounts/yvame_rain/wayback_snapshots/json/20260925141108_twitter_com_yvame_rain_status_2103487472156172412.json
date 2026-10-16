@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2103434889135874051",
+    "created_at": "2026-09-25T14:11:08.000Z",
+    "display_text_range": [
+      7,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T15:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103487472156172412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1934980722089250816",
+          "start": 0,
+          "username": "CdZ70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103487472156172412",
+    "in_reply_to_user_id": "1934980722089250816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103485218258911298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CdZ70 ありがとう！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2103434889135874051",
+        "created_at": "2026-09-25T14:11:08.000Z",
+        "display_text_range": [
+          7,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103487472156172412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1934980722089250816",
+              "start": 0,
+              "username": "CdZ70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103487472156172412",
+        "in_reply_to_user_id": "1934980722089250816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103485218258911298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CdZ70 ありがとう！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934980722089250816",
+        "conversation_id": "2103434889135874051",
+        "created_at": "2026-09-25T14:02:11.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103485218258911298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103485218258911298",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103434889135874051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain 超级可爱🩷"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2103487472156172412",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 96,
+          "like_count": 3759,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:27:13.000Z",
+        "description": "過去にはえびてん狂いと名乗っていた、燃えと萌えを愛する男。 中学生です。無言フォロー失礼します。DMばっちこい！ ヘッダー→@Donpachi_1980 様\n@oEqK4uwOF162202 ←自主特撮垢です、興味ある人はぜひ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Donpachi_1980"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "oEqK4uwOF162202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6R0L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC6R0LRT16AXwVXy345qFkxg?si=NUnRWB9VudryYOlC",
+                "start": 0,
+                "url": "https://t.co/cLtqbz9aUZ"
+              }
+            ]
+          }
+        },
+        "id": "1934980722089250816",
+        "is_identity_verified": false,
+        "location": "愛知の田舎のあたり",
+        "most_recent_tweet_id": "2103486710512497088",
+        "name": "上田",
+        "pinned_tweet_id": "1991567254971118014",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934980722089250816/1789795230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958095387023261696/sNZwbpaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 540,
+          "like_count": 38137,
+          "listed_count": 1,
+          "media_count": 1541,
+          "tweet_count": 14137
+        },
+        "url": "https://t.co/cLtqbz9aUZ",
+        "username": "CdZ70",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

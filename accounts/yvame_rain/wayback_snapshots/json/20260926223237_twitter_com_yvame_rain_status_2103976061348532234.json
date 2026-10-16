@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103968039557361664"
+      ],
+      "media_source_tweet_id": [
+        "2103968047530975521"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      }
+    ],
+    "conversation_id": "2103976061348532234",
+    "created_at": "2026-09-26T22:32:37.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103976061348532234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 42,
+          "tag": "monogatari"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066251370714251264",
+          "start": 3,
+          "username": "angelrespawn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4pfXjozV1X",
+          "end": 77,
+          "expanded_url": "https://x.com/angelrespawn/status/2103968047530975521/photo/1",
+          "media_key": "3_2103968039557361664",
+          "start": 54,
+          "url": "https://t.co/4pfXjozV1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103976061348532234",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103968039557361664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103968047530975521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelrespawn: just eat the damn donut #monogatari https://t.co/4pfXjozV1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103968039557361664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTLLyOCXcAAa8tU.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103968039557361664"
+          ],
+          "media_source_tweet_id": [
+            "2103968047530975521"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2103976061348532234",
+        "created_at": "2026-09-26T22:32:37.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103976061348532234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "monogatari"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066251370714251264",
+              "start": 3,
+              "username": "angelrespawn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4pfXjozV1X",
+              "end": 77,
+              "expanded_url": "https://x.com/angelrespawn/status/2103968047530975521/photo/1",
+              "media_key": "3_2103968039557361664",
+              "start": 54,
+              "url": "https://t.co/4pfXjozV1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103976061348532234",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103968039557361664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103968047530975521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelrespawn: just eat the damn donut #monogatari https://t.co/4pfXjozV1X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103968039557361664"
+          ]
+        },
+        "author_id": "2066251370714251264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2103968047530975521",
+        "created_at": "2026-09-26T22:00:47.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103968047530975521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 24,
+              "tag": "monogatari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4pfXjozV1X",
+              "end": 59,
+              "expanded_url": "https://x.com/angelrespawn/status/2103968047530975521/photo/1",
+              "media_key": "3_2103968039557361664",
+              "start": 36,
+              "url": "https://t.co/4pfXjozV1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103968047530975521",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103968039557361664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 456,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "just eat the damn donut #monogatari https://t.co/4pfXjozV1X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//是外星人//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2103976061348532234",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 99,
+          "like_count": 3912,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T20:08:34.000Z",
+        "description": "tsundere service 🥞 147cm ♰ sfw only ! 📛 @systematiiclove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "systematiiclove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "utsugeangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://utsugeangel.straw.page",
+                "start": 0,
+                "url": "https://t.co/evuquMQzHE"
+              }
+            ]
+          }
+        },
+        "id": "2066251370714251264",
+        "is_identity_verified": false,
+        "location": "🏴󠁧󠁢󠁥󠁮󠁧󠁿+🇯🇵 🐈‍⬛",
+        "most_recent_tweet_id": "2103975396161343785",
+        "name": "hime",
+        "pinned_tweet_id": "2083363076217168370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066251370714251264/1788994708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093880187389661184/6rqJJTde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 167,
+          "like_count": 5007,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/evuquMQzHE",
+        "username": "angelrespawn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

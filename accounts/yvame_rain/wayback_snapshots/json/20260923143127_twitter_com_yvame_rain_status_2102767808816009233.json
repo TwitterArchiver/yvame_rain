@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2102762558767972711",
+    "created_at": "2026-09-23T14:31:27.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102767808816009233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966505502919270400",
+          "start": 0,
+          "username": "QiShuiBuXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102767808816009233",
+    "in_reply_to_user_id": "1966505502919270400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102767001655799873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@QiShuiBuXing 中国这个环境严重一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2102762558767972711",
+        "created_at": "2026-09-23T14:31:27.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102767808816009233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966505502919270400",
+              "start": 0,
+              "username": "QiShuiBuXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102767808816009233",
+        "in_reply_to_user_id": "1966505502919270400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102767001655799873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@QiShuiBuXing 中国这个环境严重一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966505502919270400",
+        "conversation_id": "2102762558767972711",
+        "created_at": "2026-09-23T14:28:15.000Z",
+        "display_text_range": [
+          12,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102767001655799873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102767001655799873",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102762558767972711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yvame_rain 有人的地方就会有纷争 纷争又会滋生仇恨与暴力 说白了还是因为大脑皮层没进化完全 人和人完全没有办法共情 又或者说这个社会在逼着人们不共情"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2102767808816009233",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 95,
+          "like_count": 3671,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-12T14:13:54.000Z",
+        "description": "遇到真爱的喜悦，失去至亲的痛苦，都是化学层面的问题。无非是内啡肽、荷尔蒙、多巴胺以及一系列激素的共同作用，本质上是一群化合物操弄着你的感受。",
+        "id": "1966505502919270400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102767385191280936",
+        "name": "百忧解",
+        "pinned_tweet_id": "2020841917156901347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966505502919270400/1773742473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987177220130119680/y9K2ZMnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 1743,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "QiShuiBuXing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

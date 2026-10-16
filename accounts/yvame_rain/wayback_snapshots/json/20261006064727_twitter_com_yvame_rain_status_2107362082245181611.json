@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2107360733482958900",
+    "created_at": "2026-10-06T06:47:27.000Z",
+    "display_text_range": [
+      7,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107362082245181611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1934980722089250816",
+          "start": 0,
+          "username": "CdZ70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107362082245181611",
+    "in_reply_to_user_id": "1934980722089250816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107360733482958900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CdZ70 頑張って"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2107360729036947456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7ZavPbAAALXOf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2107360733482958900",
+        "created_at": "2026-10-06T06:47:27.000Z",
+        "display_text_range": [
+          7,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107362082245181611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1934980722089250816",
+              "start": 0,
+              "username": "CdZ70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107362082245181611",
+        "in_reply_to_user_id": "1934980722089250816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107360733482958900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CdZ70 頑張って"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107360729036947456"
+          ]
+        },
+        "author_id": "1934980722089250816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2107360733482958900",
+        "created_at": "2026-10-06T06:42:06.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107360733482958900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEaRSelzOy",
+              "end": 84,
+              "expanded_url": "https://x.com/CdZ70/status/2107360733482958900/photo/1",
+              "media_key": "3_2107360729036947456",
+              "start": 61,
+              "url": "https://t.co/gEaRSelzOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107360733482958900",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107360729036947456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "くそーーーーー！！！！\n体育祭負けたぞーーー！\n悔しいぃぃぃぃぃぃ！！！！！\n文化祭で取り返すしかない、逆境に賭けるぜ！ https://t.co/gEaRSelzOy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n备用账号@kosame_yv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "kosame_yv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TtRvMgpu",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TtRvMgpu",
+                "start": 0,
+                "url": "https://t.co/biZygHtvcS"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2107362082245181611",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 94,
+          "like_count": 4501,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/biZygHtvcS",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:27:13.000Z",
+        "description": "中学生です。無言フォロー失礼します。DMばっちこい！ \n@oEqK4uwOF162202 ←自主特撮垢です、興味ある人はぜひ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "oEqK4uwOF162202"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6R0L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC6R0LRT16AXwVXy345qFkxg?si=NUnRWB9VudryYOlC",
+                "start": 0,
+                "url": "https://t.co/cLtqbz9aUZ"
+              }
+            ]
+          }
+        },
+        "id": "1934980722089250816",
+        "is_identity_verified": false,
+        "location": "愛知の田舎のあたり",
+        "most_recent_tweet_id": "2107360733482958900",
+        "name": "上田",
+        "pinned_tweet_id": "1991567254971118014",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934980722089250816/1790930687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958095387023261696/sNZwbpaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 565,
+          "like_count": 40633,
+          "listed_count": 1,
+          "media_count": 1578,
+          "tweet_count": 14641
+        },
+        "url": "https://t.co/cLtqbz9aUZ",
+        "username": "CdZ70",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2106995729155932351",
+    "created_at": "2026-10-06T06:03:36.000Z",
+    "display_text_range": [
+      16,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107351046809116695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1390640202226364421",
+          "start": 0,
+          "username": "kusakami_ha_bu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107351046809116695",
+    "in_reply_to_user_id": "1390640202226364421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106995729155932351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusakami_ha_bu 私もいつも何かでストレスを感じ、生きていくのが疲れると感じますが、自分の方では過ちを認識しています。しかし、彼らに悲しませたくないので、とても矛盾しています……。私はあまり人を慰めることができませんが、少しでも楽しくなる方法を考えて乗り越えてほしいです。...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2106995729155932351",
+        "created_at": "2026-10-06T06:03:36.000Z",
+        "display_text_range": [
+          16,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107351046809116695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1390640202226364421",
+              "start": 0,
+              "username": "kusakami_ha_bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107351046809116695",
+        "in_reply_to_user_id": "1390640202226364421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106995729155932351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusakami_ha_bu 私もいつも何かでストレスを感じ、生きていくのが疲れると感じますが、自分の方では過ちを認識しています。しかし、彼らに悲しませたくないので、とても矛盾しています……。私はあまり人を慰めることができませんが、少しでも楽しくなる方法を考えて乗り越えてほしいです。...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390640202226364421",
+        "conversation_id": "2106995729155932351",
+        "created_at": "2026-10-05T06:31:42.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106995729155932351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106995729155932351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "少し暗い話です\n\n今日、自殺を図りました\n理由はリアルの家族関係に心が耐えきれなく無くなったからです\n母親の前で、洗濯用洗剤を飲みました。\n朝五時すぎぐらいのことです。\n\n母親は泣き喚きながら、救急車を呼んでくれました。\nパニックになりながら、単身赴任の父親にも電話し、13時の面会時間に2人とも現れました\n\n正直、父親には会いたくなかったので、すこし辛かったです\n\nでも、私は世界に生きろと言われているんだと実感しました\n\n同時に、世界に対して、なぜこんな家庭環境に私を産んだのか、恨みも出来ました。\n\nでも、今生きて、退院して、家族3人で車に乗っています\n\n何故か開放感があります。\n\nそれでいいんだと思いました。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 2867580,
+          "like_count": 7534,
+          "quote_count": 181,
+          "reply_count": 279,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "少し暗い話です\n\n今日、自殺を図りました\n理由はリアルの家族関係に心が耐えきれなく無くなったからです\n母親の前で、洗濯用洗剤を飲みました。\n朝五時すぎぐらいのことです。\n\n母親は泣き喚きながら、救急車を呼んでくれました。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n备用账号@kosame_yv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "kosame_yv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TtRvMgpu",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TtRvMgpu",
+                "start": 0,
+                "url": "https://t.co/biZygHtvcS"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2107351046809116695",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 94,
+          "like_count": 4496,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/biZygHtvcS",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T12:10:42.000Z",
+        "description": "草神ハーブ\n紀元前9393年から生きてる草系の神\nピノキオピーの曲が好きです\nママ　おむ烈 @omu3retu 様\nパパ　ちなあなご @china_anago 様\n総合タグ→#草神ハーブ\n諸リンク（プロデュース含む）→https://t.co/bQCu4Mlh4I",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "草神ハーブ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "omu3retu"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "china_anago"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/kusakami_herb",
+                "end": 132,
+                "expanded_url": "https://lit.link/kusakami_herb",
+                "start": 109,
+                "url": "https://t.co/bQCu4Mlh4I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/120146123…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/120146123?rf=nvpc&rp=user_search&ra=main",
+                "start": 0,
+                "url": "https://t.co/Mxz9VC67oa"
+              }
+            ]
+          }
+        },
+        "id": "1390640202226364421",
+        "is_identity_verified": false,
+        "location": "バーチャル高槻市",
+        "most_recent_tweet_id": "2107174493957525552",
+        "name": "草神ハーブ@カス動画系Vtuber",
+        "pinned_tweet_id": "2106353445171257617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390640202226364421/1774803221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810272806137208832/wtsgXHgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 1016,
+          "like_count": 2208,
+          "listed_count": 19,
+          "media_count": 3713,
+          "tweet_count": 9162
+        },
+        "url": "https://t.co/Mxz9VC67oa",
+        "username": "kusakami_ha_bu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

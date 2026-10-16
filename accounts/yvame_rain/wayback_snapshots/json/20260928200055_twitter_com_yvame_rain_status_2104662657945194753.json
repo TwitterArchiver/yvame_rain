@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2104421091120996821",
+    "created_at": "2026-09-28T20:00:55.000Z",
+    "display_text_range": [
+      12,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104662657945194753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "859540476046725121",
+          "start": 0,
+          "username": "Cringyroll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104662657945194753",
+    "in_reply_to_user_id": "859540476046725121",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104652812449907165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cringyroll But I don't have a set of cosplay clothes like hers"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_2104652785803517952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTU6jsla4AA_dCr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTU6jsla4AA_dCr.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2104421091120996821",
+        "created_at": "2026-09-28T20:00:55.000Z",
+        "display_text_range": [
+          12,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104662657945194753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "859540476046725121",
+              "start": 0,
+              "username": "Cringyroll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104662657945194753",
+        "in_reply_to_user_id": "859540476046725121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104652812449907165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cringyroll But I don't have a set of cosplay clothes like hers"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2104652785803517952"
+          ]
+        },
+        "author_id": "859540476046725121",
+        "conversation_id": "2104421091120996821",
+        "created_at": "2026-09-28T19:21:47.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104652812449907165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8EtNiPHy2",
+              "end": 35,
+              "expanded_url": "https://x.com/Cringyroll/status/2104652812449907165/photo/1",
+              "media_key": "16_2104652785803517952",
+              "start": 12,
+              "url": "https://t.co/a8EtNiPHy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104652812449907165",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2104652785803517952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104421091120996821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain https://t.co/a8EtNiPHy2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//是外星人//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2104662657945194753",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 97,
+          "like_count": 4026,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-02T22:49:53.000Z",
+        "description": "✨ Welcome to the official account for Cringyroll✨ Bringing you the latest & greatest at the speed of cringe ~ !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/3jd4bjca",
+                "end": 23,
+                "expanded_url": "https://tinyurl.com/3jd4bjca",
+                "start": 0,
+                "url": "https://t.co/hI5Uqacx7I"
+              }
+            ]
+          }
+        },
+        "id": "859540476046725121",
+        "is_identity_verified": false,
+        "location": "Torontokyo, Japanada",
+        "most_recent_tweet_id": "2104652812449907165",
+        "name": "Cringyroll",
+        "pinned_tweet_id": "2102967390736916593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859540476046725121/1673670919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/859542061749547008/1-oZJbvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 867,
+          "like_count": 16622,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/hI5Uqacx7I",
+        "username": "Cringyroll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101967600934887424"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2101967685840163028",
+    "created_at": "2026-09-21T09:32:03.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101967685840163028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ji26eC0qXk",
+          "end": 44,
+          "expanded_url": "https://x.com/yvame_rain/status/2101967685840163028/video/1",
+          "media_key": "13_2101967600934887424",
+          "start": 21,
+          "url": "https://t.co/ji26eC0qXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101967685840163028",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101967600934887424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "“大海在悲鸣”\n（还有感觉我该剪头发了） https://t.co/ji26eC0qXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13210,
+        "height": 1920,
+        "media_key": "13_2101967600934887424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101967600934887424/img/TLz_GSd2RY5I3zDM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101967600934887424/vid/avc1/480x852/cbAx3pzvJx7YiqRd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101967600934887424/vid/avc1/1080x1920/bSKNcDO1oHH-LTVi.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101967600934887424/vid/avc1/320x568/91l3kXC87bHNEPjF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101967600934887424/pl/LIq6QQuWPzjhuo3z.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101967600934887424/vid/avc1/720x1280/zLWYPUavbSr0J1Ab.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101967600934887424"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2101967685840163028",
+        "created_at": "2026-09-21T09:32:03.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101967685840163028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ji26eC0qXk",
+              "end": 44,
+              "expanded_url": "https://x.com/yvame_rain/status/2101967685840163028/video/1",
+              "media_key": "13_2101967600934887424",
+              "start": 21,
+              "url": "https://t.co/ji26eC0qXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101967685840163028",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101967600934887424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "“大海在悲鸣”\n（还有感觉我该剪头发了） https://t.co/ji26eC0qXk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2101967685840163028",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 94,
+          "like_count": 3550,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

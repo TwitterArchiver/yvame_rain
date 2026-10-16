@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2105311126879666261",
+    "created_at": "2026-09-30T22:12:58.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T23:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105420669102289278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066214735578595328",
+          "start": 0,
+          "username": "Lovesickshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105420669102289278",
+    "in_reply_to_user_id": "2066214735578595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105311126879666261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovesickshi 我现在就想去死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2105311115022381056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HTeRTgCXMAAvR2z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HTeRTgCXMAAvR2z.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2105311126879666261",
+        "created_at": "2026-09-30T22:12:58.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T23:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105420669102289278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066214735578595328",
+              "start": 0,
+              "username": "Lovesickshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105420669102289278",
+        "in_reply_to_user_id": "2066214735578595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105311126879666261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovesickshi 我现在就想去死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2105311115022381056"
+          ]
+        },
+        "author_id": "2066214735578595328",
+        "conversation_id": "2105311126879666261",
+        "created_at": "2026-09-30T14:57:42.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105311126879666261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AywFjHFr0I",
+              "end": 303,
+              "expanded_url": "https://x.com/Lovesickshi/status/2105311126879666261/photo/1",
+              "media_key": "16_2105311115022381056",
+              "start": 280,
+              "url": "https://t.co/AywFjHFr0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105311126879666261",
+        "lang": "fi",
+        "media_metadata": [
+          {
+            "media_key": "16_2105311115022381056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1221,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS KYS https://t.co/AywFjHFr0I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我kosane就好了//是外星人//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2105420669102289278",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 93,
+          "like_count": 4170,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T17:43:53.000Z",
+        "description": "✚𓏼 They ノ Them ⸝⸝ Teen 𓏻 Jirai kei ੭ৎ\nᛝ ꒰ Sh ༝ Ed ꒱\nᛝ back up: @L0vesickpuppy_  𓏼 𓏵𓏵\nᛝ I love my boyfriend 𖹭 .ᐟ.ᐟ\n\n〃 持ち主の希望によって存在する人形 〃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "L0vesickpuppy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moecatchii.straw.page",
+                "end": 23,
+                "expanded_url": "https://moecatchii.straw.page",
+                "start": 0,
+                "url": "https://t.co/s3947w9EOj"
+              }
+            ]
+          }
+        },
+        "id": "2066214735578595328",
+        "is_identity_verified": false,
+        "location": "𑣲 𓏻 Puppy ノ Ugw: 40kg",
+        "most_recent_tweet_id": "2105403183199866957",
+        "name": "⸝⸝ 𑣲 Shion 𓏻 ꣑ৎ",
+        "pinned_tweet_id": "2102000000095903787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066214735578595328/1789997433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102022907861856256/RZuzfLLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 1689,
+          "like_count": 7001,
+          "listed_count": 16,
+          "media_count": 817,
+          "tweet_count": 5036
+        },
+        "url": "https://t.co/s3947w9EOj",
+        "username": "Lovesickshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

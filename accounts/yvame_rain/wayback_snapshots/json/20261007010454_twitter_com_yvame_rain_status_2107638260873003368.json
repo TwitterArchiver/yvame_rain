@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107542026858475520"
+      ],
+      "media_source_tweet_id": [
+        "2107542092616802439"
+      ]
+    },
+    "author_id": "2063187473405227008",
+    "conversation_id": "2107638260873003368",
+    "created_at": "2026-10-07T01:04:54.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T02:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107638260873003368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637626782118727680",
+          "start": 3,
+          "username": "theratssnest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjbIW8VccD",
+          "end": 50,
+          "expanded_url": "https://x.com/theratssnest/status/2107542092616802439/photo/1",
+          "media_key": "3_2107542026858475520",
+          "start": 27,
+          "url": "https://t.co/ZjbIW8VccD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107638260873003368",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107542026858475520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107542092616802439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theratssnest: 二人きりの天国へ https://t.co/ZjbIW8VccD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2107542026858475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9-TqQbMAA_V4B.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107542026858475520"
+          ],
+          "media_source_tweet_id": [
+            "2107542092616802439"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2107638260873003368",
+        "created_at": "2026-10-07T01:04:54.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T02:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107638260873003368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637626782118727680",
+              "start": 3,
+              "username": "theratssnest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjbIW8VccD",
+              "end": 50,
+              "expanded_url": "https://x.com/theratssnest/status/2107542092616802439/photo/1",
+              "media_key": "3_2107542026858475520",
+              "start": 27,
+              "url": "https://t.co/ZjbIW8VccD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107638260873003368",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107542026858475520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107542092616802439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theratssnest: 二人きりの天国へ https://t.co/ZjbIW8VccD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107542026858475520"
+          ]
+        },
+        "author_id": "1637626782118727680",
+        "conversation_id": "2107542092616802439",
+        "created_at": "2026-10-06T18:42:45.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107542092616802439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjbIW8VccD",
+              "end": 32,
+              "expanded_url": "https://x.com/theratssnest/status/2107542092616802439/photo/1",
+              "media_key": "3_2107542026858475520",
+              "start": 9,
+              "url": "https://t.co/ZjbIW8VccD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107542092616802439",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107542026858475520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1373,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "二人きりの天国へ https://t.co/ZjbIW8VccD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n备用账号@kosame_yv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "kosame_yv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TtRvMgpu",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TtRvMgpu",
+                "start": 0,
+                "url": "https://t.co/biZygHtvcS"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2107638260873003368",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 95,
+          "like_count": 4617,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/biZygHtvcS",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-20T01:27:12.000Z",
+        "description": "記録用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25640757",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/25640757",
+                "start": 0,
+                "url": "https://t.co/7Dt39fX4Kj"
+              }
+            ]
+          }
+        },
+        "id": "1637626782118727680",
+        "is_identity_verified": false,
+        "location": "Unauthorized repost prohibited",
+        "most_recent_tweet_id": "2107542092616802439",
+        "name": "4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637626782118727680/1759664408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946225566169829376/3pE6n15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 17,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/7Dt39fX4Kj",
+        "username": "theratssnest",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2106443623223214109",
+    "created_at": "2026-10-03T17:57:50.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106443623223214109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amiamihobbynew…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/amiamihobbynews/status/2106237808738250853",
+          "start": 5,
+          "url": "https://t.co/ima5rFHCyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106443623223214109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106237808738250853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁给我买 https://t.co/ima5rFHCyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2106236370855624705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTra0enbgAE-ZwF.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2106236370780073984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTra0eVasAAK--9.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2106236370918449153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTra0e2aIAEdEmu.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2106236370884939776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTra0eua0AAsw8U.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2106443623223214109",
+        "created_at": "2026-10-03T17:57:50.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106443623223214109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amiamihobbynew…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/amiamihobbynews/status/2106237808738250853",
+              "start": 5,
+              "url": "https://t.co/ima5rFHCyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106443623223214109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106237808738250853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁给我买 https://t.co/ima5rFHCyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106236370855624705",
+            "3_2106236370780073984",
+            "3_2106236370918449153",
+            "3_2106236370884939776"
+          ]
+        },
+        "author_id": "2436875515",
+        "conversation_id": "2106237808738250853",
+        "created_at": "2026-10-03T04:20:00.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106237808738250853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "上海ワンフェス"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "WF上海2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpIuU5GSNB",
+              "end": 92,
+              "expanded_url": "https://x.com/amiamihobbynews/status/2106237808738250853/photo/1",
+              "media_key": "3_2106236370855624705",
+              "start": 69,
+              "url": "https://t.co/YpIuU5GSNB"
+            },
+            {
+              "display_url": "pic.x.com/YpIuU5GSNB",
+              "end": 92,
+              "expanded_url": "https://x.com/amiamihobbynews/status/2106237808738250853/photo/1",
+              "media_key": "3_2106236370780073984",
+              "start": 69,
+              "url": "https://t.co/YpIuU5GSNB"
+            },
+            {
+              "display_url": "pic.x.com/YpIuU5GSNB",
+              "end": 92,
+              "expanded_url": "https://x.com/amiamihobbynews/status/2106237808738250853/photo/1",
+              "media_key": "3_2106236370918449153",
+              "start": 69,
+              "url": "https://t.co/YpIuU5GSNB"
+            },
+            {
+              "display_url": "pic.x.com/YpIuU5GSNB",
+              "end": 92,
+              "expanded_url": "https://x.com/amiamihobbynews/status/2106237808738250853/photo/1",
+              "media_key": "3_2106236370884939776",
+              "start": 69,
+              "url": "https://t.co/YpIuU5GSNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106237808738250853",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106236370855624705"
+          },
+          {
+            "media_key": "3_2106236370780073984"
+          },
+          {
+            "media_key": "3_2106236370918449153"
+          },
+          {
+            "media_key": "3_2106236370884939776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 110640,
+          "like_count": 2973,
+          "quote_count": 213,
+          "reply_count": 10,
+          "retweet_count": 675
+        },
+        "reply_settings": "everyone",
+        "text": "＜速報＞\n#上海ワンフェス\n￣￣￣￣￣￣￣￣￣￣￣￣\nMAGI ARTS\n＿＿＿＿＿＿＿＿＿＿＿＿\n#素晴らしき日々\n#WF上海2026 https://t.co/YpIuU5GSNB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2106443623223214109",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 92,
+          "like_count": 4292,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1090081432209260544/KtQ54Mjd_bigger.jpg",
+          "description": "あみあみ",
+          "url": "https://twitter.com/amiami_figure",
+          "user_id": [
+            "70622589"
+          ]
+        },
+        "created_at": "2014-04-10T11:12:11.000Z",
+        "description": "#AmiAmi が運営するホビー情報中心サイト「あみあみニュース」のアカウントです。最新ニュース、フォトレビュー、イベント速報などお届けします！　\n\n推奨ハッシュタグ▶︎#あみにゅー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "AmiAmi"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "あみにゅー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.amiami.jp",
+                "end": 23,
+                "expanded_url": "https://news.amiami.jp/",
+                "start": 0,
+                "url": "https://t.co/K2OAKrv7Eo"
+              }
+            ]
+          }
+        },
+        "id": "2436875515",
+        "is_identity_verified": false,
+        "location": "東京都文京区",
+        "most_recent_tweet_id": "2106257669481009330",
+        "name": "あみあみニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2436875515/1631760220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438332726172520449/FGsAQDV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137199,
+          "following_count": 164,
+          "like_count": 105,
+          "listed_count": 1292,
+          "media_count": 32501,
+          "tweet_count": 42345
+        },
+        "url": "https://t.co/K2OAKrv7Eo",
+        "username": "amiamihobbynews",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

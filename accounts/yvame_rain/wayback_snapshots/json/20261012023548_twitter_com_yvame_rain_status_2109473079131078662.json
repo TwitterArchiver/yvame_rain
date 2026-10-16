@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2109473079131078662",
+    "created_at": "2026-10-12T02:35:48.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T03:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109473079131078662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvame_rain/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/yvame_rain/status/2108837295189323844",
+          "start": 27,
+          "url": "https://t.co/e3kmRDYegE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109473079131078662",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108837295189323844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Actually, I hate this..... https://t.co/e3kmRDYegE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2109473079131078662",
+        "created_at": "2026-10-12T02:35:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T03:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109473079131078662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvame_rain/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yvame_rain/status/2108837295189323844",
+              "start": 27,
+              "url": "https://t.co/e3kmRDYegE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109473079131078662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108837295189323844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Actually, I hate this..... https://t.co/e3kmRDYegE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2108837295189323844",
+        "created_at": "2026-10-10T08:29:26.000Z",
+        "display_text_range": [
+          0,
+          264
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108837295189323844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108837295189323844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 915,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Do I even need labels to get attention and followers? I'm pretty enough as it is, but... I think if I said I was a femboy I'd get way more attention. I mean, if I go that route, I'd be top-tier. But keeping my gender vague means I can never reach that top level..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西\n备用账号@kosame_yv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "kosame_yv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TtRvMgpu",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TtRvMgpu",
+                "start": 0,
+                "url": "https://t.co/biZygHtvcS"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2109473079131078662",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 99,
+          "like_count": 5019,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/biZygHtvcS",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

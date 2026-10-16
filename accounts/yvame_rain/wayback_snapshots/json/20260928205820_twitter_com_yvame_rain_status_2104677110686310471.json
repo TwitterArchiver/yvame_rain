@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063187473405227008",
+    "conversation_id": "2091639717255418156",
+    "created_at": "2026-09-28T20:58:20.000Z",
+    "display_text_range": [
+      13,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104677110686310471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987637281453400064",
+          "start": 0,
+          "username": "KerverosArt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104677110686310471",
+    "in_reply_to_user_id": "1987637281453400064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104675886163493110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KerverosArt Thank you.！！！Would you like to join my mercenary group"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2091639717255418156",
+        "created_at": "2026-09-28T20:58:20.000Z",
+        "display_text_range": [
+          13,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104677110686310471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987637281453400064",
+              "start": 0,
+              "username": "KerverosArt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104677110686310471",
+        "in_reply_to_user_id": "1987637281453400064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104675886163493110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KerverosArt Thank you.！！！Would you like to join my mercenary group"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987637281453400064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2091639717255418156",
+        "created_at": "2026-09-28T20:53:28.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104675886163493110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104675886163493110",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091639717255418156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain This Griffith cosplay is wonderful!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Edwards Air Force Base, California, United States",
+              "geo": {
+                "coordinates": [
+                  -117.92945,
+                  34.90449
+                ],
+                "type": "Point"
+              },
+              "locality": "Edwards Air Force Base",
+              "region": "California",
+              "sub_region": "Kern County"
+            }
+          ]
+        },
+        "description": "17//叫我kosane就好了//是外星人//互关和交朋友私信我//偶尔更新//如果想交朋友可以私信我\n我喜欢有礼貌的人 我喜欢可爱和酷的东西",
+        "id": "2063187473405227008",
+        "is_identity_verified": false,
+        "location": "空",
+        "most_recent_tweet_id": "2104677110686310471",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2098956925316808776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063187473405227008/1789145383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098617770300821504/xQejHP0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 98,
+          "like_count": 4035,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T21:44:02.000Z",
+        "description": "Main: @kerverosjim // https://t.co/oe030QJ8nF // Wip and finalized SFW/NSFW digital art. Madly in love with 🧬 Ame-chan / Kangel 🧬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "kerverosjim"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kerverossui",
+                "end": 45,
+                "expanded_url": "http://linktr.ee/Kerverossui",
+                "start": 22,
+                "url": "https://t.co/oe030QJ8nF"
+              }
+            ]
+          }
+        },
+        "id": "1987637281453400064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104675886163493110",
+        "name": "Kerverosart",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987637281453400064/1789877723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099230493623431178/Yxee2S2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 90,
+          "like_count": 1936,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "KerverosArt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
